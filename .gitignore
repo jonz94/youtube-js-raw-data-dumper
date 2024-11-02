@@ -180,4 +180,4 @@ dist
 
 # shell
 *.sh
-!example.sh
+!example*.sh
