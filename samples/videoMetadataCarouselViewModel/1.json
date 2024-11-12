@@ -1,0 +1,70 @@
+{
+  "videoMetadataCarouselViewModel": {
+    "carouselTitles": [
+      {
+        "carouselTitleViewModel": {
+          "title": "Live chat replay",
+          "previousButton": {
+            "buttonViewModel": {
+              "iconName": "CHEVRON_LEFT",
+              "accessibilityText": "Previous",
+              "style": "BUTTON_VIEW_MODEL_STYLE_MONO",
+              "trackingParams": "CNwBEPBbIhMI5eDD9JW7iQMViTh7Bx3eBRkg",
+              "type": "BUTTON_VIEW_MODEL_TYPE_TONAL",
+              "buttonSize": "BUTTON_VIEW_MODEL_SIZE_XSMALL",
+              "state": "BUTTON_VIEW_MODEL_STATE_ACTIVE"
+            }
+          },
+          "nextButton": {
+            "buttonViewModel": {
+              "iconName": "CHEVRON_RIGHT",
+              "accessibilityText": "Next",
+              "style": "BUTTON_VIEW_MODEL_STYLE_MONO",
+              "trackingParams": "CNsBEPBbIhMI5eDD9JW7iQMViTh7Bx3eBRkg",
+              "type": "BUTTON_VIEW_MODEL_TYPE_TONAL",
+              "buttonSize": "BUTTON_VIEW_MODEL_SIZE_XSMALL",
+              "state": "BUTTON_VIEW_MODEL_STATE_ACTIVE"
+            }
+          }
+        }
+      }
+    ],
+    "carouselItems": [
+      {
+        "carouselItemViewModel": {
+          "itemType": "VIDEO_METADATA_CAROUSEL_PAGINATION_TYPE_LIVE_CHAT_STATIC_TEXT",
+          "carouselItem": {
+            "textCarouselItemViewModel": {
+              "iconName": "MESSAGE_BUBBLE_OVERLAP",
+              "text": {
+                "content": "See what others said about this video while it was live."
+              },
+              "onTap": {
+                "innertubeCommand": {
+                  "clickTrackingParams": "CNkBEOuICSITCOXgw_SVu4kDFYk4ewcd3gUZIA==",
+                  "setLiveChatCollapsedStateAction": {}
+                }
+              },
+              "trackingParams": "CNkBEOuICSITCOXgw_SVu4kDFYk4ewcd3gUZIA==",
+              "button": {
+                "buttonViewModel": {
+                  "title": "Open panel",
+                  "onTap": {
+                    "innertubeCommand": {
+                      "clickTrackingParams": "CNoBEPBbIhMI5eDD9JW7iQMViTh7Bx3eBRkg",
+                      "setLiveChatCollapsedStateAction": {}
+                    }
+                  },
+                  "style": "BUTTON_VIEW_MODEL_STYLE_MONO",
+                  "trackingParams": "CNoBEPBbIhMI5eDD9JW7iQMViTh7Bx3eBRkg",
+                  "type": "BUTTON_VIEW_MODEL_TYPE_TONAL",
+                  "buttonSize": "BUTTON_VIEW_MODEL_SIZE_XSMALL"
+                }
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

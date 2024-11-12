@@ -1,0 +1,31 @@
+{
+  "clientSideToggleMenuItemRenderer": {
+    "defaultText": {
+      "runs": [
+        {
+          "text": "Timestamps"
+        }
+      ]
+    },
+    "defaultIcon": {
+      "iconType": "ACCESS_TIME"
+    },
+    "toggledText": {
+      "runs": [
+        {
+          "text": "Timestamps"
+        }
+      ]
+    },
+    "toggledIcon": {
+      "iconType": "ACCESS_TIME"
+    },
+    "menuItemIdentifier": "timestamp_toggle",
+    "command": {
+      "clickTrackingParams": "CAYQl98BIhMI7bKs8KG9iQMVWaPYBR2lDhra",
+      "toggleLiveChatTimestampsEndpoint": {
+        "hack": true
+      }
+    }
+  }
+}

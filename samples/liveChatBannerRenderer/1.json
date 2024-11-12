@@ -1,0 +1,92 @@
+{
+  "liveChatBannerRenderer": {
+    "contents": {
+      "liveChatBannerRedirectRenderer": {
+        "bannerMessage": {
+          "runs": [
+            {
+              "text": "Don't miss out! People are going to watch something from ",
+              "textColor": 4294967295,
+              "fontFace": "FONT_FACE_ROBOTO_REGULAR"
+            },
+            {
+              "text": "洛可洛斯特Loco Lost",
+              "bold": true,
+              "textColor": 4294967295,
+              "fontFace": "FONT_FACE_ROBOTO_REGULAR"
+            }
+          ]
+        },
+        "authorPhoto": {
+          "thumbnails": [
+            {
+              "url": "https://yt4.ggpht.com/ytc/AIdro_nIvJCRqMHTDI2MJ74WX4bOCARktdMS6uHDR4TDh7Y7LA=s32-c-k-c0x00ffffff-no-rj",
+              "width": 32,
+              "height": 32
+            },
+            {
+              "url": "https://yt4.ggpht.com/ytc/AIdro_nIvJCRqMHTDI2MJ74WX4bOCARktdMS6uHDR4TDh7Y7LA=s64-c-k-c0x00ffffff-no-rj",
+              "width": 64,
+              "height": 64
+            }
+          ]
+        },
+        "inlineActionButton": {
+          "buttonRenderer": {
+            "style": "STYLE_DEFAULT",
+            "size": "SIZE_DEFAULT",
+            "isDisabled": false,
+            "text": {
+              "runs": [
+                {
+                  "text": "Go now"
+                }
+              ]
+            },
+            "command": {
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/watch?v=U9xhA27lySE",
+                  "webPageType": "WEB_PAGE_TYPE_WATCH",
+                  "rootVe": 3832
+                }
+              },
+              "watchEndpoint": {
+                "videoId": "U9xhA27lySE"
+              }
+            }
+          }
+        },
+        "contextMenuButton": {
+          "buttonRenderer": {
+            "icon": {
+              "iconType": "MORE_VERT"
+            },
+            "accessibility": {
+              "label": "Chat actions"
+            },
+            "accessibilityData": {
+              "accessibilityData": {
+                "label": "Chat actions"
+              }
+            },
+            "command": {
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "ignoreNavigation": true
+                }
+              },
+              "liveChatItemContextMenuEndpoint": {
+                "params": "Q2g0S0hBb2FRMUJIY1RWTExXTXdiMnRFUm1KWVFXeEJhMlJGWlVGNWJsRWFLU29uQ2hoVlF6SmFWMmRuYjI0eFRrOVVNbFJIWVZaVlRYcFpOMEVTQzNSWlNUVXROR05uYmxWRklBRW9CRElFRWdJSUJqZ0JTQUJRSlElM0QlM0Q="
+              }
+            }
+          }
+        }
+      }
+    },
+    "actionId": "ChwKGkNQR3E1Sy1jMG9rREZiWEFsQWtkRWVBeW5R",
+    "targetId": "live-chat-banner",
+    "isStackable": true,
+    "bannerType": "LIVE_CHAT_BANNER_TYPE_CROSS_CHANNEL_REDIRECT"
+  }
+}
