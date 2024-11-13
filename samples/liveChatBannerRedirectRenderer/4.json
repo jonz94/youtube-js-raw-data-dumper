@@ -1,0 +1,89 @@
+{
+  "liveChatBannerRedirectRenderer": {
+    "bannerMessage": {
+      "runs": [
+        {
+          "text": "月下香幽芳YuFang",
+          "bold": true,
+          "textColor": 4294967295,
+          "fontFace": "FONT_FACE_ROBOTO_REGULAR"
+        },
+        {
+          "text": " and their viewers just joined. Say hello!",
+          "textColor": 4294967295,
+          "fontFace": "FONT_FACE_ROBOTO_REGULAR"
+        }
+      ]
+    },
+    "authorPhoto": {
+      "thumbnails": [
+        {
+          "url": "https://yt4.ggpht.com/tZEv92rwBhgCfVl6Ya6boBLS8soE7nzVA8xoH9VTqVr-BTonJn3CY8Geqdzk9vD2ESBQ6yC0TNk=s32-c-k-c0x00ffffff-no-rj",
+          "width": 32,
+          "height": 32
+        },
+        {
+          "url": "https://yt4.ggpht.com/tZEv92rwBhgCfVl6Ya6boBLS8soE7nzVA8xoH9VTqVr-BTonJn3CY8Geqdzk9vD2ESBQ6yC0TNk=s64-c-k-c0x00ffffff-no-rj",
+          "width": 64,
+          "height": 64
+        }
+      ]
+    },
+    "inlineActionButton": {
+      "buttonRenderer": {
+        "style": "STYLE_DEFAULT",
+        "size": "SIZE_DEFAULT",
+        "isDisabled": false,
+        "text": {
+          "runs": [
+            {
+              "text": "Learn more"
+            }
+          ]
+        },
+        "trackingParams": "CCUQ8FsiEwjtsqzwob2JAxVZo9gFHaUOGto=",
+        "command": {
+          "clickTrackingParams": "CCUQ8FsiEwjtsqzwob2JAxVZo9gFHaUOGto=",
+          "commandMetadata": {
+            "webCommandMetadata": {
+              "url": "https://support.google.com/youtube/answer/10359590?hl=en",
+              "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+              "rootVe": 83769
+            }
+          },
+          "urlEndpoint": {
+            "url": "https://support.google.com/youtube/answer/10359590?hl=en",
+            "target": "TARGET_NEW_WINDOW"
+          }
+        }
+      }
+    },
+    "contextMenuButton": {
+      "buttonRenderer": {
+        "icon": {
+          "iconType": "MORE_VERT"
+        },
+        "accessibility": {
+          "label": "Chat actions"
+        },
+        "trackingParams": "CCQQ8FsiEwjtsqzwob2JAxVZo9gFHaUOGto=",
+        "accessibilityData": {
+          "accessibilityData": {
+            "label": "Chat actions"
+          }
+        },
+        "command": {
+          "clickTrackingParams": "CCQQ8FsiEwjtsqzwob2JAxVZo9gFHaUOGto=",
+          "commandMetadata": {
+            "webCommandMetadata": {
+              "ignoreNavigation": true
+            }
+          },
+          "liveChatItemContextMenuEndpoint": {
+            "params": "Q2g0S0hBb2FRMDVwY0hkT1MyaDJXV3RFUmxKcVRUUjNZMlEzVjJNNGJGRWFLU29uQ2hoVlEzVlFTR3hOUldRd1kxSXRkSFpCV1ZCcVIxZFdkMUVTQzBvd1JEbEpOR2t4VTNsbklBRW9CRElFRWdJSUJqZ0JTQUJRSmclM0QlM0Q="
+          }
+        }
+      }
+    }
+  }
+}

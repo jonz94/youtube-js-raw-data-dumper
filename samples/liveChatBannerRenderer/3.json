@@ -1,0 +1,130 @@
+{
+  "liveChatBannerRenderer": {
+    "header": {
+      "liveChatBannerHeaderRenderer": {
+        "icon": {
+          "iconType": "KEEP"
+        },
+        "text": {
+          "runs": [
+            {
+              "text": "Pinned by "
+            },
+            {
+              "text": "庫洛姆•Kuromu"
+            }
+          ]
+        },
+        "contextMenuButton": {
+          "buttonRenderer": {
+            "icon": {
+              "iconType": "MORE_VERT"
+            },
+            "accessibility": {
+              "label": "Chat actions"
+            },
+            "trackingParams": "CBEQ8FsiEwiLifXn0LuJAxXpyEwCHSpgOac=",
+            "accessibilityData": {
+              "accessibilityData": {
+                "label": "Chat actions"
+              }
+            },
+            "command": {
+              "clickTrackingParams": "CBEQ8FsiEwiLifXn0LuJAxXpyEwCHSpgOac=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "ignoreNavigation": true
+                }
+              },
+              "liveChatItemContextMenuEndpoint": {
+                "params": "Q2g0S0hBb2FRMGxZU25BNVprdHNXV3RFUm1GaVdYZG5VV1JhZERodlUwRWFLU29uQ2hoVlF6SmFWMmRuYjI0eFRrOVVNbFJIWVZaVlRYcFpOMEVTQzBoRU9TMTFWRTgxZW05bklBRW9CRElhQ2hoVlF6SmFWMmRuYjI0eFRrOVVNbFJIWVZaVlRYcFpOMEU0QVVnQlVBRSUzRA=="
+              }
+            }
+          }
+        }
+      }
+    },
+    "contents": {
+      "liveChatTextMessageRenderer": {
+        "message": {
+          "runs": [
+            {
+              "text": "✦ 購買庫庫杯："
+            },
+            {
+              "text": "https://portaly.cc/dp.toys/pages/Kuro...",
+              "navigationEndpoint": {
+                "clickTrackingParams": "CAEQl98BIhMIi4n159C7iQMV6chMAh0qYDmn",
+                "commandMetadata": {
+                  "webCommandMetadata": {
+                    "url": "https://www.youtube.com/redirect?event=live_chat&redir_token=QUFFLUhqbmxoTE40TDNEUWFUVzJmdTBkMW5xZVFvTTRyQXxBQ3Jtc0trSzZSdFkzdm5XV0pCNkZIczFnSXY5YkN4Z2d6RHBWM3JMOEZVWWY4RlJaY3BMcjBkdWppYXl0Y1ZWcVBaZG9XeFM0MUNnRXlGTUFwNkgwb2x1TGFZMU1aVE40eXM3TVBGMFE0NWpqNXphZENtQnZDcw&q=https%3A%2F%2Fportaly.cc%2Fdp.toys%2Fpages%2FKuromuOno",
+                    "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                    "rootVe": 83769
+                  }
+                },
+                "urlEndpoint": {
+                  "url": "https://www.youtube.com/redirect?event=live_chat&redir_token=QUFFLUhqbmxoTE40TDNEUWFUVzJmdTBkMW5xZVFvTTRyQXxBQ3Jtc0trSzZSdFkzdm5XV0pCNkZIczFnSXY5YkN4Z2d6RHBWM3JMOEZVWWY4RlJaY3BMcjBkdWppYXl0Y1ZWcVBaZG9XeFM0MUNnRXlGTUFwNkgwb2x1TGFZMU1aVE40eXM3TVBGMFE0NWpqNXphZENtQnZDcw&q=https%3A%2F%2Fportaly.cc%2Fdp.toys%2Fpages%2FKuromuOno",
+                  "target": "TARGET_NEW_WINDOW",
+                  "nofollow": true
+                }
+              }
+            },
+            {
+              "text": " ✦ 折扣碼【KU100】全館滿$999現折$100！"
+            }
+          ]
+        },
+        "authorName": {
+          "simpleText": "庫洛姆•Kuromu"
+        },
+        "authorPhoto": {
+          "thumbnails": [
+            {
+              "url": "https://yt4.ggpht.com/lQaEUeJlLtgioCU0npPsaYOLzg2idrzG0XY_jn-fjPOySnv4nN94U0rCTt5shavBR9brK-e6Tg=s32-c-k-c0x00ffffff-no-rj",
+              "width": 32,
+              "height": 32
+            },
+            {
+              "url": "https://yt4.ggpht.com/lQaEUeJlLtgioCU0npPsaYOLzg2idrzG0XY_jn-fjPOySnv4nN94U0rCTt5shavBR9brK-e6Tg=s64-c-k-c0x00ffffff-no-rj",
+              "width": 64,
+              "height": 64
+            }
+          ]
+        },
+        "id": "ChwKGkNJWEpwOWZLbFlrREZhYll3Z1FkWnQ4b1NB",
+        "timestampUsec": "1729173880695633",
+        "authorBadges": [
+          {
+            "liveChatAuthorBadgeRenderer": {
+              "icon": {
+                "iconType": "OWNER"
+              },
+              "tooltip": "Owner",
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "Owner"
+                }
+              }
+            }
+          }
+        ],
+        "authorExternalChannelId": "UC2ZWggon1NOT2TGaVUMzY7A",
+        "timestampText": {
+          "simpleText": "2:23"
+        },
+        "trackingParams": "CAEQl98BIhMIi4n159C7iQMV6chMAh0qYDmn"
+      }
+    },
+    "actionId": "ChwKGkNQM2xxTm5LbFlrREZVYkx3Z1FkUTk4SjJR",
+    "viewerIsCreator": false,
+    "targetId": "live-chat-banner",
+    "isStackable": false,
+    "backgroundType": "LIVE_CHAT_BANNER_BACKGROUND_TYPE_STATIC",
+    "bannerProperties": {
+      "autoCollapseDelay": {
+        "seconds": "7"
+      }
+    },
+    "bannerType": "LIVE_CHAT_BANNER_TYPE_PINNED_MESSAGE"
+  }
+}
