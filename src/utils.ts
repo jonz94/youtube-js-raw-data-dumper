@@ -1,6 +1,6 @@
 import { dirname, resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
-import { Innertube, UniversalCache, YTNodes } from 'youtubei.js'
+import { Innertube, UniversalCache, YTNodes, type SessionOptions } from 'youtubei.js'
 
 export function getDirname() {
   return import.meta.dirname ?? dirname(fileURLToPath(import.meta.url))
@@ -10,7 +10,7 @@ export function getProjectRoot() {
   return dirname(getDirname())
 }
 
-export async function createInnertubeClient(config?: any) {
+export async function createInnertubeClient(config?: SessionOptions) {
   return await Innertube.create({
     cache: new UniversalCache(true, resolve(getDirname(), '..', '.cache')),
     ...config,
