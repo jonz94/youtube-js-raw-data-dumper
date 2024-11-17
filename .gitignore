@@ -178,6 +178,6 @@ dist
 *.jsonl
 *.log
 
-# shell
+# shell scripts
 *.sh
 !example*.sh
