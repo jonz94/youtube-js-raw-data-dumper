@@ -1,0 +1,83 @@
+{
+  "liveChatMembershipItemRenderer": {
+    "id": "ChwKGkNJZWUxNlNqMVBZQ0ZmOElyUVlkZjhVRzhn",
+    "timestampUsec": "1647765085456245",
+    "timestampText": {
+      "simpleText": "-30:09"
+    },
+    "authorExternalChannelId": "UCsdJqYo7golpSd_pcVFX64w",
+    "headerSubtext": {
+      "runs": [
+        {
+          "text": "Welcome to "
+        },
+        {
+          "text": "初ㄐㄐ貓草"
+        },
+        {
+          "text": "!"
+        }
+      ]
+    },
+    "authorName": {
+      "simpleText": "貝希茸 Beheron"
+    },
+    "authorPhoto": {
+      "thumbnails": [
+        {
+          "url": "https://yt4.ggpht.com/cb55K743FS36sqCuSN2C0Zfad1A-0sd6luHHG3_4VT-8lhCGIpXusya_wA6aXQKLbnZh3wbWuA=s32-c-k-c0x00ffffff-no-rj",
+          "width": 32,
+          "height": 32
+        },
+        {
+          "url": "https://yt4.ggpht.com/cb55K743FS36sqCuSN2C0Zfad1A-0sd6luHHG3_4VT-8lhCGIpXusya_wA6aXQKLbnZh3wbWuA=s64-c-k-c0x00ffffff-no-rj",
+          "width": 64,
+          "height": 64
+        }
+      ]
+    },
+    "authorBadges": [
+      {
+        "liveChatAuthorBadgeRenderer": {
+          "customThumbnail": {
+            "thumbnails": [
+              {
+                "url": "https://yt3.ggpht.com/1WTS9g9f9QSzeoJtUJDTpgPHQz62FdGNtlBzhEhSVBjxE57934O59cXiKzpQHWK0dfL_bp3m=s16-c-k",
+                "width": 16,
+                "height": 16
+              },
+              {
+                "url": "https://yt3.ggpht.com/1WTS9g9f9QSzeoJtUJDTpgPHQz62FdGNtlBzhEhSVBjxE57934O59cXiKzpQHWK0dfL_bp3m=s32-c-k",
+                "width": 32,
+                "height": 32
+              }
+            ]
+          },
+          "tooltip": "Member (1 month)",
+          "accessibility": {
+            "accessibilityData": {
+              "label": "Member (1 month)"
+            }
+          }
+        }
+      }
+    ],
+    "contextMenuEndpoint": {
+      "clickTrackingParams": "CBwQ4P0GIhMIzsu31pSziQMVDFsPAh0ovQrl",
+      "commandMetadata": {
+        "webCommandMetadata": {
+          "ignoreNavigation": true
+        }
+      },
+      "liveChatItemContextMenuEndpoint": {
+        "params": "Q2g0S0hBb2FRMGxsWlRFMlUyb3hVRmxEUm1ZNFNYSlJXV1JtT0ZWSE9HY2FLU29uQ2hoVlF6SmFWMmRuYjI0eFRrOVVNbFJIWVZaVlRYcFpOMEVTQzNCdUxUWnliMkpCVFRGM0lBRW9CRElhQ2hoVlEzTmtTbkZaYnpkbmIyeHdVMlJmY0dOV1JsZzJOSGM0QWtnQlVBUSUzRA=="
+      }
+    },
+    "contextMenuAccessibility": {
+      "accessibilityData": {
+        "label": "Chat actions"
+      }
+    },
+    "trackingParams": "CBwQ4P0GIhMIzsu31pSziQMVDFsPAh0ovQrl"
+  }
+}

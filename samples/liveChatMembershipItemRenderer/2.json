@@ -1,0 +1,144 @@
+{
+  "liveChatMembershipItemRenderer": {
+    "id": "Ci8KLUNPX2Q4NGl5dW9rREZYZVpDZ2tkQnlFVG9nLUxveU1lc0lELTM0NjExNTQ4Mw%3D%3D",
+    "timestampUsec": "1730577419545814",
+    "authorExternalChannelId": "UC_JDOWqY9ROv0GETxWYGFpw",
+    "headerPrimaryText": {
+      "runs": [
+        {
+          "text": "Member for "
+        },
+        {
+          "text": "8"
+        },
+        {
+          "text": " months"
+        }
+      ]
+    },
+    "headerSubtext": {
+      "simpleText": "魚肝油"
+    },
+    "message": {
+      "runs": [
+        {
+          "emoji": {
+            "emojiId": "UCG3hBfZxzLixJPZQ9QUP_Lw/27cjZoHnKNWo_9EPhPG7sAM",
+            "shortcuts": [":_robettaLeft:", ":robettaLeft:", ":_left:", ":left:"],
+            "searchTerms": ["_robettaLeft", "robettaLeft", "_left", "left"],
+            "image": {
+              "thumbnails": [
+                {
+                  "url": "https://yt3.ggpht.com/9U9HQ9TTBZyDYDKhJF_rkyXNdwrMd10bq0OSFKvW8JVdc3bqBXwIvHBDE2OGZRv3XSLRwAAvPw=w24-h24-c-k-nd",
+                  "width": 24,
+                  "height": 24
+                },
+                {
+                  "url": "https://yt3.ggpht.com/9U9HQ9TTBZyDYDKhJF_rkyXNdwrMd10bq0OSFKvW8JVdc3bqBXwIvHBDE2OGZRv3XSLRwAAvPw=w48-h48-c-k-nd",
+                  "width": 48,
+                  "height": 48
+                }
+              ],
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "robettaLeft"
+                }
+              }
+            },
+            "isCustomEmoji": true
+          }
+        },
+        {
+          "text": "妳是沙威瑪傳奇鬥魚"
+        },
+        {
+          "emoji": {
+            "emojiId": "UCG3hBfZxzLixJPZQ9QUP_Lw/27cjZuDnKNWo_9EPhPG7sAM",
+            "shortcuts": [":_robettaRight:", ":robettaRight:", ":_right:", ":right:"],
+            "searchTerms": ["_robettaRight", "robettaRight", "_right", "right"],
+            "image": {
+              "thumbnails": [
+                {
+                  "url": "https://yt3.ggpht.com/XhOFFD3WCV_jD0SChBSbQquFs24YcmTXXPnrM238v-Po6L5oi4QlcLhUFHQYTPqayVooHqSqiA=w24-h24-c-k-nd",
+                  "width": 24,
+                  "height": 24
+                },
+                {
+                  "url": "https://yt3.ggpht.com/XhOFFD3WCV_jD0SChBSbQquFs24YcmTXXPnrM238v-Po6L5oi4QlcLhUFHQYTPqayVooHqSqiA=w48-h48-c-k-nd",
+                  "width": 48,
+                  "height": 48
+                }
+              ],
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "robettaRight"
+                }
+              }
+            },
+            "isCustomEmoji": true
+          }
+        }
+      ]
+    },
+    "authorName": {
+      "simpleText": "傳奇牛肉三明治"
+    },
+    "authorPhoto": {
+      "thumbnails": [
+        {
+          "url": "https://yt4.ggpht.com/ytc/AIdro_kTDHhBBnKegxknkxSais_-ROIuhPi3t4Q_IRNhS_AUPA=s32-c-k-c0x00ffffff-no-rj",
+          "width": 32,
+          "height": 32
+        },
+        {
+          "url": "https://yt4.ggpht.com/ytc/AIdro_kTDHhBBnKegxknkxSais_-ROIuhPi3t4Q_IRNhS_AUPA=s64-c-k-c0x00ffffff-no-rj",
+          "width": 64,
+          "height": 64
+        }
+      ]
+    },
+    "authorBadges": [
+      {
+        "liveChatAuthorBadgeRenderer": {
+          "customThumbnail": {
+            "thumbnails": [
+              {
+                "url": "https://yt3.ggpht.com/k7ft05ilUs_cj8oZ_XT-QlNU1CvOVhLssJxpCRDdM7Kn2lbv4jPbqeCrg7_n-AzKE5sIYmkdIw=s16-c-k",
+                "width": 16,
+                "height": 16
+              },
+              {
+                "url": "https://yt3.ggpht.com/k7ft05ilUs_cj8oZ_XT-QlNU1CvOVhLssJxpCRDdM7Kn2lbv4jPbqeCrg7_n-AzKE5sIYmkdIw=s32-c-k",
+                "width": 32,
+                "height": 32
+              }
+            ]
+          },
+          "tooltip": "Member (6 months)",
+          "accessibility": {
+            "accessibilityData": {
+              "label": "Member (6 months)"
+            }
+          }
+        }
+      }
+    ],
+    "contextMenuEndpoint": {
+      "clickTrackingParams": "CCYQ4f0GIhMIkJSe2be-iQMV67hWAR2-IRkd",
+      "commandMetadata": {
+        "webCommandMetadata": {
+          "ignoreNavigation": true
+        }
+      },
+      "liveChatItemContextMenuEndpoint": {
+        "params": "Q2pFS0x3b3RRMDlmWkRnMGFYbDFiMnRFUmxobFdrTm5hMlJDZVVWVWIyY3RURzk1VFdWelNVUXRNelEyTVRFMU5EZ3pHaWtxSndvWVZVTkhNMmhDWmxwNGVreHBlRXBRV2xFNVVWVlFYMHgzRWd0d1ZVSkpOVTFGVWtGMWN5QUJLQVF5R2dvWVZVTmZTa1JQVjNGWk9WSlBkakJIUlZSNFYxbEhSbkIzT0FKSUFGQVg="
+      }
+    },
+    "contextMenuAccessibility": {
+      "accessibilityData": {
+        "label": "Chat actions"
+      }
+    },
+    "trackingParams": "CCYQ4f0GIhMIkJSe2be-iQMV67hWAR2-IRkd"
+  }
+}
