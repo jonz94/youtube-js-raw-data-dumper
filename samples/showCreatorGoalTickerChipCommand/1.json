@@ -1,0 +1,197 @@
+{
+  "clickTrackingParams": "CAIQl98BIhMIkJSe2be-iQMV67hWAR2-IRkd",
+  "showCreatorGoalTickerChipCommand": {
+    "creatorGoalTickerChip": {
+      "liveChatTickerCreatorGoalViewModel": {
+        "id": "ChwKGkNMWDk5UFR2dllrREZUMEFyUVlkSEtBVkVB",
+        "initialTickerText": {
+          "content": "Goal",
+          "styleRuns": [
+            {
+              "startIndex": 0,
+              "length": 4
+            }
+          ]
+        },
+        "tickerIcon": {
+          "sources": [
+            {
+              "clientResource": {
+                "imageName": "TARGET_ADD"
+              }
+            }
+          ]
+        },
+        "showGoalStatusCommand": {
+          "innertubeCommand": {
+            "clickTrackingParams": "CEMQ7NANIhMIkJSe2be-iQMV67hWAR2-IRkd",
+            "showEngagementPanelEndpoint": {
+              "engagementPanel": {
+                "engagementPanelSectionListRenderer": {
+                  "header": {
+                    "engagementPanelTitleHeaderRenderer": {
+                      "actionButton": {
+                        "buttonRenderer": {
+                          "icon": {
+                            "iconType": "QUESTION_CIRCLE"
+                          },
+                          "trackingParams": "CEcQ8FsiEwiQlJ7Zt76JAxXruFYBHb4hGR0=",
+                          "command": {
+                            "clickTrackingParams": "CEcQ8FsiEwiQlJ7Zt76JAxXruFYBHb4hGR0=",
+                            "commandExecutorCommand": {
+                              "commands": [
+                                {
+                                  "clickTrackingParams": "CEcQ8FsiEwiQlJ7Zt76JAxXruFYBHb4hGR0=",
+                                  "liveChatDialogEndpoint": {
+                                    "content": {
+                                      "liveChatDialogRenderer": {
+                                        "trackingParams": "CEgQzS8iEwiQlJ7Zt76JAxXruFYBHb4hGR0=",
+                                        "title": {
+                                          "runs": [
+                                            {
+                                              "text": "Super Chat Goal"
+                                            }
+                                          ]
+                                        },
+                                        "dialogMessages": [
+                                          {
+                                            "runs": [
+                                              {
+                                                "text": "Join the fun by participating in the goal! "
+                                              },
+                                              {
+                                                "text": "Learn more.\n",
+                                                "navigationEndpoint": {
+                                                  "clickTrackingParams": "CEgQzS8iEwiQlJ7Zt76JAxXruFYBHb4hGR0="
+                                                }
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "runs": [
+                                              {
+                                                "text": "How to participate",
+                                                "bold": true,
+                                                "textColor": 4279440147
+                                              },
+                                              {
+                                                "text": "\n"
+                                              },
+                                              {
+                                                "text": "1. Press \"Continue\"\n2. Purchase a Super Chat \n3. Watch the progress towards the goal\n4. Celebrate achieving it with the community!",
+                                                "textColor": 4279440147
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "confirmButton": {
+                                          "buttonRenderer": {
+                                            "style": "STYLE_MONO_FILLED",
+                                            "size": "SIZE_DEFAULT",
+                                            "isDisabled": false,
+                                            "text": {
+                                              "simpleText": "Got it"
+                                            },
+                                            "trackingParams": "CEkQ8FsiEwiQlJ7Zt76JAxXruFYBHb4hGR0=",
+                                            "accessibilityData": {
+                                              "accessibilityData": {
+                                                "label": "Got it"
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                },
+                                {
+                                  "clickTrackingParams": "CEcQ8FsiEwiQlJ7Zt76JAxXruFYBHb4hGR0=",
+                                  "hideEngagementPanelEndpoint": {
+                                    "identifier": {
+                                      "surface": "ENGAGEMENT_PANEL_SURFACE_LIVE_CHAT",
+                                      "tag": "creator_goal_progress_engagement_panel"
+                                    }
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      },
+                      "trackingParams": "CEQQ040EIhMIkJSe2be-iQMV67hWAR2-IRkd"
+                    }
+                  },
+                  "content": {
+                    "sectionListRenderer": {
+                      "contents": [
+                        {
+                          "creatorGoalProgressFlowViewModel": {
+                            "creatorGoalEntityKey": "EgtwVUJJNU1FUkF1cyD6AygB",
+                            "progressFlowButton": {
+                              "buttonViewModel": {
+                                "onTap": {
+                                  "innertubeCommand": {
+                                    "clickTrackingParams": "CEYQ8FsiEwiQlJ7Zt76JAxXruFYBHb4hGR0=",
+                                    "commandMetadata": {
+                                      "webCommandMetadata": {
+                                        "ignoreNavigation": true
+                                      }
+                                    },
+                                    "liveChatPurchaseMessageEndpoint": {
+                                      "params": "Q2lrcUp3b1lWVU5ITTJoQ1pscDRla3hwZUVwUVdsRTVVVlZRWDB4M0VndHdWVUpKTlUxRlVrRjFjeEFCSUFFNEFFSUNDQUUlM0Q="
+                                    }
+                                  }
+                                },
+                                "style": "BUTTON_VIEW_MODEL_STYLE_MONO",
+                                "trackingParams": "CEYQ8FsiEwiQlJ7Zt76JAxXruFYBHb4hGR0=",
+                                "type": "BUTTON_VIEW_MODEL_TYPE_FILLED",
+                                "titleFormatted": {
+                                  "content": "Continue",
+                                  "styleRuns": [
+                                    {
+                                      "startIndex": 0,
+                                      "length": 8
+                                    }
+                                  ]
+                                }
+                              }
+                            },
+                            "progressCountA11yLabel": "Super Chat goal progress: $0 out of $1"
+                          }
+                        }
+                      ],
+                      "trackingParams": "CEUQui8iEwiQlJ7Zt76JAxXruFYBHb4hGR0="
+                    }
+                  },
+                  "identifier": {
+                    "surface": "ENGAGEMENT_PANEL_SURFACE_LIVE_CHAT",
+                    "tag": "creator_goal_progress_engagement_panel"
+                  }
+                }
+              },
+              "identifier": {
+                "surface": "ENGAGEMENT_PANEL_SURFACE_LIVE_CHAT",
+                "tag": "creator_goal_progress_engagement_panel"
+              },
+              "engagementPanelPresentationConfigs": {
+                "engagementPanelPopupPresentationConfig": {
+                  "popupType": "PANEL_POPUP_TYPE_DIALOG"
+                }
+              }
+            }
+          }
+        },
+        "creatorGoalEntityKey": "EgtwVUJJNU1FUkF1cyD6AygB",
+        "shouldShowSetUpFlowOnMobile": true,
+        "a11yLabel": "See Super Chat goal",
+        "loggingDirectives": {
+          "trackingParams": "CEMQ7NANIhMIkJSe2be-iQMV67hWAR2-IRkd",
+          "visibility": {
+            "types": "12"
+          },
+          "enableDisplayloggerExperiment": true
+        }
+      }
+    }
+  }
+}

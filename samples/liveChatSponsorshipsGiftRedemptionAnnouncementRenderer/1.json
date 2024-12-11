@@ -1,0 +1,72 @@
+{
+  "liveChatSponsorshipsGiftRedemptionAnnouncementRenderer": {
+    "id": "ChwKGkNMcXYzWlhtbFlrREZiSXUxZ0FkeFVjVHF3",
+    "timestampUsec": "1729181259381482",
+    "timestampText": {
+      "simpleText": "2:04:31"
+    },
+    "authorExternalChannelId": "UCEEweFt_lPNNTiwSU3Z--jg",
+    "authorName": {
+      "simpleText": "Atama Hikari 光頭 Ch."
+    },
+    "authorPhoto": {
+      "thumbnails": [
+        {
+          "url": "https://yt4.ggpht.com/KdYuzSiJbBJZv_bmz-TdabkHbactoCrNXnuC7OuBmxsG3jYMZMZZNTRsBimVZB84TDWK4pXLYg=s32-c-k-c0x00ffffff-no-rj",
+          "width": 32,
+          "height": 32
+        },
+        {
+          "url": "https://yt4.ggpht.com/KdYuzSiJbBJZv_bmz-TdabkHbactoCrNXnuC7OuBmxsG3jYMZMZZNTRsBimVZB84TDWK4pXLYg=s64-c-k-c0x00ffffff-no-rj",
+          "width": 64,
+          "height": 64
+        }
+      ]
+    },
+    "message": {
+      "runs": [
+        {
+          "text": "was gifted a membership by ",
+          "italics": true
+        },
+        {
+          "text": "幽浮 UFo K.",
+          "bold": true,
+          "italics": true
+        }
+      ]
+    },
+    "authorBadges": [
+      {
+        "liveChatAuthorBadgeRenderer": {
+          "icon": {
+            "iconType": "MODERATOR"
+          },
+          "tooltip": "Moderator",
+          "accessibility": {
+            "accessibilityData": {
+              "label": "Moderator"
+            }
+          }
+        }
+      }
+    ],
+    "contextMenuEndpoint": {
+      "clickTrackingParams": "CAcQ2sMKIhMI5tKTnNG7iQMVSL1WAR2mYxlH",
+      "commandMetadata": {
+        "webCommandMetadata": {
+          "ignoreNavigation": true
+        }
+      },
+      "liveChatItemContextMenuEndpoint": {
+        "params": "Q2g0S0hBb2FRMHh4ZGpOYVdHMXNXV3RFUm1KSmRURm5RV1I0VldOVWNYY2FLU29uQ2hoVlF6SmFWMmRuYjI0eFRrOVVNbFJIWVZaVlRYcFpOMEVTQzBoRU9TMTFWRTgxZW05bklBRW9CRElhQ2hoVlEwVkZkMlZHZEY5c1VFNU9WR2wzVTFVeldpMHRhbWM0QWtnQlVDTSUzRA=="
+      }
+    },
+    "contextMenuAccessibility": {
+      "accessibilityData": {
+        "label": "Chat actions"
+      }
+    },
+    "trackingParams": "CAcQ2sMKIhMI5tKTnNG7iQMVSL1WAR2mYxlH"
+  }
+}
