@@ -1,0 +1,135 @@
+{
+  "liveChatBannerChatSummaryRenderer": {
+    "liveChatSummaryId": "gKonxsPlU-M_1731888622579899",
+    "chatSummary": {
+      "runs": [
+        {
+          "text": "Chat summary",
+          "bold": true,
+          "fontFace": "FONT_FACE_ROBOTO_MEDIUM"
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Auto-generated experiment • Quality may vary",
+          "deemphasize": true,
+          "fontFace": "FONT_FACE_ROBOTO_MEDIUM"
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Viewers in the chat are discussing their favorite Final Fantasy games, ranging from Final Fantasy X to Final Fantasy XIII. They are also requesting songs from various artists, including Keshi, Chapel Roan, Sanae, and others.",
+          "fontFace": "FONT_FACE_ROBOTO_REGULAR"
+        }
+      ]
+    },
+    "icon": {
+      "iconType": "SPARK"
+    },
+    "trackingParams": "CB8Q77sMIhMIidfw9MvkiQMVcNpMAh1jfgrU",
+    "likeFeedbackButton": {
+      "toggleButtonViewModel": {
+        "defaultButtonViewModel": {
+          "buttonViewModel": {
+            "iconName": "LIKE_OUTLINE",
+            "onTap": {
+              "innertubeCommand": {
+                "clickTrackingParams": "CCMQ8FsiEwiJ1_D0y-SJAxVw2kwCHWN-CtQ=",
+                "showEngagementPanelEndpoint": {
+                  "identifier": {
+                    "tag": "PAfeedback_genai"
+                  },
+                  "globalConfiguration": {
+                    "params": "wggoCiQIBigBOhxnS29ueHNQbFUtTV8xNzMxODg4NjIyNTc5ODk5SAEQCA%3D%3D"
+                  },
+                  "engagementPanelPresentationConfigs": {
+                    "engagementPanelPopupPresentationConfig": {
+                      "popupType": "PANEL_POPUP_TYPE_DIALOG"
+                    }
+                  }
+                }
+              }
+            },
+            "accessibilityText": "Thumbs up",
+            "trackingParams": "CCMQ8FsiEwiJ1_D0y-SJAxVw2kwCHWN-CtQ="
+          }
+        },
+        "toggledButtonViewModel": {
+          "buttonViewModel": {
+            "iconName": "LIKE",
+            "onTap": {
+              "innertubeCommand": {
+                "clickTrackingParams": "CCIQ8FsiEwiJ1_D0y-SJAxVw2kwCHWN-CtQ=",
+                "commandMetadata": {
+                  "webCommandMetadata": {
+                    "sendPost": true,
+                    "apiUrl": "/youtubei/v1/feedback"
+                  }
+                },
+                "feedbackEndpoint": {
+                  "feedbackToken": "AB9zfpJDe_KWjkMzrQUau-id4vECdb4767kJI7qOS8h2EQrmKxB5NcXYeXOGRVtdwPbhiR7FlLAx2LnJzK3YV8Fz58deC6e4ykfGODN2c73RSF2NocmcJe8"
+                }
+              }
+            },
+            "accessibilityText": "Remove thumbs up",
+            "trackingParams": "CCIQ8FsiEwiJ1_D0y-SJAxVw2kwCHWN-CtQ="
+          }
+        },
+        "trackingParams": "CB8Q77sMIhMIidfw9MvkiQMVcNpMAh1jfgrU"
+      }
+    },
+    "dislikeFeedbackButton": {
+      "toggleButtonViewModel": {
+        "defaultButtonViewModel": {
+          "buttonViewModel": {
+            "iconName": "DISLIKE_OUTLINE",
+            "onTap": {
+              "innertubeCommand": {
+                "clickTrackingParams": "CCEQ8FsiEwiJ1_D0y-SJAxVw2kwCHWN-CtQ=",
+                "showEngagementPanelEndpoint": {
+                  "identifier": {
+                    "tag": "PAfeedback_genai"
+                  },
+                  "globalConfiguration": {
+                    "params": "wggoCiQIBigCOhxnS29ueHNQbFUtTV8xNzMxODg4NjIyNTc5ODk5SAEQBg%3D%3D"
+                  },
+                  "engagementPanelPresentationConfigs": {
+                    "engagementPanelPopupPresentationConfig": {
+                      "popupType": "PANEL_POPUP_TYPE_DIALOG"
+                    }
+                  }
+                }
+              }
+            },
+            "accessibilityText": "Thumbs down",
+            "trackingParams": "CCEQ8FsiEwiJ1_D0y-SJAxVw2kwCHWN-CtQ="
+          }
+        },
+        "toggledButtonViewModel": {
+          "buttonViewModel": {
+            "iconName": "DISLIKE",
+            "onTap": {
+              "innertubeCommand": {
+                "clickTrackingParams": "CCAQ8FsiEwiJ1_D0y-SJAxVw2kwCHWN-CtQ=",
+                "commandMetadata": {
+                  "webCommandMetadata": {
+                    "sendPost": true,
+                    "apiUrl": "/youtubei/v1/feedback"
+                  }
+                },
+                "feedbackEndpoint": {
+                  "feedbackToken": "AB9zfpJDe_KWjkMzrQUau-id4vECdb4767kJI7qOS8h2EQrmKxB5NcXYeXOGRVtdwPbhiR7FlLAx2LnJzK3YV8Fz58deC6e4ykfGODN2c73RSF2NocmcJe8"
+                }
+              }
+            },
+            "accessibilityText": "Remove thumbs down",
+            "trackingParams": "CCAQ8FsiEwiJ1_D0y-SJAxVw2kwCHWN-CtQ="
+          }
+        },
+        "trackingParams": "CB8Q77sMIhMIidfw9MvkiQMVcNpMAh1jfgrU"
+      }
+    }
+  }
+}

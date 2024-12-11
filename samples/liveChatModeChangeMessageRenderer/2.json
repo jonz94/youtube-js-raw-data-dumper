@@ -1,0 +1,28 @@
+{
+  "liveChatModeChangeMessageRenderer": {
+    "id": "ChwKGkNQVzYwcFd1MVBZQ0Zlc2VyUVlkV1JVQ2Nn",
+    "timestampUsec": "1647768006657834",
+    "icon": {
+      "iconType": "QUESTION_ANSWER"
+    },
+    "text": {
+      "runs": [
+        {
+          "text": "Members-only mode is off",
+          "bold": true
+        }
+      ]
+    },
+    "subtext": {
+      "runs": [
+        {
+          "text": "Everybody can chat now",
+          "italics": true
+        }
+      ]
+    },
+    "timestampText": {
+      "simpleText": "18:29"
+    }
+  }
+}

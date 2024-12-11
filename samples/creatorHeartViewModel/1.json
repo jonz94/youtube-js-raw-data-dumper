@@ -1,0 +1,40 @@
+{
+  "creatorHeartViewModel": {
+    "creatorThumbnail": {
+      "sources": [
+        {
+          "url": "https://yt3.ggpht.com/lQaEUeJlLtgioCU0npPsaYOLzg2idrzG0XY_jn-fjPOySnv4nN94U0rCTt5shavBR9brK-e6Tg=s48-c-k-c0x00ffffff-no-rj"
+        }
+      ]
+    },
+    "heartedIcon": {
+      "sources": [
+        {
+          "clientResource": {
+            "imageName": "full_heart-filled"
+          }
+        }
+      ]
+    },
+    "unheartedIcon": {
+      "sources": [
+        {
+          "clientResource": {
+            "imageName": "full_heart"
+          }
+        }
+      ],
+      "processor": {
+        "borderImageProcessor": {
+          "imageTint": {
+            "color": 4278190080
+          }
+        }
+      }
+    },
+    "heartedHoverText": "❤ by 庫洛姆•Kuromu",
+    "heartedAccessibilityLabel": "Remove heart",
+    "unheartedAccessibilityLabel": "Heart",
+    "engagementStateKey": "EktsaXZlLWNoYXQtbWVzc2FnZS1lbmdhZ2VtZW50LXN0YXRlLUNod0tHa05LTWpCeVRsTktlblp2UTBabVVWbzFkMjlrWkZjNFRFZEIgLCgB"
+  }
+}

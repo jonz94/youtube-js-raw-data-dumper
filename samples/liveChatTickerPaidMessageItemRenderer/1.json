@@ -1,0 +1,280 @@
+{
+  "liveChatTickerPaidMessageItemRenderer": {
+    "id": "ChwKGkNJYnV3cG1NenZvQ0ZWM0R3Z1FkN1owQ25B",
+    "amountTextColor": 3758096383,
+    "startBackgroundColor": 4294278144,
+    "endBackgroundColor": 4293284096,
+    "authorPhoto": {
+      "thumbnails": [
+        {
+          "url": "https://yt4.ggpht.com/ytc/AIdro_mZssKAtVURk_MqlGktbHRjbPGol9BEgE-bEzkUxvS2J0o=s32-c-k-c0x00ffffff-no-rj",
+          "width": 32,
+          "height": 32
+        },
+        {
+          "url": "https://yt4.ggpht.com/ytc/AIdro_mZssKAtVURk_MqlGktbHRjbPGol9BEgE-bEzkUxvS2J0o=s64-c-k-c0x00ffffff-no-rj",
+          "width": 64,
+          "height": 64
+        }
+      ],
+      "accessibility": {
+        "accessibilityData": {
+          "label": "土司"
+        }
+      }
+    },
+    "durationSec": 600,
+    "showItemEndpoint": {
+      "clickTrackingParams": "CBkQsMgEIhMI5Za9w5njiQMVn9w0Bx2EWwZz",
+      "commandMetadata": {
+        "webCommandMetadata": {
+          "ignoreNavigation": true
+        }
+      },
+      "showLiveChatItemEndpoint": {
+        "renderer": {
+          "liveChatPaidMessageRenderer": {
+            "id": "ChwKGkNJYnV3cG1NenZvQ0ZWM0R3Z1FkN1owQ25B",
+            "timestampUsec": "1665144925240509",
+            "authorName": {
+              "simpleText": "土司"
+            },
+            "authorPhoto": {
+              "thumbnails": [
+                {
+                  "url": "https://yt4.ggpht.com/ytc/AIdro_mZssKAtVURk_MqlGktbHRjbPGol9BEgE-bEzkUxvS2J0o=s32-c-k-c0x00ffffff-no-rj",
+                  "width": 32,
+                  "height": 32
+                },
+                {
+                  "url": "https://yt4.ggpht.com/ytc/AIdro_mZssKAtVURk_MqlGktbHRjbPGol9BEgE-bEzkUxvS2J0o=s64-c-k-c0x00ffffff-no-rj",
+                  "width": 64,
+                  "height": 64
+                }
+              ]
+            },
+            "purchaseAmountText": {
+              "simpleText": "NT$300.00"
+            },
+            "headerBackgroundColor": 4293284096,
+            "headerTextColor": 3758096383,
+            "bodyBackgroundColor": 4294278144,
+            "bodyTextColor": 3758096383,
+            "authorExternalChannelId": "UCkiuqhOYPAfJ4bqz3K2s3ag",
+            "authorNameTextColor": 3019898879,
+            "contextMenuEndpoint": {
+              "clickTrackingParams": "CBsQ7rsEIhMI5Za9w5njiQMVn9w0Bx2EWwZz",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "ignoreNavigation": true
+                }
+              },
+              "liveChatItemContextMenuEndpoint": {
+                "params": "Q2g0S0hBb2FRMGxpZFhkd2JVMTZkbTlEUmxZelJIZG5VV1EzV2pCRGJrRWFLU29uQ2hoVlF6SmFWMmRuYjI0eFRrOVVNbFJIWVZaVlRYcFpOMEVTQzBSZlZUQjJWRXB5ZGw5VklBRW9CRElhQ2hoVlEydHBkWEZvVDFsUVFXWktOR0p4ZWpOTE1uTXpZV2M0QWtnQlVBOCUzRA=="
+              }
+            },
+            "timestampColor": 2164260863,
+            "contextMenuAccessibility": {
+              "accessibilityData": {
+                "label": "Chat actions"
+              }
+            },
+            "timestampText": {
+              "simpleText": "15:28"
+            },
+            "trackingParams": "CBsQ7rsEIhMI5Za9w5njiQMVn9w0Bx2EWwZz",
+            "headerOverlayImage": {
+              "thumbnails": [
+                {
+                  "url": "//youtube.com/img/pdg/novelty/Novelty_2x.png",
+                  "width": 190,
+                  "height": 120
+                }
+              ]
+            },
+            "authorBadges": [
+              {
+                "liveChatAuthorBadgeRenderer": {
+                  "icon": {
+                    "iconType": "MODERATOR"
+                  },
+                  "tooltip": "Moderator",
+                  "accessibility": {
+                    "accessibilityData": {
+                      "label": "Moderator"
+                    }
+                  }
+                }
+              },
+              {
+                "liveChatAuthorBadgeRenderer": {
+                  "customThumbnail": {
+                    "thumbnails": [
+                      {
+                        "url": "https://yt3.ggpht.com/X9RkCDxc0D7OtVbbJAxZGXbV4-PZw0cg2h_Vg1C6ahIVaYrcTubP1WF3313-LjKz9PRHgY_fVw=s16-c-k",
+                        "width": 16,
+                        "height": 16
+                      },
+                      {
+                        "url": "https://yt3.ggpht.com/X9RkCDxc0D7OtVbbJAxZGXbV4-PZw0cg2h_Vg1C6ahIVaYrcTubP1WF3313-LjKz9PRHgY_fVw=s32-c-k",
+                        "width": 32,
+                        "height": 32
+                      }
+                    ]
+                  },
+                  "tooltip": "Member (6 months)",
+                  "accessibility": {
+                    "accessibilityData": {
+                      "label": "Member (6 months)"
+                    }
+                  }
+                }
+              }
+            ],
+            "textInputBackgroundColor": 805306368,
+            "creatorHeartButton": {
+              "creatorHeartViewModel": {
+                "creatorThumbnail": {
+                  "sources": [
+                    {
+                      "url": "https://yt3.ggpht.com/lQaEUeJlLtgioCU0npPsaYOLzg2idrzG0XY_jn-fjPOySnv4nN94U0rCTt5shavBR9brK-e6Tg=s48-c-k-c0x00ffffff-no-rj"
+                    }
+                  ]
+                },
+                "heartedIcon": {
+                  "sources": [
+                    {
+                      "clientResource": {
+                        "imageName": "full_heart-filled"
+                      }
+                    }
+                  ]
+                },
+                "unheartedIcon": {
+                  "sources": [
+                    {
+                      "clientResource": {
+                        "imageName": "full_heart"
+                      }
+                    }
+                  ],
+                  "processor": {
+                    "borderImageProcessor": {
+                      "imageTint": {
+                        "color": 3758096383
+                      }
+                    }
+                  }
+                },
+                "heartedHoverText": "❤ by 庫洛姆•Kuromu",
+                "heartedAccessibilityLabel": "Remove heart",
+                "unheartedAccessibilityLabel": "Heart",
+                "engagementStateKey": "EktsaXZlLWNoYXQtbWVzc2FnZS1lbmdhZ2VtZW50LXN0YXRlLUNod0tHa05KWW5WM2NHMU5lblp2UTBaV00wUjNaMUZrTjFvd1EyNUIgLCgB",
+                "gradient": {
+                  "sources": [
+                    {
+                      "url": "//youtube.com/img/pdg/gradient.png"
+                    }
+                  ],
+                  "processor": {
+                    "borderImageProcessor": {
+                      "imageTint": {
+                        "color": 4294278144
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "isV2Style": true,
+            "pdgPurchasedNoveltyLoggingDirectives": {
+              "loggingDirectives": {
+                "trackingParams": "CB0Q7s4LIhMI5Za9w5njiQMVn9w0Bx2EWwZz",
+                "visibility": {
+                  "types": "12"
+                }
+              }
+            },
+            "replyButton": {
+              "pdgReplyButtonViewModel": {
+                "replyButton": {
+                  "buttonViewModel": {
+                    "iconName": "CHAT",
+                    "onTap": {
+                      "innertubeCommand": {
+                        "clickTrackingParams": "CBwQ68ENIhMI5Za9w5njiQMVn9w0Bx2EWwZz",
+                        "showEngagementPanelEndpoint": {
+                          "identifier": {
+                            "surface": "ENGAGEMENT_PANEL_SURFACE_LIVE_CHAT",
+                            "tag": "PAreply_thread"
+                          },
+                          "globalConfiguration": {
+                            "params": "ggm2AQojVWd6Wk4tUkkxeVhEd1dra1JnUjRBYUFCRHFnQnF0U1ZoUUkSVgopKicKGFVDMlpXZ2dvbjFOT1QyVEdhVlVNelk3QRILRF9VMHZUSnJ2X1UQARgEIAE6I1VnelpOLVJJMXlYRHdXa2tSZ1I0QWFBQkRxZ0JxdFNWaFFJGgggALABAPgBACIpKicKGFVDMlpXZ2dvbjFOT1QyVEdhVlVNelk3QRILRF9VMHZUSnJ2X1UoATAB"
+                          },
+                          "engagementPanelPresentationConfigs": {
+                            "engagementPanelPopupPresentationConfig": {
+                              "popupType": "PANEL_POPUP_TYPE_DIALOG"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "accessibilityText": "Reply",
+                    "style": "BUTTON_VIEW_MODEL_STYLE_CUSTOM",
+                    "trackingParams": "CBwQ68ENIhMI5Za9w5njiQMVn9w0Bx2EWwZz",
+                    "type": "BUTTON_VIEW_MODEL_TYPE_TONAL",
+                    "buttonSize": "BUTTON_VIEW_MODEL_SIZE_XSMALL",
+                    "customBackgroundColor": 452984831,
+                    "customFontColor": 3758096383,
+                    "loggingDirectives": {
+                      "trackingParams": "CBwQ68ENIhMI5Za9w5njiQMVn9w0Bx2EWwZz",
+                      "visibility": {
+                        "types": "12"
+                      },
+                      "enableDisplayloggerExperiment": true
+                    }
+                  }
+                },
+                "replyCountEntityKey": "EiNVZ3paTi1SSTF5WER3V2trUmdSNEFhQUJEcWdCcXRTVmhRSSDxAygB",
+                "replyCountPlaceholder": {
+                  "content": "Reply",
+                  "styleRuns": [
+                    {
+                      "startIndex": 0,
+                      "length": 5
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "trackingParams": "CBoQjtEGIhMI5Za9w5njiQMVn9w0Bx2EWwZz"
+      }
+    },
+    "authorExternalChannelId": "UCkiuqhOYPAfJ4bqz3K2s3ag",
+    "fullDurationSec": 600,
+    "trackingParams": "CBkQsMgEIhMI5Za9w5njiQMVn9w0Bx2EWwZz",
+    "authorUsername": {
+      "simpleText": "土司"
+    },
+    "animationOrigin": "ANIMATION_ORIGIN_PDG_TICKER_LIKE",
+    "openEngagementPanelCommand": {
+      "clickTrackingParams": "CBkQsMgEIhMI5Za9w5njiQMVn9w0Bx2EWwZz",
+      "showEngagementPanelEndpoint": {
+        "identifier": {
+          "surface": "ENGAGEMENT_PANEL_SURFACE_LIVE_CHAT",
+          "tag": "PAreply_thread"
+        },
+        "globalConfiguration": {
+          "params": "ggm2AQojVWd6Wk4tUkkxeVhEd1dra1JnUjRBYUFCRHFnQnF0U1ZoUUkSVgopKicKGFVDMlpXZ2dvbjFOT1QyVEdhVlVNelk3QRILRF9VMHZUSnJ2X1UQARgEIAE6I1VnelpOLVJJMXlYRHdXa2tSZ1I0QWFBQkRxZ0JxdFNWaFFJGgggALABAPgBACIpKicKGFVDMlpXZ2dvbjFOT1QyVEdhVlVNelk3QRILRF9VMHZUSnJ2X1UoATAB"
+        },
+        "engagementPanelPresentationConfigs": {
+          "engagementPanelPopupPresentationConfig": {
+            "popupType": "PANEL_POPUP_TYPE_DIALOG"
+          }
+        }
+      }
+    }
+  }
+}

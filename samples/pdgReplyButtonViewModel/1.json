@@ -1,0 +1,52 @@
+{
+  "pdgReplyButtonViewModel": {
+    "replyButton": {
+      "buttonViewModel": {
+        "iconName": "CHAT",
+        "onTap": {
+          "innertubeCommand": {
+            "clickTrackingParams": "CBcQ68ENIhMInLa6wJnjiQMVcs40Bx3odTwJ",
+            "showEngagementPanelEndpoint": {
+              "identifier": {
+                "surface": "ENGAGEMENT_PANEL_SURFACE_LIVE_CHAT",
+                "tag": "PAreply_thread"
+              },
+              "globalConfiguration": {
+                "params": "ggm2AQojVWd4X2owTGZlUFRaQkV2VExLaDRBYUFCRHFnQnRaNlZsd0kSVgopKicKGFVDMlpXZ2dvbjFOT1QyVEdhVlVNelk3QRILRF9VMHZUSnJ2X1UQARgEIAE6I1VneF9qMExmZVBUWkJFdlRMS2g0QWFBQkRxZ0J0WjZWbHdJGgggALABAPgBACIpKicKGFVDMlpXZ2dvbjFOT1QyVEdhVlVNelk3QRILRF9VMHZUSnJ2X1UoATAB"
+              },
+              "engagementPanelPresentationConfigs": {
+                "engagementPanelPopupPresentationConfig": {
+                  "popupType": "PANEL_POPUP_TYPE_DIALOG"
+                }
+              }
+            }
+          }
+        },
+        "accessibilityText": "Reply",
+        "style": "BUTTON_VIEW_MODEL_STYLE_CUSTOM",
+        "trackingParams": "CBcQ68ENIhMInLa6wJnjiQMVcs40Bx3odTwJ",
+        "type": "BUTTON_VIEW_MODEL_TYPE_TONAL",
+        "buttonSize": "BUTTON_VIEW_MODEL_SIZE_XSMALL",
+        "customBackgroundColor": 218103808,
+        "customFontColor": 4278190080,
+        "loggingDirectives": {
+          "trackingParams": "CBcQ68ENIhMInLa6wJnjiQMVcs40Bx3odTwJ",
+          "visibility": {
+            "types": "12"
+          },
+          "enableDisplayloggerExperiment": true
+        }
+      }
+    },
+    "replyCountEntityKey": "EiNVZ3hfajBMZmVQVFpCRXZUTEtoNEFhQUJEcWdCdFo2Vmx3SSDxAygB",
+    "replyCountPlaceholder": {
+      "content": "Reply",
+      "styleRuns": [
+        {
+          "startIndex": 0,
+          "length": 5
+        }
+      ]
+    }
+  }
+}

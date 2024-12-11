@@ -1,0 +1,40 @@
+{
+  "liveChatModeChangeMessageRenderer": {
+    "id": "ChwKGkNQdTQwcFd1MVBZQ0ZTVU01d29kX2NNTW1R",
+    "timestampUsec": "1647768006658253",
+    "icon": {
+      "iconType": "TAB_SUBSCRIPTIONS"
+    },
+    "text": {
+      "runs": [
+        {
+          "text": "庫洛姆•Kuromu",
+          "bold": true
+        },
+        {
+          "text": " turned on subscribers-only mode",
+          "bold": true
+        }
+      ]
+    },
+    "subtext": {
+      "runs": [
+        {
+          "text": "Only channel subscribers of ",
+          "italics": true
+        },
+        {
+          "text": "5 minutes",
+          "italics": true
+        },
+        {
+          "text": " or longer can send messages",
+          "italics": true
+        }
+      ]
+    },
+    "timestampText": {
+      "simpleText": "18:29"
+    }
+  }
+}
