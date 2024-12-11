@@ -1,0 +1,35 @@
+{
+  "buttonCardViewModel": {
+    "title": "View all posts",
+    "image": {
+      "sources": [
+        {
+          "clientResource": {
+            "imageName": "ARROW_FORWARD"
+          }
+        }
+      ]
+    },
+    "rendererContext": {
+      "commandContext": {
+        "onTap": {
+          "innertubeCommand": {
+            "clickTrackingParams": "CLwCEKCjASITCI6H762Rn4oDFaV2DwId4n0Rkg==",
+            "commandMetadata": {
+              "webCommandMetadata": {
+                "url": "/channel/UCciQ8wFcVoIIMi-lfu8-cjQ/community",
+                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                "rootVe": 3611,
+                "apiUrl": "/youtubei/v1/browse"
+              }
+            },
+            "browseEndpoint": {
+              "browseId": "UCciQ8wFcVoIIMi-lfu8-cjQ",
+              "params": "Egljb21tdW5pdHnyBgkKB0oAogECCAE%3D"
+            }
+          }
+        }
+      }
+    }
+  }
+}
