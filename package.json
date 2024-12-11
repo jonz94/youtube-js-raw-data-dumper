@@ -10,7 +10,7 @@
   "dependencies": {
     "citty": "^0.1.6",
     "dotenv": "^16.4.5",
-    "youtubei.js": "https://pkg.pr.new/jonz94/YouTube.js/youtubei.js@7527e26"
+    "youtubei.js": "https://pkg.pr.new/jonz94/YouTube.js/youtubei.js@982e115"
   },
   "devDependencies": {
     "@types/node": "^22.8.2",
