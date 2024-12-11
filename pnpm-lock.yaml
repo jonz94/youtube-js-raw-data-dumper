@@ -11,6 +11,9 @@ importers:
       citty:
         specifier: ^0.1.6
         version: 0.1.6
+      dotenv:
+        specifier: ^16.4.5
+        version: 16.4.5
       youtubei.js:
         specifier: https://pkg.pr.new/jonz94/YouTube.js/youtubei.js@7527e26
         version: https://pkg.pr.new/jonz94/YouTube.js/youtubei.js@7527e26
@@ -233,6 +236,10 @@ packages:
   dir-glob@3.0.1:
     resolution: {integrity: sha512-WkrWp9GR4KXfKGYzOLmTuGVi1UWFfws377n9cc55/tb6DuqyF6pcQ5AbiHEshaDpY9v6oaSr2XCDidGmMwdzIA==}
     engines: {node: '>=8'}
+
+  dotenv@16.4.5:
+    resolution: {integrity: sha512-ZmdL2rui+eB2YwhsWzjInR8LldtZHGDoQ1ugH85ppHKwpUHL7j7rN0Ti9NCnGiQbhaZ11FpR+7ao1dNsmduNUg==}
+    engines: {node: '>=12'}
 
   esbuild@0.23.1:
     resolution: {integrity: sha512-VVNz/9Sa0bs5SELtn3f7qhJCDPCF5oMEl5cO9/SSinpE9hbPVvxbd572HH5AKiP7WD8INO53GgfDDhRjkylHEg==}
@@ -511,6 +518,8 @@ snapshots:
   dir-glob@3.0.1:
     dependencies:
       path-type: 4.0.0
+
+  dotenv@16.4.5: {}
 
   esbuild@0.23.1:
     optionalDependencies:
