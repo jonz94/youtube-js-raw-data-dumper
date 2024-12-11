@@ -1,0 +1,27 @@
+{
+  "liveChatBannerRenderer": {
+    "actionId": "ChwKGkNLUzg2dWVseFlrREZSSXJyUVlkM093VURn",
+    "viewerIsCreator": false,
+    "targetId": "live-chat-banner",
+    "onCollapseCommand": {
+      "clickTrackingParams": "CAIQl98BIhMI7o6swbrFiQMVK6xWAR1Xwzp_",
+      "elementsCommand": {
+        "setEntityCommand": {
+          "identifier": "EihDaHdLR2tOTFV6ZzJkV1ZzZUZsclJFWlNTWEp5VVZsa00wOTNWVVJuIIsBKAE%3D",
+          "entity": "CkJFaWhEYUhkTFIydE9URlY2WnpKa1YxWnpaVVpzY2xKRldsTlRXRXA1VlZac2EwMHdPVE5XVlZKdUlJc0JLQUUlM0QQAQ=="
+        }
+      }
+    },
+    "onExpandCommand": {
+      "clickTrackingParams": "CAIQl98BIhMI7o6swbrFiQMVK6xWAR1Xwzp_",
+      "elementsCommand": {
+        "setEntityCommand": {
+          "identifier": "EihDaHdLR2tOTFV6ZzJkV1ZzZUZsclJFWlNTWEp5VVZsa00wOTNWVVJuIIsBKAE%3D",
+          "entity": "CkJFaWhEYUhkTFIydE9URlY2WnpKa1YxWnpaVVpzY2xKRldsTlRXRXA1VlZac2EwMHdPVE5XVlZKdUlJc0JLQUUlM0QQAA=="
+        }
+      }
+    },
+    "isStackable": true,
+    "bannerType": "LIVE_CHAT_BANNER_TYPE_QNA_START"
+  }
+}

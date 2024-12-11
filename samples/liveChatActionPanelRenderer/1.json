@@ -1,0 +1,137 @@
+{
+  "liveChatActionPanelRenderer": {
+    "contents": {
+      "pollRenderer": {
+        "choices": [
+          {
+            "text": {
+              "runs": [
+                {
+                  "text": "收到"
+                }
+              ]
+            },
+            "selected": false,
+            "signinEndpoint": {
+              "clickTrackingParams": "CCAQiK0HIhMI06DE1eDkiQMVttw0Bx0aHiJY",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den&hl=en",
+                  "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                  "rootVe": 83769
+                }
+              },
+              "signInEndpoint": {
+                "nextEndpoint": {
+                  "clickTrackingParams": "CCAQiK0HIhMI06DE1eDkiQMVttw0Bx0aHiJY"
+                }
+              }
+            }
+          },
+          {
+            "text": {
+              "runs": [
+                {
+                  "text": "按讚讚"
+                }
+              ]
+            },
+            "selected": false,
+            "signinEndpoint": {
+              "clickTrackingParams": "CCAQiK0HIhMI06DE1eDkiQMVttw0Bx0aHiJY",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den&hl=en",
+                  "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                  "rootVe": 83769
+                }
+              },
+              "signInEndpoint": {
+                "nextEndpoint": {
+                  "clickTrackingParams": "CCAQiK0HIhMI06DE1eDkiQMVttw0Bx0aHiJY"
+                }
+              }
+            }
+          }
+        ],
+        "trackingParams": "CCAQiK0HIhMI06DE1eDkiQMVttw0Bx0aHiJY",
+        "liveChatPollId": "ChwKGkNKMjQwSXJlNUlrREZSSXJyUVlkUUlZRUtR",
+        "header": {
+          "pollHeaderRenderer": {
+            "pollQuestion": {
+              "runs": [
+                {
+                  "text": "星期一看積木(๑•̀ㅂ•́)و✧！＊按讚提醒＊"
+                }
+              ]
+            },
+            "thumbnail": {
+              "thumbnails": [
+                {
+                  "url": "https://yt4.ggpht.com/1AERPgS8e1yy_iJE_LoF2Gfu3KOQyZD--yMVXZdkJixD24cLM1ZQcHoZJbB2dZd7S-P_FX8fKQ=s32-c-k-c0x00ffffff-no-rj",
+                  "width": 32,
+                  "height": 32
+                },
+                {
+                  "url": "https://yt4.ggpht.com/1AERPgS8e1yy_iJE_LoF2Gfu3KOQyZD--yMVXZdkJixD24cLM1ZQcHoZJbB2dZd7S-P_FX8fKQ=s64-c-k-c0x00ffffff-no-rj",
+                  "width": 64,
+                  "height": 64
+                }
+              ]
+            },
+            "metadataText": {
+              "runs": [
+                {
+                  "text": "玖璐Jiulu Ch."
+                },
+                {
+                  "text": " • "
+                },
+                {
+                  "text": "11 min ago"
+                },
+                {
+                  "text": " • "
+                },
+                {
+                  "text": "28 votes"
+                }
+              ]
+            },
+            "liveChatPollType": "LIVE_CHAT_POLL_TYPE_CREATOR",
+            "contextMenuButton": {
+              "buttonRenderer": {
+                "icon": {
+                  "iconType": "MORE_VERT"
+                },
+                "accessibility": {
+                  "label": "Chat actions"
+                },
+                "trackingParams": "CCEQ8FsiEwjToMTV4OSJAxW23DQHHRoeIlg=",
+                "accessibilityData": {
+                  "accessibilityData": {
+                    "label": "Chat actions"
+                  }
+                },
+                "targetId": "live-chat-action-panel-poll-context-menu",
+                "command": {
+                  "clickTrackingParams": "CCEQ8FsiEwjToMTV4OSJAxW23DQHHRoeIlg=",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "ignoreNavigation": true
+                    }
+                  },
+                  "liveChatItemContextMenuEndpoint": {
+                    "params": "Q2g0S0hBb2FRMG95TkRCSmNtVTFTV3RFUmxKSmNuSlJXV1JSU1ZsRlMxRWFLU29uQ2hoVlEzbzVaVEpZV1d0YVEwNDBRbE5DWTJscFZtTmZaR2NTQ3kweE5FRjNZbEZ1UWtOVklBRW9CRElhQ2hoVlEzbzVaVEpZV1d0YVEwNDBRbE5DWTJscFZtTmZaR2M0QTBnQVVCVSUzRA=="
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "id": "ChwKGkNKMjQwSXJlNUlrREZSSXJyUVlkUUlZRUtR",
+    "targetId": "live-chat-action-panel"
+  }
+}
