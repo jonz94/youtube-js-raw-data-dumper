@@ -1,0 +1,39 @@
+{
+  "clientSideToggleMenuItemRenderer": {
+    "defaultText": {
+      "runs": [
+        {
+          "text": "Reactions"
+        }
+      ]
+    },
+    "defaultIcon": {
+      "iconType": "HEART_CIRCLE"
+    },
+    "toggledText": {
+      "runs": [
+        {
+          "text": "Reactions"
+        }
+      ]
+    },
+    "toggledIcon": {
+      "iconType": "HEART_CIRCLE"
+    },
+    "isToggled": true,
+    "menuItemIdentifier": "reactions_toggle",
+    "command": {
+      "clickTrackingParams": "CBIQjcsMGDsiEwin892z6KCKAxXtAXsHHdGyB14=",
+      "toggleLiveReactionsMuteCommand": {
+        "hack": true
+      }
+    },
+    "loggingDirectives": {
+      "trackingParams": "CBIQjcsMGDsiEwin892z6KCKAxXtAXsHHdGyB14=",
+      "visibility": {
+        "types": "12"
+      },
+      "enableDisplayloggerExperiment": true
+    }
+  }
+}

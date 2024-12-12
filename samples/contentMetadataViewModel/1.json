@@ -1,0 +1,70 @@
+{
+  "contentMetadataViewModel": {
+    "metadataRows": [
+      {
+        "metadataParts": [
+          {
+            "text": {
+              "content": "@pbsspacetime",
+              "styleRuns": [
+                {
+                  "weightLabel": "FONT_WEIGHT_MEDIUM",
+                  "styleRunExtensions": {
+                    "styleRunColorMapExtension": {
+                      "colorMap": [
+                        {
+                          "key": "USER_INTERFACE_THEME_LIGHT",
+                          "value": 4279440147
+                        },
+                        {
+                          "key": "USER_INTERFACE_THEME_DARK",
+                          "value": 4294967295
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            },
+            "enableTruncation": true
+          }
+        ]
+      },
+      {
+        "metadataParts": [
+          {
+            "text": {
+              "content": "3.17M subscribers"
+            }
+          },
+          {
+            "text": {
+              "content": "403 videos",
+              "styleRuns": [
+                {
+                  "startIndex": 0,
+                  "length": 10
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "delimiter": "•",
+    "rendererContext": {
+      "loggingContext": {
+        "loggingDirectives": {
+          "trackingParams": "CB4Q9eQKIhMIt5X648qhigMV8ET1BR2VhDSU",
+          "visibility": {
+            "types": "12"
+          },
+          "clientVeSpec": {
+            "uiType": 176757,
+            "veCounter": 492544753
+          }
+        }
+      }
+    }
+  }
+}
