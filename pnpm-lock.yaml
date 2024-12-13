@@ -15,8 +15,8 @@ importers:
         specifier: ^16.4.7
         version: 16.4.7
       youtubei.js:
-        specifier: https://pkg.pr.new/jonz94/YouTube.js/youtubei.js@982e115
-        version: https://pkg.pr.new/jonz94/YouTube.js/youtubei.js@982e115
+        specifier: https://pkg.pr.new/jonz94/YouTube.js/youtubei.js@96bcbcf
+        version: https://pkg.pr.new/jonz94/YouTube.js/youtubei.js@96bcbcf
     devDependencies:
       '@types/node':
         specifier: ^22.10.1
@@ -253,8 +253,8 @@ packages:
     resolution: {integrity: sha512-+Pgi+vMuUNkJyExiMBt5IlFoMyKnr5zhJ4Uspz58WOhBF5QoIZkFyNHIbBAtHwzVAgk5RtndVNsDRN61/mmDqg==}
     engines: {node: '>=12'}
 
-  jintr@3.1.0:
-    resolution: {integrity: sha512-azhCHApkRfBH8INpiUCwKBYaNCdB5G+x3NApsI2MxQXSlgFAx7rap3YwE3JAkN08GO8f3ilZsGB0Yvc+412ntQ==}
+  jintr@3.2.0:
+    resolution: {integrity: sha512-psD1yf05kMKDNsUdW1l5YhO59pHScQ6OIHHb8W5SKSM2dCOFPsqolmIuSHgVA8+3Dc47NJR181CXZ4alCAPTkA==}
 
   picomatch@4.0.2:
     resolution: {integrity: sha512-M7BAV6Rlcy5u+m6oPhAPFgJTzAioX/6B0DxyvDlo9l8+T3nLKbrczg2WLUyzd45L8RqfUMyGPzekbMvX2Ldkwg==}
@@ -326,9 +326,9 @@ packages:
     resolution: {integrity: sha512-72RFADWFqKmUb2hmmvNODKL3p9hcB6Gt2DOQMis1SEBaV6a4MH8soBvzg+95CYhCKPFedut2JY9bMfrDl9D23g==}
     engines: {node: '>=14.0'}
 
-  youtubei.js@https://pkg.pr.new/jonz94/YouTube.js/youtubei.js@982e115:
-    resolution: {tarball: https://pkg.pr.new/jonz94/YouTube.js/youtubei.js@982e115}
-    version: 12.1.0
+  youtubei.js@https://pkg.pr.new/jonz94/YouTube.js/youtubei.js@96bcbcf:
+    resolution: {tarball: https://pkg.pr.new/jonz94/YouTube.js/youtubei.js@96bcbcf}
+    version: 12.2.0
 
 snapshots:
 
@@ -472,7 +472,7 @@ snapshots:
 
   is-plain-obj@4.1.0: {}
 
-  jintr@3.1.0:
+  jintr@3.2.0:
     dependencies:
       acorn: 8.14.0
 
@@ -536,9 +536,9 @@ snapshots:
     dependencies:
       '@fastify/busboy': 2.1.1
 
-  youtubei.js@https://pkg.pr.new/jonz94/YouTube.js/youtubei.js@982e115:
+  youtubei.js@https://pkg.pr.new/jonz94/YouTube.js/youtubei.js@96bcbcf:
     dependencies:
       '@bufbuild/protobuf': 2.2.3
-      jintr: 3.1.0
+      jintr: 3.2.0
       tslib: 2.8.1
       undici: 5.28.4
