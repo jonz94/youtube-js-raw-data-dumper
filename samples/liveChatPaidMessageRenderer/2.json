@@ -1,0 +1,171 @@
+{
+  "liveChatPaidMessageRenderer": {
+    "id": "ChwKGkNMWEVvcmFvcFlvREZYM0N3Z1FkY2xJa25R",
+    "timestampUsec": "1734112508476032",
+    "authorName": {
+      "simpleText": "琉"
+    },
+    "authorPhoto": {
+      "thumbnails": [
+        {
+          "url": "https://yt4.ggpht.com/VGq8Jh9ZBOSe3N9qduOnj573aFjmZqS4JSXolFzoFA4t5a4NBUF4NUlqDchqYIxl8mGN99z-=s32-c-k-c0x00ffffff-no-rj",
+          "width": 32,
+          "height": 32
+        },
+        {
+          "url": "https://yt4.ggpht.com/VGq8Jh9ZBOSe3N9qduOnj573aFjmZqS4JSXolFzoFA4t5a4NBUF4NUlqDchqYIxl8mGN99z-=s64-c-k-c0x00ffffff-no-rj",
+          "width": 64,
+          "height": 64
+        }
+      ]
+    },
+    "purchaseAmountText": {
+      "simpleText": "HK$100.00"
+    },
+    "message": {
+      "runs": [
+        {
+          "text": "想投綠界的時候發現...只能用YT的..這個不能一閃而過嗎"
+        }
+      ]
+    },
+    "headerBackgroundColor": 4293284096,
+    "headerTextColor": 3758096383,
+    "bodyBackgroundColor": 4294278144,
+    "bodyTextColor": 3758096383,
+    "authorExternalChannelId": "UCv55nnv26sizKp0hexHBFxQ",
+    "authorNameTextColor": 3019898879,
+    "contextMenuEndpoint": {
+      "clickTrackingParams": "CCoQ7rsEIhMImvyV4amligMVsJK5BR0uhiju",
+      "commandMetadata": {
+        "webCommandMetadata": {
+          "ignoreNavigation": true
+        }
+      },
+      "liveChatItemContextMenuEndpoint": {
+        "params": "Q2g0S0hBb2FRMHhZUlc5eVlXOXdXVzlFUmxnelEzZG5VV1JqYkVscmJsRWFLU29uQ2hoVlEwVkZkMlZHZEY5c1VFNU9WR2wzVTFVeldpMHRhbWNTQ3paVVlXdzJhbkk0YVZCWklBRW9CRElhQ2hoVlEzWTFOVzV1ZGpJMmMybDZTM0F3YUdWNFNFSkdlRkU0QWtnQVVBOCUzRA=="
+      }
+    },
+    "timestampColor": 2164260863,
+    "contextMenuAccessibility": {
+      "accessibilityData": {
+        "label": "Chat actions"
+      }
+    },
+    "trackingParams": "CCoQ7rsEIhMImvyV4amligMVsJK5BR0uhiju",
+    "textInputBackgroundColor": 805306368,
+    "creatorHeartButton": {
+      "creatorHeartViewModel": {
+        "creatorThumbnail": {
+          "sources": [
+            {
+              "url": "https://yt3.ggpht.com/KdYuzSiJbBJZv_bmz-TdabkHbactoCrNXnuC7OuBmxsG3jYMZMZZNTRsBimVZB84TDWK4pXLYg=s48-c-k-c0x00ffffff-no-rj"
+            }
+          ]
+        },
+        "heartedIcon": {
+          "sources": [
+            {
+              "clientResource": {
+                "imageName": "full_heart-filled"
+              }
+            }
+          ]
+        },
+        "unheartedIcon": {
+          "sources": [
+            {
+              "clientResource": {
+                "imageName": "full_heart"
+              }
+            }
+          ],
+          "processor": {
+            "borderImageProcessor": {
+              "imageTint": {
+                "color": 3758096383
+              }
+            }
+          }
+        },
+        "heartedHoverText": "❤ by Atama Hikari 光頭 Ch.",
+        "heartedAccessibilityLabel": "Remove heart",
+        "unheartedAccessibilityLabel": "Heart",
+        "engagementStateKey": "EktsaXZlLWNoYXQtbWVzc2FnZS1lbmdhZ2VtZW50LXN0YXRlLUNod0tHa05NV0VWdmNtRnZjRmx2UkVaWU0wTjNaMUZrWTJ4SmEyNVIgLCgB",
+        "loggingDirectives": {
+          "trackingParams": "CCwQr5gLIhMImvyV4amligMVsJK5BR0uhiju",
+          "visibility": {
+            "types": "4"
+          }
+        }
+      }
+    },
+    "isV2Style": true,
+    "replyButton": {
+      "pdgReplyButtonViewModel": {
+        "replyButton": {
+          "buttonViewModel": {
+            "iconName": "CHAT",
+            "onTap": {
+              "innertubeCommand": {
+                "clickTrackingParams": "CCsQ68ENIhMImvyV4amligMVsJK5BR0uhiju",
+                "showEngagementPanelEndpoint": {
+                  "identifier": {
+                    "surface": "ENGAGEMENT_PANEL_SURFACE_LIVE_CHAT",
+                    "tag": "PAreply_thread"
+                  },
+                  "globalConfiguration": {
+                    "params": "ggmaAgojVWd6RWJQdWNPMzQwTmRMdXNtTjRBYUFCRHFnQjRNVGlsUUkSVgopKicKGFVDRUV3ZUZ0X2xQTk5UaXdTVTNaLS1qZxILNlRhbDZqcjhpUFkQARgEIAE6I1VnekViUHVjTzM0ME5kTHVzbU40QWFBQkRxZ0I0TVRpbFFJGmwIABgAIABKCBAAGAAgADAAULyPluGppYoDWAN4AKIBAKoBDBAAGgAiACoECAAQALABAMABAMgBvI-W4amligPiAQwIzezxugYQ3Om9nwHoAQDwAQD4AQCIAgCQAgCaAgwIzezxugYQ3Om9nwEiKSonChhVQ0VFd2VGdF9sUE5OVGl3U1UzWi0tamcSCzZUYWw2anI4aVBZKAEwAA%3D%3D"
+                  },
+                  "engagementPanelPresentationConfigs": {
+                    "engagementPanelPopupPresentationConfig": {
+                      "popupType": "PANEL_POPUP_TYPE_DIALOG"
+                    }
+                  }
+                }
+              }
+            },
+            "accessibilityText": "Reply",
+            "style": "BUTTON_VIEW_MODEL_STYLE_CUSTOM",
+            "trackingParams": "CCsQ68ENIhMImvyV4amligMVsJK5BR0uhiju",
+            "type": "BUTTON_VIEW_MODEL_TYPE_TONAL",
+            "buttonSize": "BUTTON_VIEW_MODEL_SIZE_XSMALL",
+            "customBackgroundColor": 452984831,
+            "customFontColor": 3758096383,
+            "onVisible": {
+              "innertubeCommand": {
+                "clickTrackingParams": "CCsQ68ENIhMImvyV4amligMVsJK5BR0uhiju",
+                "logFlowLoggingEventCommand": {
+                  "flowEventType": 1,
+                  "flowEventNamespace": "FLOW_EVENT_NAMESPACE_LIVE_CHAT_ENGAGEMENT",
+                  "flowType": "FLOW_TYPE_LIVE_CHAT_ENGAGEMENT",
+                  "flowEventMetadata": {
+                    "liveChatEngagementContext": {
+                      "entryPointType": "LIVE_CHAT_ENGAGEMENT_ENTRY_POINT_REPLY_BUTTON"
+                    }
+                  }
+                }
+              }
+            },
+            "loggingDirectives": {
+              "trackingParams": "CCsQ68ENIhMImvyV4amligMVsJK5BR0uhiju",
+              "visibility": {
+                "types": "12"
+              }
+            }
+          }
+        },
+        "replyCountEntityKey": "EiNVZ3pFYlB1Y08zNDBOZEx1c21ONEFhQUJEcWdCNE1UaWxRSSDxAygB",
+        "replyCountPlaceholder": {
+          "content": "Reply",
+          "styleRuns": [
+            {
+              "startIndex": 0,
+              "length": 5
+            }
+          ]
+        }
+      }
+    }
+  }
+}

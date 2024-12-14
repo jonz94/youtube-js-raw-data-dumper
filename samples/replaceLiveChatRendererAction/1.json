@@ -1,0 +1,61 @@
+{
+  "clickTrackingParams": "CAEQl98BIhMIiZDZ06iligMVU1n1BR0gthYd",
+  "replaceLiveChatRendererAction": {
+    "toReplace": "REPLACE_LIVE_CHAT_ACTION_PANEL",
+    "replacement": {
+      "liveChatRestrictedParticipationRenderer": {
+        "message": {
+          "runs": [
+            {
+              "text": "Subscribers-only mode was enabled"
+            }
+          ]
+        },
+        "buttons": [
+          {
+            "buttonRenderer": {
+              "icon": {
+                "iconType": "INFO"
+              },
+              "trackingParams": "CAQQ8FsYUiITCImQ2dOopYoDFVNZ9QUdILYWHQ==",
+              "accessibilityData": {
+                "accessibilityData": {
+                  "label": "Subscribers-only mode was enabled during this time."
+                }
+              },
+              "command": {
+                "clickTrackingParams": "CAQQ8FsYUiITCImQ2dOopYoDFVNZ9QUdILYWHQ==",
+                "commandMetadata": {
+                  "webCommandMetadata": {
+                    "sendPost": true
+                  }
+                },
+                "signalServiceEndpoint": {
+                  "signal": "CLIENT_SIGNAL",
+                  "actions": [
+                    {
+                      "clickTrackingParams": "CAQQ8FsYUiITCImQ2dOopYoDFVNZ9QUdILYWHQ==",
+                      "liveChatAddToToastAction": {
+                        "item": {
+                          "notificationTextRenderer": {
+                            "successResponseText": {
+                              "simpleText": "Subscribers-only mode was enabled during this time."
+                            },
+                            "trackingParams": "CAUQyscDIhMIiZDZ06iligMVU1n1BR0gthYd"
+                          }
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ],
+        "icon": {
+          "iconType": "TAB_SUBSCRIPTIONS"
+        }
+      }
+    }
+  }
+}
