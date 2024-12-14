@@ -1,0 +1,191 @@
+{
+  "engagementPanelSectionListRenderer": {
+    "content": {
+      "sectionListRenderer": {
+        "contents": [
+          {
+            "liveChatEmptyFeedViewModel": {
+              "message": {
+                "content": "The time to reply to this Super Chat has expired."
+              },
+              "emptyFeedImage": {
+                "sources": [
+                  {
+                    "url": "//youtube.com/img/pdg/reply/replies-empty_light.png"
+                  }
+                ]
+              }
+            }
+          }
+        ],
+        "trackingParams": "CAIQui8iEwjshqXAlaiKAxVK8kwCHfwnBvA=",
+        "header": {
+          "liveChatItemDisplayRenderer": {
+            "item": {
+              "liveChatPaidMessageRenderer": {
+                "id": "ChwKGkNJYnV3cG1NenZvQ0ZWM0R3Z1FkN1owQ25B",
+                "timestampUsec": "1665144925240509",
+                "authorName": {
+                  "simpleText": "土司"
+                },
+                "authorPhoto": {
+                  "thumbnails": [
+                    {
+                      "url": "https://yt4.ggpht.com/ytc/AIdro_mZssKAtVURk_MqlGktbHRjbPGol9BEgE-bEzkUxvS2J0o=s32-c-k-c0x00ffffff-no-rj",
+                      "width": 32,
+                      "height": 32
+                    },
+                    {
+                      "url": "https://yt4.ggpht.com/ytc/AIdro_mZssKAtVURk_MqlGktbHRjbPGol9BEgE-bEzkUxvS2J0o=s64-c-k-c0x00ffffff-no-rj",
+                      "width": 64,
+                      "height": 64
+                    }
+                  ]
+                },
+                "purchaseAmountText": {
+                  "simpleText": "NT$300.00"
+                },
+                "headerBackgroundColor": 4293284096,
+                "headerTextColor": 3758096383,
+                "bodyBackgroundColor": 4294278144,
+                "bodyTextColor": 3758096383,
+                "authorExternalChannelId": "UCkiuqhOYPAfJ4bqz3K2s3ag",
+                "authorNameTextColor": 3019898879,
+                "contextMenuEndpoint": {
+                  "clickTrackingParams": "CAMQ7rsEIhMI7IalwJWoigMVSvJMAh38Jwbw",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "ignoreNavigation": true
+                    }
+                  },
+                  "liveChatItemContextMenuEndpoint": {
+                    "params": "Q2g0S0hBb2FRMGxpZFhkd2JVMTZkbTlEUmxZelJIZG5VV1EzV2pCRGJrRWFLU29uQ2hoVlF6SmFWMmRuYjI0eFRrOVVNbFJIWVZaVlRYcFpOMEVTQzBSZlZUQjJWRXB5ZGw5VklBRW9BRElhQ2hoVlEydHBkWEZvVDFsUVFXWktOR0p4ZWpOTE1uTXpZV2M0QkVnQlVBOCUzRA=="
+                  }
+                },
+                "timestampColor": 2164260863,
+                "trackingParams": "CAMQ7rsEIhMI7IalwJWoigMVSvJMAh38Jwbw",
+                "headerOverlayImage": {
+                  "thumbnails": [
+                    {
+                      "url": "//youtube.com/img/pdg/novelty/Novelty_2x.png",
+                      "width": 190,
+                      "height": 120
+                    }
+                  ]
+                },
+                "authorBadges": [
+                  {
+                    "liveChatAuthorBadgeRenderer": {
+                      "icon": {
+                        "iconType": "MODERATOR"
+                      },
+                      "tooltip": "Moderator",
+                      "accessibility": {
+                        "accessibilityData": {
+                          "label": "Moderator"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "liveChatAuthorBadgeRenderer": {
+                      "customThumbnail": {
+                        "thumbnails": [
+                          {
+                            "url": "https://yt3.ggpht.com/X9RkCDxc0D7OtVbbJAxZGXbV4-PZw0cg2h_Vg1C6ahIVaYrcTubP1WF3313-LjKz9PRHgY_fVw=s16-c-k",
+                            "width": 16,
+                            "height": 16
+                          },
+                          {
+                            "url": "https://yt3.ggpht.com/X9RkCDxc0D7OtVbbJAxZGXbV4-PZw0cg2h_Vg1C6ahIVaYrcTubP1WF3313-LjKz9PRHgY_fVw=s32-c-k",
+                            "width": 32,
+                            "height": 32
+                          }
+                        ]
+                      },
+                      "tooltip": "Member (6 months)",
+                      "accessibility": {
+                        "accessibilityData": {
+                          "label": "Member (6 months)"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "textInputBackgroundColor": 805306368,
+                "creatorHeartButton": {
+                  "creatorHeartViewModel": {
+                    "creatorThumbnail": {
+                      "sources": [
+                        {
+                          "url": "https://yt3.ggpht.com/lQaEUeJlLtgioCU0npPsaYOLzg2idrzG0XY_jn-fjPOySnv4nN94U0rCTt5shavBR9brK-e6Tg=s48-c-k-c0x00ffffff-no-rj"
+                        }
+                      ]
+                    },
+                    "heartedIcon": {
+                      "sources": [
+                        {
+                          "clientResource": {
+                            "imageName": "full_heart-filled"
+                          }
+                        }
+                      ]
+                    },
+                    "unheartedIcon": {
+                      "sources": [
+                        {
+                          "clientResource": {
+                            "imageName": "full_heart"
+                          }
+                        }
+                      ],
+                      "processor": {
+                        "borderImageProcessor": {
+                          "imageTint": {
+                            "color": 3758096383
+                          }
+                        }
+                      }
+                    },
+                    "heartedHoverText": "❤ by 庫洛姆•Kuromu",
+                    "heartedAccessibilityLabel": "Remove heart",
+                    "unheartedAccessibilityLabel": "Heart",
+                    "engagementStateKey": "EktsaXZlLWNoYXQtbWVzc2FnZS1lbmdhZ2VtZW50LXN0YXRlLUNod0tHa05KWW5WM2NHMU5lblp2UTBaV00wUjNaMUZrTjFvd1EyNUIgLCgB",
+                    "gradient": {
+                      "sources": [
+                        {
+                          "url": "//youtube.com/img/pdg/gradient.png"
+                        }
+                      ],
+                      "processor": {
+                        "borderImageProcessor": {
+                          "imageTint": {
+                            "color": 4294278144
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "isV2Style": true,
+                "pdgPurchasedNoveltyLoggingDirectives": {
+                  "loggingDirectives": {
+                    "trackingParams": "CAQQ7s4LIhMI7IalwJWoigMVSvJMAh38Jwbw",
+                    "visibility": {
+                      "types": "12"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "targetId": "PAreply_thread",
+    "identifier": {
+      "surface": "ENGAGEMENT_PANEL_SURFACE_LIVE_CHAT",
+      "tag": "PAreply_thread"
+    }
+  }
+}

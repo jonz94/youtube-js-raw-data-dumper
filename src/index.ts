@@ -9,6 +9,7 @@ const main = defineCommand({
   },
   subCommands: {
     chat: import('./commands/chat').then((mod) => mod.default),
+    parser: import('./commands/parser').then((mod) => mod.default),
   },
 })
 
