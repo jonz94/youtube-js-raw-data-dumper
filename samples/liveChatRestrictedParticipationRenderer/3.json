@@ -1,0 +1,619 @@
+{
+  "liveChatRestrictedParticipationRenderer": {
+    "message": {
+      "runs": [
+        {
+          "text": "Subscribers-only mode"
+        }
+      ]
+    },
+    "buttons": [
+      {
+        "liveChatIconToggleButtonRenderer": {
+          "targetId": "product-picker",
+          "icon": {
+            "iconType": "DOLLAR_SIGN_CONTAINER"
+          },
+          "tooltip": "Show your support for 銀河 Galaxy",
+          "accessibility": {
+            "accessibilityData": {
+              "label": "Show your support for 銀河 Galaxy"
+            }
+          },
+          "trackingParams": "CCQQhYkEGPEEIhMI8uq9pfGrigMVC_JMAh2wowpP"
+        }
+      },
+      {
+        "reactionControlPanelOverlayViewModel": {
+          "reactionControlPanel": {
+            "reactionControlPanelViewModel": {
+              "expandedButtons": [
+                {
+                  "reactionControlPanelButtonViewModel": {
+                    "onTap": {
+                      "innertubeCommand": {
+                        "clickTrackingParams": "CCMQ2o0KGAAiEwjy6r2l8auKAxUL8kwCHbCjCk8=",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/feedback"
+                          }
+                        },
+                        "feedbackEndpoint": {
+                          "feedbackToken": "AB9zfpJfY3KEe6832YYjTJiGsAkTq8CQk0_Q-2wd_lOKZxPmtd2lw9SqznnVh0vS_Zv6TMzDBjpurVIYLg6Xns9WYt19L73x6w",
+                          "onFailureAction": {
+                            "clickTrackingParams": "CCMQ2o0KGAAiEwjy6r2l8auKAxUL8kwCHbCjCk8=",
+                            "commandExecutorCommand": {
+                              "commands": [
+                                {
+                                  "clickTrackingParams": "CCMQ2o0KGAAiEwjy6r2l8auKAxUL8kwCHbCjCk8="
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "emojiId": "❤",
+                    "buttonIcon": {
+                      "sources": [
+                        {
+                          "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/2764/72.png"
+                        }
+                      ]
+                    },
+                    "shouldTriggerAnimation": true,
+                    "a11yLabel": "Send ❤",
+                    "loggingDirectives": {
+                      "trackingParams": "CCMQ2o0KGAAiEwjy6r2l8auKAxUL8kwCHbCjCk8=",
+                      "visibility": {
+                        "types": "12"
+                      },
+                      "clientVeSpec": {
+                        "uiType": 165594,
+                        "veCounter": 720900909,
+                        "elementIndex": 0
+                      },
+                      "enableDisplayloggerExperiment": true
+                    }
+                  }
+                },
+                {
+                  "reactionControlPanelButtonViewModel": {
+                    "onTap": {
+                      "innertubeCommand": {
+                        "clickTrackingParams": "CCIQ2o0KGAEiEwjy6r2l8auKAxUL8kwCHbCjCk8=",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/feedback"
+                          }
+                        },
+                        "feedbackEndpoint": {
+                          "feedbackToken": "AB9zfpJQ0ORBAYwaGFGBM-UhZLoSiUVaoqpENxaIGtiQFQGk-sXowzeVUbGPQv-Qdq4hJVh8tJhp9MlPghoo2-n05heaiMqdjhEPuwK_kjBEe3AUop-NeHI",
+                          "onFailureAction": {
+                            "clickTrackingParams": "CCIQ2o0KGAEiEwjy6r2l8auKAxUL8kwCHbCjCk8=",
+                            "commandExecutorCommand": {
+                              "commands": [
+                                {
+                                  "clickTrackingParams": "CCIQ2o0KGAEiEwjy6r2l8auKAxUL8kwCHbCjCk8="
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "emojiId": "😄",
+                    "buttonIcon": {
+                      "sources": [
+                        {
+                          "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/1f604/72.png"
+                        }
+                      ]
+                    },
+                    "shouldTriggerAnimation": true,
+                    "a11yLabel": "Send 😄",
+                    "loggingDirectives": {
+                      "trackingParams": "CCIQ2o0KGAEiEwjy6r2l8auKAxUL8kwCHbCjCk8=",
+                      "visibility": {
+                        "types": "12"
+                      },
+                      "clientVeSpec": {
+                        "uiType": 165594,
+                        "veCounter": 720900908,
+                        "elementIndex": 1
+                      },
+                      "enableDisplayloggerExperiment": true
+                    }
+                  }
+                },
+                {
+                  "reactionControlPanelButtonViewModel": {
+                    "onTap": {
+                      "innertubeCommand": {
+                        "clickTrackingParams": "CCEQ2o0KGAIiEwjy6r2l8auKAxUL8kwCHbCjCk8=",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/feedback"
+                          }
+                        },
+                        "feedbackEndpoint": {
+                          "feedbackToken": "AB9zfpL5tdh4z6lpEJ09zFPjulmmx6ZG3iJ8y27mGH21raAfSrxxSbUL38lFLYkyktUbfFnWmYtekD9f7xEeGg6_N872TKZmdrUe2eqoW-L5wA0jv_LiIls",
+                          "onFailureAction": {
+                            "clickTrackingParams": "CCEQ2o0KGAIiEwjy6r2l8auKAxUL8kwCHbCjCk8=",
+                            "commandExecutorCommand": {
+                              "commands": [
+                                {
+                                  "clickTrackingParams": "CCEQ2o0KGAIiEwjy6r2l8auKAxUL8kwCHbCjCk8="
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "emojiId": "🎉",
+                    "buttonIcon": {
+                      "sources": [
+                        {
+                          "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/1f389/72.png"
+                        }
+                      ]
+                    },
+                    "shouldTriggerAnimation": true,
+                    "a11yLabel": "Send 🎉",
+                    "loggingDirectives": {
+                      "trackingParams": "CCEQ2o0KGAIiEwjy6r2l8auKAxUL8kwCHbCjCk8=",
+                      "visibility": {
+                        "types": "12"
+                      },
+                      "clientVeSpec": {
+                        "uiType": 165594,
+                        "veCounter": 720900907,
+                        "elementIndex": 2
+                      },
+                      "enableDisplayloggerExperiment": true
+                    }
+                  }
+                },
+                {
+                  "reactionControlPanelButtonViewModel": {
+                    "onTap": {
+                      "innertubeCommand": {
+                        "clickTrackingParams": "CCAQ2o0KGAMiEwjy6r2l8auKAxUL8kwCHbCjCk8=",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/feedback"
+                          }
+                        },
+                        "feedbackEndpoint": {
+                          "feedbackToken": "AB9zfpKsex0aFo4JvtUG3RCyCmF2rN5Hk0bDIM9wGNurz7diiEk-_8BhTA4NEoiL1iTuELdI3MhZjK0wlYi8_58RKu_PKrRYqGP2XJ1_dQfraysXi5MgKbQ",
+                          "onFailureAction": {
+                            "clickTrackingParams": "CCAQ2o0KGAMiEwjy6r2l8auKAxUL8kwCHbCjCk8=",
+                            "commandExecutorCommand": {
+                              "commands": [
+                                {
+                                  "clickTrackingParams": "CCAQ2o0KGAMiEwjy6r2l8auKAxUL8kwCHbCjCk8="
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "emojiId": "😳",
+                    "buttonIcon": {
+                      "sources": [
+                        {
+                          "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/1f633/72.png"
+                        }
+                      ]
+                    },
+                    "shouldTriggerAnimation": true,
+                    "a11yLabel": "Send 😳",
+                    "loggingDirectives": {
+                      "trackingParams": "CCAQ2o0KGAMiEwjy6r2l8auKAxUL8kwCHbCjCk8=",
+                      "visibility": {
+                        "types": "12"
+                      },
+                      "clientVeSpec": {
+                        "uiType": 165594,
+                        "veCounter": 720900906,
+                        "elementIndex": 3
+                      },
+                      "enableDisplayloggerExperiment": true
+                    }
+                  }
+                },
+                {
+                  "reactionControlPanelButtonViewModel": {
+                    "onTap": {
+                      "innertubeCommand": {
+                        "clickTrackingParams": "CB8Q2o0KGAQiEwjy6r2l8auKAxUL8kwCHbCjCk8=",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/feedback"
+                          }
+                        },
+                        "feedbackEndpoint": {
+                          "feedbackToken": "AB9zfpK6tpUgTa6YMpC1a5ON1z6P0urXSwKgHylQx3k-XDyAHuz9GErjNODfo--VkhUtPK_CcvVFF5M2UD6hCLw3H2p7-y0kXsuKLbj17uH-LupXsIRfBno",
+                          "onFailureAction": {
+                            "clickTrackingParams": "CB8Q2o0KGAQiEwjy6r2l8auKAxUL8kwCHbCjCk8=",
+                            "commandExecutorCommand": {
+                              "commands": [
+                                {
+                                  "clickTrackingParams": "CB8Q2o0KGAQiEwjy6r2l8auKAxUL8kwCHbCjCk8="
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "emojiId": "💯",
+                    "buttonIcon": {
+                      "sources": [
+                        {
+                          "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/1f4af/72.png"
+                        }
+                      ]
+                    },
+                    "shouldTriggerAnimation": true,
+                    "a11yLabel": "Send 💯",
+                    "loggingDirectives": {
+                      "trackingParams": "CB8Q2o0KGAQiEwjy6r2l8auKAxUL8kwCHbCjCk8=",
+                      "visibility": {
+                        "types": "12"
+                      },
+                      "clientVeSpec": {
+                        "uiType": 165594,
+                        "veCounter": 720900905,
+                        "elementIndex": 4
+                      },
+                      "enableDisplayloggerExperiment": true
+                    }
+                  }
+                }
+              ],
+              "collapsedButton": {
+                "reactionControlPanelButtonViewModel": {
+                  "emojiId": "❤",
+                  "shouldTriggerAnimation": false,
+                  "a11yLabel": "❤",
+                  "buttonIconType": "EMPTY_HEART",
+                  "loggingDirectives": {
+                    "trackingParams": "CB4Q3I0KIhMI8uq9pfGrigMVC_JMAh2wowpP",
+                    "visibility": {
+                      "types": "12"
+                    },
+                    "enableDisplayloggerExperiment": true
+                  }
+                }
+              },
+              "onMouseEnter": {
+                "innertubeCommand": {
+                  "clickTrackingParams": "CB0Q3Y0KIhMI8uq9pfGrigMVC_JMAh2wowpP",
+                  "entityUpdateCommand": {
+                    "entityBatchUpdate": {
+                      "mutations": [
+                        {
+                          "entityKey": "EjZ5b3V0dWJlL2FwcC9yZWFjdGlvbl9jb250cm9sX3BhbmVsX2V4cGFuZGVkX2VudGl0eV9rZXkgswIoAQ%3D%3D",
+                          "type": "ENTITY_MUTATION_TYPE_REPLACE",
+                          "payload": {
+                            "booleanEntity": {
+                              "key": "EjZ5b3V0dWJlL2FwcC9yZWFjdGlvbl9jb250cm9sX3BhbmVsX2V4cGFuZGVkX2VudGl0eV9rZXkgswIoAQ%3D%3D",
+                              "value": true
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              "onMouseLeave": {
+                "innertubeCommand": {
+                  "clickTrackingParams": "CB0Q3Y0KIhMI8uq9pfGrigMVC_JMAh2wowpP",
+                  "entityUpdateCommand": {
+                    "entityBatchUpdate": {
+                      "mutations": [
+                        {
+                          "entityKey": "EjZ5b3V0dWJlL2FwcC9yZWFjdGlvbl9jb250cm9sX3BhbmVsX2V4cGFuZGVkX2VudGl0eV9rZXkgswIoAQ%3D%3D",
+                          "type": "ENTITY_MUTATION_TYPE_REPLACE",
+                          "payload": {
+                            "booleanEntity": {
+                              "key": "EjZ5b3V0dWJlL2FwcC9yZWFjdGlvbl9jb250cm9sX3BhbmVsX2V4cGFuZGVkX2VudGl0eV9rZXkgswIoAQ%3D%3D",
+                              "value": false
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              "reactionControlPanelExpandedEntityKey": "EjZ5b3V0dWJlL2FwcC9yZWFjdGlvbl9jb250cm9sX3BhbmVsX2V4cGFuZGVkX2VudGl0eV9rZXkgswIoAQ%3D%3D",
+              "loggingDirectives": {
+                "trackingParams": "CB0Q3Y0KIhMI8uq9pfGrigMVC_JMAh2wowpP",
+                "visibility": {
+                  "types": "12"
+                },
+                "enableDisplayloggerExperiment": true
+              }
+            }
+          },
+          "liveReactionsSettingEntityKey": "Ejg4TnFFeExBdkNuMHlvdXR1YmUvYXBwL2xpdmVfcmVhY3Rpb25zX3NldHRpbmdfZW50aXR5X2tleSCzAigB",
+          "emojiFountain": {
+            "emojiFountainViewModel": {
+              "emojiFountainDataEntityKey": "EiV5b3V0dWJlL2FwcC9lbW9qaV9mb3VudGFpbl9lbnRpdHlfa2V5IIkDKAE%3D",
+              "loggingDirectives": {
+                "trackingParams": "CBwQ3o0KIhMI8uq9pfGrigMVC_JMAh2wowpP",
+                "visibility": {
+                  "types": "12"
+                },
+                "enableDisplayloggerExperiment": true
+              }
+            }
+          },
+          "loggingDirectives": {
+            "trackingParams": "CBsQ2I0KGPIEIhMI8uq9pfGrigMVC_JMAh2wowpP",
+            "visibility": {
+              "types": "12"
+            },
+            "enableDisplayloggerExperiment": true
+          }
+        }
+      }
+    ],
+    "panels": [
+      {
+        "liveChatProductPickerPanelViewModel": {
+          "items": [
+            {
+              "liveChatProductPickerPanelItemViewModel": {
+                "title": {
+                  "content": "Super Stickers"
+                },
+                "description": {
+                  "content": "Get creative with animated GIFs"
+                },
+                "onTapCommand": {
+                  "parallelCommand": {
+                    "commands": [
+                      {
+                        "innertubeCommand": {
+                          "clickTrackingParams": "CBoQsZ4EGAAiEwjy6r2l8auKAxUL8kwCHbCjCk8=",
+                          "commandMetadata": {
+                            "webCommandMetadata": {
+                              "ignoreNavigation": true
+                            }
+                          },
+                          "openSuperStickerBuyFlowCommand": {
+                            "params": "Q2lrcUp3b1lWVU52VGt0RGMxZzVkRk40YVhWb09XcDZibGw0V0daM0VnczRUbkZGZUV4QmRrTnVNQkFCSWhoVlEyOU9TME56V0RsMFUzaHBkV2c1YW5wdVdYaFlabmNvQVRnQQ=="
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                "trackingParams": "CBoQsZ4EGAAiEwjy6r2l8auKAxUL8kwCHbCjCk8=",
+                "productImage": {
+                  "themedImageViewModel": {
+                    "imageLight": {
+                      "sources": [
+                        {
+                          "url": "https://www.gstatic.com/youtube/img/livestream/live_chat/product_picker_panel_animation/super_stickers_v1.webp"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "liveChatProductPickerPanelItemViewModel": {
+                "title": {
+                  "content": "Super Chat"
+                },
+                "description": {
+                  "content": "Make your message stand out"
+                },
+                "onTapCommand": {
+                  "parallelCommand": {
+                    "commands": [
+                      {
+                        "innertubeCommand": {
+                          "clickTrackingParams": "CBkQsJ4EGAEiEwjy6r2l8auKAxUL8kwCHbCjCk8=",
+                          "commandMetadata": {
+                            "webCommandMetadata": {
+                              "ignoreNavigation": true
+                            }
+                          },
+                          "liveChatPurchaseMessageEndpoint": {
+                            "params": "Q2lrcUp3b1lWVU52VGt0RGMxZzVkRk40YVhWb09XcDZibGw0V0daM0VnczRUbkZGZUV4QmRrTnVNQkFCSUFFNEFFSUNDQUElM0Q="
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                "trackingParams": "CBkQsJ4EGAEiEwjy6r2l8auKAxUL8kwCHbCjCk8=",
+                "productImage": {
+                  "themedImageViewModel": {
+                    "imageLight": {
+                      "sources": [
+                        {
+                          "url": "https://www.gstatic.com/youtube/img/livestream/live_chat/product_picker_panel_animation/super_chat_v1.webp"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "liveChatProductPickerPanelItemViewModel": {
+                "title": {
+                  "content": "Membership"
+                },
+                "description": {
+                  "content": "Unlock members-only perks"
+                },
+                "onTapCommand": {
+                  "parallelCommand": {
+                    "commands": [
+                      {
+                        "innertubeCommand": {
+                          "clickTrackingParams": "CBgQr54EGAIiEwjy6r2l8auKAxUL8kwCHbCjCk8=",
+                          "commandMetadata": {
+                            "webCommandMetadata": {
+                              "sendPost": true,
+                              "apiUrl": "/youtubei/v1/ypc/get_offers"
+                            }
+                          },
+                          "ypcGetOffersEndpoint": {
+                            "params": "ChwIAxIYVUNvTktDc1g5dFN4aXVoOWp6bll4WGZ3GAMqIAoLOE5xRXhMQXZDbjAYASoNCgs4TnFFeExBdkNuMEgG"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                "trackingParams": "CBgQr54EGAIiEwjy6r2l8auKAxUL8kwCHbCjCk8=",
+                "productImage": {
+                  "themedImageViewModel": {
+                    "imageLight": {
+                      "sources": [
+                        {
+                          "url": "https://www.gstatic.com/youtube/img/livestream/live_chat/product_picker_panel_animation/sponsorship_product_v1.webp"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "liveChatProductPickerPanelItemViewModel": {
+                "title": {
+                  "content": "Membership gifting"
+                },
+                "description": {
+                  "content": "Buy memberships for viewers"
+                },
+                "onTapCommand": {
+                  "parallelCommand": {
+                    "commands": [
+                      {
+                        "innertubeCommand": {
+                          "clickTrackingParams": "CBcQq50IGAMiEwjy6r2l8auKAxUL8kwCHbCjCk8=",
+                          "showSponsorshipsGiftOfferDialogCommand": {
+                            "contentCommand": {
+                              "clickTrackingParams": "CBcQq50IGAMiEwjy6r2l8auKAxUL8kwCHbCjCk8=",
+                              "commandMetadata": {
+                                "webCommandMetadata": {
+                                  "sendPost": true,
+                                  "apiUrl": "/youtubei/v1/ypc/get_offers"
+                                }
+                              },
+                              "ypcOffersEndpoint": {
+                                "params": "ChwIAxIYVUNvTktDc1g5dFN4aXVoOWp6bll4WGZ3GA8yMNIBLQopKicKGFVDb05LQ3NYOXRTeGl1aDlqem5ZeFhmdxILOE5xRXhMQXZDbjAgAQ%3D%3D"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                "trackingParams": "CBcQq50IGAMiEwjy6r2l8auKAxUL8kwCHbCjCk8=",
+                "productImage": {
+                  "themedImageViewModel": {
+                    "imageLight": {
+                      "sources": [
+                        {
+                          "url": "https://www.gstatic.com/youtube/img/livestream/live_chat/product_picker_panel_animation/sponsorship_gifting_v1.webp"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "trackingParams": "CBUQsqwDGPMEIhMI8uq9pfGrigMVC_JMAh2wowpP",
+          "title": {
+            "content": "Show support for 銀河 Galaxy",
+            "styleRuns": [
+              {
+                "startIndex": 0,
+                "length": 26
+              }
+            ]
+          },
+          "closeButton": {
+            "buttonViewModel": {
+              "iconName": "CLOSE",
+              "style": "BUTTON_VIEW_MODEL_STYLE_MONO",
+              "trackingParams": "CBYQsp4EIhMI8uq9pfGrigMVC_JMAh2wowpP",
+              "isFullWidth": false,
+              "type": "BUTTON_VIEW_MODEL_TYPE_TEXT",
+              "buttonSize": "BUTTON_VIEW_MODEL_SIZE_DEFAULT",
+              "state": "BUTTON_VIEW_MODEL_STATE_ACTIVE",
+              "shouldLogGestures": true
+            }
+          }
+        }
+      }
+    ],
+    "icon": {
+      "iconType": "INFO"
+    },
+    "onClickCommand": {
+      "clickTrackingParams": "CAEQl98BIhMI8uq9pfGrigMVC_JMAh2wowpP",
+      "liveChatAddToToastAction": {
+        "item": {
+          "notificationActionRenderer": {
+            "responseText": {
+              "simpleText": "Only channel subscribers of 1 minute or longer can send messages."
+            },
+            "actionButton": {
+              "buttonRenderer": {
+                "style": "STYLE_BLUE_TEXT",
+                "size": "SIZE_DEFAULT",
+                "isDisabled": false,
+                "text": {
+                  "runs": [
+                    {
+                      "text": "Learn more"
+                    }
+                  ]
+                },
+                "trackingParams": "CBQQ8FsiEwjy6r2l8auKAxUL8kwCHbCjCk8=",
+                "command": {
+                  "clickTrackingParams": "CBQQ8FsiEwjy6r2l8auKAxUL8kwCHbCjCk8=",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "https://support.google.com/youtube/?p=subs_only_chat_viewer&hl=en",
+                      "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                      "rootVe": 83769
+                    }
+                  },
+                  "urlEndpoint": {
+                    "url": "https://support.google.com/youtube/?p=subs_only_chat_viewer&hl=en",
+                    "target": "TARGET_NEW_WINDOW"
+                  }
+                }
+              }
+            },
+            "trackingParams": "CBMQuWoiEwjy6r2l8auKAxUL8kwCHbCjCk8="
+          }
+        }
+      }
+    }
+  }
+}

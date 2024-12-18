@@ -1,0 +1,223 @@
+{
+  "liveChatPaidMessageRenderer": {
+    "id": "ChwKGkNJYVlnUDMtaWZrQ0Zab0FyUVlkS2hVQ1Nn",
+    "timestampUsec": "1658406877003943",
+    "authorName": {
+      "simpleText": "土司"
+    },
+    "authorPhoto": {
+      "thumbnails": [
+        {
+          "url": "https://yt4.ggpht.com/ytc/AIdro_mZssKAtVURk_MqlGktbHRjbPGol9BEgE-bEzkUxvS2J0o=s32-c-k-c0x00ffffff-no-rj",
+          "width": 32,
+          "height": 32
+        },
+        {
+          "url": "https://yt4.ggpht.com/ytc/AIdro_mZssKAtVURk_MqlGktbHRjbPGol9BEgE-bEzkUxvS2J0o=s64-c-k-c0x00ffffff-no-rj",
+          "width": 64,
+          "height": 64
+        }
+      ]
+    },
+    "purchaseAmountText": {
+      "simpleText": "NT$150.00"
+    },
+    "message": {
+      "runs": [
+        {
+          "text": "老大一定行，努力挑戰的老大很棒 充滿魅力"
+        }
+      ]
+    },
+    "headerBackgroundColor": 4294947584,
+    "headerTextColor": 3741319168,
+    "bodyBackgroundColor": 4294953512,
+    "bodyTextColor": 3741319168,
+    "authorExternalChannelId": "UCkiuqhOYPAfJ4bqz3K2s3ag",
+    "authorNameTextColor": 2315255808,
+    "contextMenuEndpoint": {
+      "clickTrackingParams": "CAcQ7rsEIhMItNXN_uiqigMVnO9MAh17Py1h",
+      "commandMetadata": {
+        "webCommandMetadata": {
+          "ignoreNavigation": true
+        }
+      },
+      "liveChatItemContextMenuEndpoint": {
+        "params": "Q2g0S0hBb2FRMGxoV1dkUU15MXBabXREUmxwdlFYSlJXV1JMYUZWRFUyY2FLU29uQ2hoVlF6SmFWMmRuYjI0eFRrOVVNbFJIWVZaVlRYcFpOMEVTQzBGeGFEZDRabEZYTWxWWklBRW9CRElhQ2hoVlEydHBkWEZvVDFsUVFXWktOR0p4ZWpOTE1uTXpZV2M0QWtnQlVBOCUzRA=="
+      }
+    },
+    "timestampColor": 2147483648,
+    "contextMenuAccessibility": {
+      "accessibilityData": {
+        "label": "Chat actions"
+      }
+    },
+    "timestampText": {
+      "simpleText": "56:14"
+    },
+    "trackingParams": "CAcQ7rsEIhMItNXN_uiqigMVnO9MAh17Py1h",
+    "headerOverlayImage": {
+      "thumbnails": [
+        {
+          "url": "//youtube.com/img/pdg/novelty/Novelty_2x.png",
+          "width": 190,
+          "height": 120
+        }
+      ]
+    },
+    "authorBadges": [
+      {
+        "liveChatAuthorBadgeRenderer": {
+          "icon": {
+            "iconType": "MODERATOR"
+          },
+          "tooltip": "Moderator",
+          "accessibility": {
+            "accessibilityData": {
+              "label": "Moderator"
+            }
+          }
+        }
+      },
+      {
+        "liveChatAuthorBadgeRenderer": {
+          "customThumbnail": {
+            "thumbnails": [
+              {
+                "url": "https://yt3.ggpht.com/KdDhxTIreYo-yWccMoxtkosRwR3UT8V8sykrWdypp3ZMUN4y3DjqgGYDbdl9aCAf9lcVkAe8=s16-c-k",
+                "width": 16,
+                "height": 16
+              },
+              {
+                "url": "https://yt3.ggpht.com/KdDhxTIreYo-yWccMoxtkosRwR3UT8V8sykrWdypp3ZMUN4y3DjqgGYDbdl9aCAf9lcVkAe8=s32-c-k",
+                "width": 32,
+                "height": 32
+              }
+            ]
+          },
+          "tooltip": "Member (2 months)",
+          "accessibility": {
+            "accessibilityData": {
+              "label": "Member (2 months)"
+            }
+          }
+        }
+      }
+    ],
+    "textInputBackgroundColor": 822083583,
+    "creatorHeartButton": {
+      "creatorHeartViewModel": {
+        "creatorThumbnail": {
+          "sources": [
+            {
+              "url": "https://yt3.ggpht.com/lQaEUeJlLtgioCU0npPsaYOLzg2idrzG0XY_jn-fjPOySnv4nN94U0rCTt5shavBR9brK-e6Tg=s48-c-k-c0x00ffffff-no-rj"
+            }
+          ]
+        },
+        "heartedIcon": {
+          "sources": [
+            {
+              "clientResource": {
+                "imageName": "full_heart-filled"
+              }
+            }
+          ]
+        },
+        "unheartedIcon": {
+          "sources": [
+            {
+              "clientResource": {
+                "imageName": "full_heart"
+              }
+            }
+          ],
+          "processor": {
+            "borderImageProcessor": {
+              "imageTint": {
+                "color": 3741319168
+              }
+            }
+          }
+        },
+        "heartedHoverText": "❤ by 庫洛姆•Kuromu",
+        "heartedAccessibilityLabel": "Remove heart",
+        "unheartedAccessibilityLabel": "Heart",
+        "engagementStateKey": "EktsaXZlLWNoYXQtbWVzc2FnZS1lbmdhZ2VtZW50LXN0YXRlLUNod0tHa05KWVZsblVETXRhV1pyUTBaYWIwRnlVVmxrUzJoVlExTm4gLCgB",
+        "gradient": {
+          "sources": [
+            {
+              "url": "//youtube.com/img/pdg/gradient.png"
+            }
+          ],
+          "processor": {
+            "borderImageProcessor": {
+              "imageTint": {
+                "color": 4294953512
+              }
+            }
+          }
+        }
+      }
+    },
+    "isV2Style": true,
+    "pdgPurchasedNoveltyLoggingDirectives": {
+      "loggingDirectives": {
+        "trackingParams": "CAkQ7s4LIhMItNXN_uiqigMVnO9MAh17Py1h",
+        "visibility": {
+          "types": "12"
+        }
+      }
+    },
+    "replyButton": {
+      "pdgReplyButtonViewModel": {
+        "replyButton": {
+          "buttonViewModel": {
+            "iconName": "CHAT",
+            "onTap": {
+              "innertubeCommand": {
+                "clickTrackingParams": "CAgQ68ENIhMItNXN_uiqigMVnO9MAh17Py1h",
+                "showEngagementPanelEndpoint": {
+                  "identifier": {
+                    "surface": "ENGAGEMENT_PANEL_SURFACE_LIVE_CHAT",
+                    "tag": "PAreply_thread"
+                  },
+                  "globalConfiguration": {
+                    "params": "ggm2AQojVWd6U2gxLTQ3TllsZVpNVm4xQjRBYUFCRHFnQjVNSDltZ0kSVgopKicKGFVDMlpXZ2dvbjFOT1QyVEdhVlVNelk3QRILQXFoN3hmUVcyVVkQARgEIAE6I1VnelNoMS00N05ZbGVaTVZuMUI0QWFBQkRxZ0I1TUg5bWdJGgggALABAPgBACIpKicKGFVDMlpXZ2dvbjFOT1QyVEdhVlVNelk3QRILQXFoN3hmUVcyVVkoATAB"
+                  },
+                  "engagementPanelPresentationConfigs": {
+                    "engagementPanelPopupPresentationConfig": {
+                      "popupType": "PANEL_POPUP_TYPE_DIALOG"
+                    }
+                  }
+                }
+              }
+            },
+            "accessibilityText": "Reply",
+            "style": "BUTTON_VIEW_MODEL_STYLE_CUSTOM",
+            "trackingParams": "CAgQ68ENIhMItNXN_uiqigMVnO9MAh17Py1h",
+            "type": "BUTTON_VIEW_MODEL_TYPE_TONAL",
+            "buttonSize": "BUTTON_VIEW_MODEL_SIZE_XSMALL",
+            "customBackgroundColor": 218103808,
+            "customFontColor": 3741319168,
+            "loggingDirectives": {
+              "trackingParams": "CAgQ68ENIhMItNXN_uiqigMVnO9MAh17Py1h",
+              "visibility": {
+                "types": "12"
+              }
+            }
+          }
+        },
+        "replyCountEntityKey": "EiNVZ3pTaDEtNDdOWWxlWk1WbjFCNEFhQUJEcWdCNU1IOW1nSSDxAygB",
+        "replyCountPlaceholder": {
+          "content": "Reply",
+          "styleRuns": [
+            {
+              "startIndex": 0,
+              "length": 5
+            }
+          ]
+        }
+      }
+    }
+  }
+}

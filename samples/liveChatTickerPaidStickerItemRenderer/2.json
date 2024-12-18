@@ -1,0 +1,228 @@
+{
+  "liveChatTickerPaidStickerItemRenderer": {
+    "id": "ChwKGkNNT0prdVNqdW9RREZhMF9yUVlkUGZZT0V3",
+    "authorPhoto": {
+      "thumbnails": [
+        {
+          "url": "https://yt4.ggpht.com/ytc/AIdro_mJMNqjr7qrkAZkFX-hXpITiaT0l-HOoLbdxucO1GX1XN4=s32-c-k-c0x00ffffff-no-rj",
+          "width": 32,
+          "height": 32
+        },
+        {
+          "url": "https://yt4.ggpht.com/ytc/AIdro_mJMNqjr7qrkAZkFX-hXpITiaT0l-HOoLbdxucO1GX1XN4=s64-c-k-c0x00ffffff-no-rj",
+          "width": 64,
+          "height": 64
+        }
+      ],
+      "accessibility": {
+        "accessibilityData": {
+          "label": "J C"
+        }
+      }
+    },
+    "startBackgroundColor": 4293467747,
+    "endBackgroundColor": 4290910299,
+    "durationSec": 1800,
+    "fullDurationSec": 1800,
+    "showItemEndpoint": {
+      "clickTrackingParams": "CAYQscgEIhMIpfCv3MioigMV1fBMAh1DSiXx",
+      "commandMetadata": {
+        "webCommandMetadata": {
+          "ignoreNavigation": true
+        }
+      },
+      "showLiveChatItemEndpoint": {
+        "renderer": {
+          "liveChatPaidStickerRenderer": {
+            "id": "ChwKGkNNT0prdVNqdW9RREZhMF9yUVlkUGZZT0V3",
+            "contextMenuEndpoint": {
+              "clickTrackingParams": "CAgQ77sEIhMIpfCv3MioigMV1fBMAh1DSiXx",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "ignoreNavigation": true
+                }
+              },
+              "liveChatItemContextMenuEndpoint": {
+                "params": "Q2g0S0hBb2FRMDFQU210MVUycDFiMUZFUm1Fd1gzSlJXV1JRWmxsUFJYY2FLU29uQ2hoVlF6SmFWMmRuYjI0eFRrOVVNbFJIWVZaVlRYcFpOMEVTQzNwZk9UVTNiemx0VG0xaklBRW9CRElhQ2hoVlExVnRMV2xKVkRGSGMyUnRPRzQwYVhkSWFtSXpSa0U0QWtnQlVCUSUzRA=="
+              }
+            },
+            "contextMenuAccessibility": {
+              "accessibilityData": {
+                "label": "Chat actions"
+              }
+            },
+            "timestampUsec": "1708444524473088",
+            "authorPhoto": {
+              "thumbnails": [
+                {
+                  "url": "https://yt4.ggpht.com/ytc/AIdro_mJMNqjr7qrkAZkFX-hXpITiaT0l-HOoLbdxucO1GX1XN4=s32-c-k-c0x00ffffff-no-rj",
+                  "width": 32,
+                  "height": 32
+                },
+                {
+                  "url": "https://yt4.ggpht.com/ytc/AIdro_mJMNqjr7qrkAZkFX-hXpITiaT0l-HOoLbdxucO1GX1XN4=s64-c-k-c0x00ffffff-no-rj",
+                  "width": 64,
+                  "height": 64
+                }
+              ]
+            },
+            "authorName": {
+              "simpleText": "J C"
+            },
+            "authorExternalChannelId": "UCUm-iIT1Gsdm8n4iwHjb3FA",
+            "timestampText": {
+              "simpleText": "1:49:36"
+            },
+            "sticker": {
+              "thumbnails": [
+                {
+                  "url": "//lh3.googleusercontent.com/k4OwpD05s52dcfXQ88DUcco5bLW38cHkpfmQftjSNzuXJTOOHsXoa-trHRRnoRYGZSxti7APvOha265X9P4=s144-rwa",
+                  "width": 144,
+                  "height": 144
+                },
+                {
+                  "url": "//lh3.googleusercontent.com/k4OwpD05s52dcfXQ88DUcco5bLW38cHkpfmQftjSNzuXJTOOHsXoa-trHRRnoRYGZSxti7APvOha265X9P4=s288-rwa",
+                  "width": 288,
+                  "height": 288
+                }
+              ],
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "Shiba dog wearing samurai armor writing 'You're amazing' in the air with sparklers"
+                }
+              }
+            },
+            "authorBadges": [
+              {
+                "liveChatAuthorBadgeRenderer": {
+                  "customThumbnail": {
+                    "thumbnails": [
+                      {
+                        "url": "https://yt3.ggpht.com/ECY6ss6mnC-Ay4w1GfhDc7HiKBd9T8pSsdCIIW3DKEuWLODyt4slsjimjpp-Tdls3WQw7RwDRA=s16-c-k",
+                        "width": 16,
+                        "height": 16
+                      },
+                      {
+                        "url": "https://yt3.ggpht.com/ECY6ss6mnC-Ay4w1GfhDc7HiKBd9T8pSsdCIIW3DKEuWLODyt4slsjimjpp-Tdls3WQw7RwDRA=s32-c-k",
+                        "width": 32,
+                        "height": 32
+                      }
+                    ]
+                  },
+                  "tooltip": "New member",
+                  "accessibility": {
+                    "accessibilityData": {
+                      "label": "New member"
+                    }
+                  }
+                }
+              }
+            ],
+            "moneyChipBackgroundColor": 4293467747,
+            "moneyChipTextColor": 4294967295,
+            "purchaseAmountText": {
+              "simpleText": "NT$1,490.00"
+            },
+            "stickerDisplayWidth": 144,
+            "stickerDisplayHeight": 144,
+            "backgroundColor": 4293467747,
+            "authorNameTextColor": 3019898879,
+            "trackingParams": "CAgQ77sEIhMIpfCv3MioigMV1fBMAh1DSiXx",
+            "headerOverlayImage": {
+              "thumbnails": [
+                {
+                  "url": "https://www.gstatic.com/youtube/img/pdg/novelty/1st_purchase_celebration_novelty_animation/1st_Purchase_Celebration_Novelty_STK_IL_T6_v1.webp",
+                  "width": 146,
+                  "height": 104
+                }
+              ]
+            },
+            "isV2Style": true,
+            "pdgPurchasedNoveltyLoggingDirectives": {
+              "loggingDirectives": {
+                "trackingParams": "CAsQ7s4LIhMIpfCv3MioigMV1fBMAh1DSiXx",
+                "visibility": {
+                  "types": "12"
+                }
+              }
+            },
+            "lowerBumper": {
+              "liveChatItemBumperViewModel": {
+                "content": {
+                  "bumperUserEduContentViewModel": {
+                    "text": {
+                      "content": "Let's celebrate their 1st Super on a live stream",
+                      "styleRuns": [
+                        {
+                          "startIndex": 0,
+                          "length": 48
+                        }
+                      ]
+                    },
+                    "trackingParams": "CAoQk5YLIhMIpfCv3MioigMV1fBMAh1DSiXx",
+                    "image": {
+                      "sources": [
+                        {
+                          "clientResource": {
+                            "imageName": "CELEBRATION",
+                            "imageColor": 4294901760
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                "pdgPurchasedBumperLoggingDirectives": {
+                  "loggingDirectives": {
+                    "trackingParams": "CAkQ784LIhMIpfCv3MioigMV1fBMAh1DSiXx",
+                    "visibility": {
+                      "types": "12"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "trackingParams": "CAcQjtEGIhMIpfCv3MioigMV1fBMAh1DSiXx"
+      }
+    },
+    "authorExternalChannelId": "UCUm-iIT1Gsdm8n4iwHjb3FA",
+    "tickerThumbnails": [
+      {
+        "thumbnails": [
+          {
+            "url": "//lh3.googleusercontent.com/R3GMKr3HlbWPhmhZkNZ1HKOdZIMKbhC5V6pqmG-g6qaeX4Xu3_suFwHH-PnwavTjHMG5yvAmbsWi421sAw=s32-rp",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "url": "//lh3.googleusercontent.com/R3GMKr3HlbWPhmhZkNZ1HKOdZIMKbhC5V6pqmG-g6qaeX4Xu3_suFwHH-PnwavTjHMG5yvAmbsWi421sAw=s64-rp",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "accessibility": {
+          "accessibilityData": {
+            "label": "Shiba Inu sticker pack"
+          }
+        }
+      },
+      {
+        "thumbnails": [
+          {
+            "url": "//lh3.googleusercontent.com/S6we2hZraES7JrbiYJJS85G3m9OOX0YoKAxsNRbFHOFCucIzjk29w0XpexkQYOU2yUxzQYN6W9TDyhjWS2zh=s32-rp",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "url": "//lh3.googleusercontent.com/S6we2hZraES7JrbiYJJS85G3m9OOX0YoKAxsNRbFHOFCucIzjk29w0XpexkQYOU2yUxzQYN6W9TDyhjWS2zh=s64-rp",
+            "width": 64,
+            "height": 64
+          }
+        ]
+      }
+    ],
+    "trackingParams": "CAYQscgEIhMIpfCv3MioigMV1fBMAh1DSiXx"
+  }
+}

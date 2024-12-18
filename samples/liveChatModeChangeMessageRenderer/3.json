@@ -1,0 +1,37 @@
+{
+  "liveChatModeChangeMessageRenderer": {
+    "id": "ChwKGkNQbkt1ZHlqcVlvREZYREF3Z1FkMWdzMGRR",
+    "timestampUsec": "1734248663771180",
+    "icon": {
+      "iconType": "TAB_SUBSCRIPTIONS"
+    },
+    "text": {
+      "runs": [
+        {
+          "text": "庫路路 / Kururun  Ch.",
+          "bold": true
+        },
+        {
+          "text": " turned on subscribers-only mode",
+          "bold": true
+        }
+      ]
+    },
+    "subtext": {
+      "runs": [
+        {
+          "text": "Only channel subscribers of ",
+          "italics": true
+        },
+        {
+          "text": "1 minute",
+          "italics": true
+        },
+        {
+          "text": " or longer can send messages",
+          "italics": true
+        }
+      ]
+    }
+  }
+}

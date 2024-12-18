@@ -1,0 +1,190 @@
+{
+  "liveChatPaidMessageRenderer": {
+    "id": "ChwKGkNJRDZ6T0djcUlvREZjVFp3Z1FkcVdRUGdn",
+    "timestampUsec": "1734212455471391",
+    "authorName": {
+      "simpleText": "傑哥-麵大"
+    },
+    "authorPhoto": {
+      "thumbnails": [
+        {
+          "url": "https://yt4.ggpht.com/e43VW12d6iLs7bBsjheAfjJevpQPQePK9iZbBuVoWL7c3Cn0AmLFMU0pRjZqiFPcoLIytlU7seE=s32-c-k-c0x00ffffff-no-rj",
+          "width": 32,
+          "height": 32
+        },
+        {
+          "url": "https://yt4.ggpht.com/e43VW12d6iLs7bBsjheAfjJevpQPQePK9iZbBuVoWL7c3Cn0AmLFMU0pRjZqiFPcoLIytlU7seE=s64-c-k-c0x00ffffff-no-rj",
+          "width": 64,
+          "height": 64
+        }
+      ]
+    },
+    "purchaseAmountText": {
+      "simpleText": "NT$75.00"
+    },
+    "message": {
+      "runs": [
+        {
+          "text": "先去睡了，謝謝薇妮這陣子常開這麼chill的深夜森友會，讓我度過枯燥的工作or讀書時間（潛水久了忽然想說"
+        },
+        {
+          "emoji": {
+            "emojiId": "🦈",
+            "shortcuts": [":shark:"],
+            "searchTerms": ["shark"],
+            "image": {
+              "thumbnails": [
+                {
+                  "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/1f988/72.png"
+                }
+              ],
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "🦈"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "headerBackgroundColor": 4278239141,
+    "headerTextColor": 4278190080,
+    "bodyBackgroundColor": 4280150454,
+    "bodyTextColor": 4278190080,
+    "authorExternalChannelId": "UCj4YPwdLxx6mo6R7gu6YtQQ",
+    "authorNameTextColor": 2315255808,
+    "contextMenuEndpoint": {
+      "clickTrackingParams": "CB8Q7rsEIhMIueCe_p2oigMVprtWAR21JA59",
+      "commandMetadata": {
+        "webCommandMetadata": {
+          "ignoreNavigation": true
+        }
+      },
+      "liveChatItemContextMenuEndpoint": {
+        "params": "Q2g0S0hBb2FRMGxFTm5wUFIyTnhTVzlFUm1OVVduZG5VV1J4VjFGUVoyY2FLU29uQ2hoVlEzSjVZMFIyTVhOWlZrZElOVWRMT0ZoQ1ZGaEJRbWNTQzI4eVJuUkZRa290UWs4NElBRW9CRElhQ2hoVlEybzBXVkIzWkV4NGVEWnRielpTTjJkMU5sbDBVVkU0QWtnQVVBOCUzRA=="
+      }
+    },
+    "timestampColor": 2147483648,
+    "contextMenuAccessibility": {
+      "accessibilityData": {
+        "label": "Chat actions"
+      }
+    },
+    "trackingParams": "CB8Q7rsEIhMIueCe_p2oigMVprtWAR21JA59",
+    "textInputBackgroundColor": 822083583,
+    "creatorHeartButton": {
+      "creatorHeartViewModel": {
+        "creatorThumbnail": {
+          "sources": [
+            {
+              "url": "https://yt3.ggpht.com/JNiXth-3okm798GaptgT93nsAx-ZF4URVgdI1sAzG7U3gv8SirVB27nq3RPVrmn7EqCMxCdb9Q=s48-c-k-c0x00ffffff-no-rj"
+            }
+          ]
+        },
+        "heartedIcon": {
+          "sources": [
+            {
+              "clientResource": {
+                "imageName": "full_heart-filled"
+              }
+            }
+          ]
+        },
+        "unheartedIcon": {
+          "sources": [
+            {
+              "clientResource": {
+                "imageName": "full_heart"
+              }
+            }
+          ],
+          "processor": {
+            "borderImageProcessor": {
+              "imageTint": {
+                "color": 4278190080
+              }
+            }
+          }
+        },
+        "heartedHoverText": "❤ by ReLive_薇妮 Winnie",
+        "heartedAccessibilityLabel": "Remove heart",
+        "unheartedAccessibilityLabel": "Heart",
+        "engagementStateKey": "EktsaXZlLWNoYXQtbWVzc2FnZS1lbmdhZ2VtZW50LXN0YXRlLUNod0tHa05KUkRaNlQwZGpjVWx2UkVaalZGcDNaMUZrY1ZkUlVHZG4gLCgB",
+        "loggingDirectives": {
+          "trackingParams": "CCEQr5gLIhMIueCe_p2oigMVprtWAR21JA59",
+          "visibility": {
+            "types": "4"
+          }
+        }
+      }
+    },
+    "isV2Style": true,
+    "replyButton": {
+      "pdgReplyButtonViewModel": {
+        "replyButton": {
+          "buttonViewModel": {
+            "iconName": "CHAT",
+            "onTap": {
+              "innertubeCommand": {
+                "clickTrackingParams": "CCAQ68ENIhMIueCe_p2oigMVprtWAR21JA59",
+                "showEngagementPanelEndpoint": {
+                  "identifier": {
+                    "surface": "ENGAGEMENT_PANEL_SURFACE_LIVE_CHAT",
+                    "tag": "PAreply_thread"
+                  },
+                  "globalConfiguration": {
+                    "params": "ggmcAgojVWd3MFh6M0kzVmhSZFNWV3BWUjRBYUFCRHFnQno2U0luUUkSVgopKicKGFVDcnljRHYxc1lWR0g1R0s4WEJUWEFCZxILbzJGdEVCSi1CTzgQARgEIAE6I1VndzBYejNJM1ZoUmRTVldwVlI0QWFBQkRxZ0J6NlNJblFJGm4IABgAIABKCBAAGAAgADAAUMz0nv6dqIoDWAR4AKIBAhoAqgEMEAAaACIAKgQIABAAsAEAwAEAyAHM9J7-naiKA-IBDAic-fe6BhCUwpKIAegBAPABAPgBAIgCAJACAJoCDAic-fe6BhCUwpKIASIpKicKGFVDcnljRHYxc1lWR0g1R0s4WEJUWEFCZxILbzJGdEVCSi1CTzgoATAA"
+                  },
+                  "engagementPanelPresentationConfigs": {
+                    "engagementPanelPopupPresentationConfig": {
+                      "popupType": "PANEL_POPUP_TYPE_DIALOG"
+                    }
+                  }
+                }
+              }
+            },
+            "accessibilityText": "Reply",
+            "style": "BUTTON_VIEW_MODEL_STYLE_CUSTOM",
+            "trackingParams": "CCAQ68ENIhMIueCe_p2oigMVprtWAR21JA59",
+            "type": "BUTTON_VIEW_MODEL_TYPE_TONAL",
+            "buttonSize": "BUTTON_VIEW_MODEL_SIZE_XSMALL",
+            "customBackgroundColor": 218103808,
+            "customFontColor": 4278190080,
+            "onVisible": {
+              "innertubeCommand": {
+                "clickTrackingParams": "CCAQ68ENIhMIueCe_p2oigMVprtWAR21JA59",
+                "logFlowLoggingEventCommand": {
+                  "flowEventType": 1,
+                  "flowEventNamespace": "FLOW_EVENT_NAMESPACE_LIVE_CHAT_ENGAGEMENT",
+                  "flowType": "FLOW_TYPE_LIVE_CHAT_ENGAGEMENT",
+                  "flowEventMetadata": {
+                    "liveChatEngagementContext": {
+                      "entryPointType": "LIVE_CHAT_ENGAGEMENT_ENTRY_POINT_REPLY_BUTTON"
+                    }
+                  }
+                }
+              }
+            },
+            "loggingDirectives": {
+              "trackingParams": "CCAQ68ENIhMIueCe_p2oigMVprtWAR21JA59",
+              "visibility": {
+                "types": "12"
+              }
+            }
+          }
+        },
+        "replyCountEntityKey": "EiNVZ3cwWHozSTNWaFJkU1ZXcFZSNEFhQUJEcWdCejZTSW5RSSDxAygB",
+        "replyCountPlaceholder": {
+          "content": "Reply",
+          "styleRuns": [
+            {
+              "startIndex": 0,
+              "length": 5
+            }
+          ]
+        }
+      }
+    }
+  }
+}

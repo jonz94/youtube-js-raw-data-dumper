@@ -1,0 +1,282 @@
+{
+  "liveChatPaidMessageRenderer": {
+    "id": "ChwKGkNKdU0zNWJQcVlvREZVYlB3Z1FkMEQ0bGRB",
+    "timestampUsec": "1734260677894851",
+    "authorName": {
+      "simpleText": "クリちゃん永遠の飼育員🎣"
+    },
+    "authorPhoto": {
+      "thumbnails": [
+        {
+          "url": "https://yt4.ggpht.com/dsXfQ8fedsAqru9pIilFqnFBythuCNXFaT958mzO6VRwTevtZq1Kv4-Jx3ZiKJew5K2qvs1YLw=s32-c-k-c0x00ffffff-no-rj",
+          "width": 32,
+          "height": 32
+        },
+        {
+          "url": "https://yt4.ggpht.com/dsXfQ8fedsAqru9pIilFqnFBythuCNXFaT958mzO6VRwTevtZq1Kv4-Jx3ZiKJew5K2qvs1YLw=s64-c-k-c0x00ffffff-no-rj",
+          "width": 64,
+          "height": 64
+        }
+      ]
+    },
+    "purchaseAmountText": {
+      "simpleText": "¥11,968"
+    },
+    "message": {
+      "runs": [
+        {
+          "text": "配信してくれてありがとう！今日誕生日なのでガチ恋距離でお祝いして下さい！（僕にぴったり名前つけてもらえると嬉しいな、どんな感じのでも大丈夫だからよろちゃんです！"
+        },
+        {
+          "emoji": {
+            "emojiId": "🙏",
+            "shortcuts": [":folded_hands:", ":pray:"],
+            "searchTerms": ["folded", "hands", "pray"],
+            "supportsSkinTone": true,
+            "image": {
+              "thumbnails": [
+                {
+                  "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/1f64f/72.png"
+                }
+              ],
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "🙏"
+                }
+              }
+            },
+            "variantIds": ["🙏", "🙏🏻", "🙏🏼", "🙏🏽", "🙏🏾", "🙏🏿"]
+          }
+        },
+        {
+          "text": "）"
+        }
+      ]
+    },
+    "headerBackgroundColor": 4291821568,
+    "headerTextColor": 4294967295,
+    "bodyBackgroundColor": 4293271831,
+    "bodyTextColor": 4294967295,
+    "authorExternalChannelId": "UCR09XwWFTGJ_vPixU-w-h4Q",
+    "authorNameTextColor": 3019898879,
+    "contextMenuEndpoint": {
+      "clickTrackingParams": "CIwBEO67BCITCOjoqtvQqYoDFS3yTAId0lc8UA==",
+      "commandMetadata": {
+        "webCommandMetadata": {
+          "ignoreNavigation": true
+        }
+      },
+      "liveChatItemContextMenuEndpoint": {
+        "params": "Q2g0S0hBb2FRMHAxVFRNMVlsQnhXVzlFUmxWaVVIZG5VV1F3UkRSc1pFRWFLU29uQ2hoVlEwbENXVEZ2Ykd4VmMyRjFkbFpwTkdoWE5HTjFiWGNTQzBRNWRWcEZRbVl3U2tObklBRW9CRElhQ2hoVlExSXdPVmgzVjBaVVIwcGZkbEJwZUZVdGR5MW9ORkU0QWtnQVVBOCUzRA=="
+      }
+    },
+    "timestampColor": 2164260863,
+    "contextMenuAccessibility": {
+      "accessibilityData": {
+        "label": "Chat actions"
+      }
+    },
+    "trackingParams": "CIwBEO67BCITCOjoqtvQqYoDFS3yTAId0lc8UA==",
+    "headerOverlayImage": {
+      "thumbnails": [
+        {
+          "url": "https://www.gstatic.com/youtube/img/pdg/novelty/purchase_milestones/10th_purchase_milestone/10th_Purchase_Celebration_Novelty_ILSC_T7.webp",
+          "width": 130,
+          "height": 48
+        }
+      ]
+    },
+    "authorBadges": [
+      {
+        "liveChatAuthorBadgeRenderer": {
+          "customThumbnail": {
+            "thumbnails": [
+              {
+                "url": "https://yt3.ggpht.com/KjY8PQ_rPjGm2VfAwBwRcptGWbhDey-WEq0Go68y0z9YCjQRKkS-M4HaE6ZnpAREIByjXJRTfK0=s16-c-k",
+                "width": 16,
+                "height": 16
+              },
+              {
+                "url": "https://yt3.ggpht.com/KjY8PQ_rPjGm2VfAwBwRcptGWbhDey-WEq0Go68y0z9YCjQRKkS-M4HaE6ZnpAREIByjXJRTfK0=s32-c-k",
+                "width": 32,
+                "height": 32
+              }
+            ]
+          },
+          "tooltip": "Member (2 years)",
+          "accessibility": {
+            "accessibilityData": {
+              "label": "Member (2 years)"
+            }
+          }
+        }
+      }
+    ],
+    "textInputBackgroundColor": 805306368,
+    "lowerBumper": {
+      "liveChatItemBumperViewModel": {
+        "content": {
+          "bumperUserEduContentViewModel": {
+            "text": {
+              "content": "Let's celebrate their 10th Super on a live stream",
+              "styleRuns": [
+                {
+                  "startIndex": 0,
+                  "length": 49
+                }
+              ]
+            },
+            "trackingParams": "CJABEJOWCyITCOjoqtvQqYoDFS3yTAId0lc8UA==",
+            "image": {
+              "sources": [
+                {
+                  "clientResource": {
+                    "imageName": "CELEBRATION",
+                    "imageColor": 4294901760
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "pdgPurchasedBumperLoggingDirectives": {
+          "loggingDirectives": {
+            "trackingParams": "CI8BEO_OCyITCOjoqtvQqYoDFS3yTAId0lc8UA==",
+            "visibility": {
+              "types": "12"
+            }
+          }
+        }
+      }
+    },
+    "creatorHeartButton": {
+      "creatorHeartViewModel": {
+        "creatorThumbnail": {
+          "sources": [
+            {
+              "url": "https://yt3.ggpht.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ=s48-c-k-c0x00ffffff-no-rj"
+            }
+          ]
+        },
+        "heartedIcon": {
+          "sources": [
+            {
+              "clientResource": {
+                "imageName": "full_heart-filled"
+              }
+            }
+          ]
+        },
+        "unheartedIcon": {
+          "sources": [
+            {
+              "clientResource": {
+                "imageName": "full_heart"
+              }
+            }
+          ],
+          "processor": {
+            "borderImageProcessor": {
+              "imageTint": {
+                "color": 4294967295
+              }
+            }
+          }
+        },
+        "heartedHoverText": "❤ by Chloe ch. 沙花叉クロヱ - holoX -",
+        "heartedAccessibilityLabel": "Remove heart",
+        "unheartedAccessibilityLabel": "Heart",
+        "engagementStateKey": "EktsaXZlLWNoYXQtbWVzc2FnZS1lbmdhZ2VtZW50LXN0YXRlLUNod0tHa05LZFUwek5XSlFjVmx2UkVaVllsQjNaMUZrTUVRMGJHUkIgLCgB",
+        "gradient": {
+          "sources": [
+            {
+              "url": "//youtube.com/img/pdg/gradient.png"
+            }
+          ],
+          "processor": {
+            "borderImageProcessor": {
+              "imageTint": {
+                "color": 4293271831
+              }
+            }
+          }
+        }
+      }
+    },
+    "isV2Style": true,
+    "pdgPurchasedNoveltyLoggingDirectives": {
+      "loggingDirectives": {
+        "trackingParams": "CI4BEO7OCyITCOjoqtvQqYoDFS3yTAId0lc8UA==",
+        "visibility": {
+          "types": "12"
+        }
+      }
+    },
+    "replyButton": {
+      "pdgReplyButtonViewModel": {
+        "replyButton": {
+          "buttonViewModel": {
+            "iconName": "CHAT",
+            "onTap": {
+              "innertubeCommand": {
+                "clickTrackingParams": "CI0BEOvBDSITCOjoqtvQqYoDFS3yTAId0lc8UA==",
+                "showEngagementPanelEndpoint": {
+                  "identifier": {
+                    "surface": "ENGAGEMENT_PANEL_SURFACE_LIVE_CHAT",
+                    "tag": "PAreply_thread"
+                  },
+                  "globalConfiguration": {
+                    "params": "ggmYAgojVWd4ekM1Nmx2bnhOVklET082cDRBYUFCRHFnQjZaREtrUUkSVgopKicKGFVDSUJZMW9sbFVzYXV2Vmk0aFc0Y3VtdxILRDl1WkVCZjBKQ2cQARgEIAE6I1VneHpDNTZsdm54TlZJRE9PNnA0QWFBQkRxZ0I2WkRLa1FJGmoIABgAIABKCBAAGAAgADAAUJWEq9vQqYoDWAN4AKIBAKoBDBAAGgAiACoECAAQALABAMABAMgBlYSr29CpigPiAQsIhfD6ugYQ5ObADugBAPABAPgBAIgCAJACAJoCCwiF8Pq6BhDk5sAOIikqJwoYVUNJQlkxb2xsVXNhdXZWaTRoVzRjdW13EgtEOXVaRUJmMEpDZygBMAA%3D"
+                  },
+                  "engagementPanelPresentationConfigs": {
+                    "engagementPanelPopupPresentationConfig": {
+                      "popupType": "PANEL_POPUP_TYPE_DIALOG"
+                    }
+                  }
+                }
+              }
+            },
+            "accessibilityText": "Reply",
+            "style": "BUTTON_VIEW_MODEL_STYLE_CUSTOM",
+            "trackingParams": "CI0BEOvBDSITCOjoqtvQqYoDFS3yTAId0lc8UA==",
+            "type": "BUTTON_VIEW_MODEL_TYPE_TONAL",
+            "buttonSize": "BUTTON_VIEW_MODEL_SIZE_XSMALL",
+            "customBackgroundColor": 452984831,
+            "customFontColor": 4294967295,
+            "onVisible": {
+              "innertubeCommand": {
+                "clickTrackingParams": "CI0BEOvBDSITCOjoqtvQqYoDFS3yTAId0lc8UA==",
+                "logFlowLoggingEventCommand": {
+                  "flowEventType": 1,
+                  "flowEventNamespace": "FLOW_EVENT_NAMESPACE_LIVE_CHAT_ENGAGEMENT",
+                  "flowType": "FLOW_TYPE_LIVE_CHAT_ENGAGEMENT",
+                  "flowEventMetadata": {
+                    "liveChatEngagementContext": {
+                      "entryPointType": "LIVE_CHAT_ENGAGEMENT_ENTRY_POINT_REPLY_BUTTON"
+                    }
+                  }
+                }
+              }
+            },
+            "loggingDirectives": {
+              "trackingParams": "CI0BEOvBDSITCOjoqtvQqYoDFS3yTAId0lc8UA==",
+              "visibility": {
+                "types": "12"
+              }
+            }
+          }
+        },
+        "replyCountEntityKey": "EiNVZ3h6QzU2bHZueE5WSURPTzZwNEFhQUJEcWdCNlpES2tRSSDxAygB",
+        "replyCountPlaceholder": {
+          "content": "Reply",
+          "styleRuns": [
+            {
+              "startIndex": 0,
+              "length": 5
+            }
+          ]
+        }
+      }
+    }
+  }
+}

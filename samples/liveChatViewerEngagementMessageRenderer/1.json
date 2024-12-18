@@ -1,0 +1,53 @@
+{
+  "liveChatViewerEngagementMessageRenderer": {
+    "id": "Ci0KK1NVQlNDUklCRVJTX09OTFlfVkVNMjAyNC8xMi8xNS0wMDoyOToxNi45ODc%3D",
+    "timestampUsec": "1734251356987117",
+    "icon": {
+      "iconType": "YOUTUBE_ROUND"
+    },
+    "message": {
+      "runs": [
+        {
+          "text": "Subscribers-only mode. Messages that appear are from people who’ve subscribed to this channel for "
+        },
+        {
+          "text": "1 minute"
+        },
+        {
+          "text": " or longer."
+        }
+      ]
+    },
+    "actionButton": {
+      "buttonRenderer": {
+        "style": "STYLE_BLUE_TEXT",
+        "size": "SIZE_DEFAULT",
+        "isDisabled": false,
+        "text": {
+          "simpleText": "Learn more"
+        },
+        "navigationEndpoint": {
+          "clickTrackingParams": "CB8Q8FsiEwiE3dTgramKAxXD1UwCHcXaFsg=",
+          "commandMetadata": {
+            "webCommandMetadata": {
+              "url": "//support.google.com/youtube/?p=subs_only_chat_viewer&hl=en",
+              "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+              "rootVe": 83769
+            }
+          },
+          "urlEndpoint": {
+            "url": "//support.google.com/youtube/?p=subs_only_chat_viewer&hl=en",
+            "target": "TARGET_NEW_WINDOW"
+          }
+        },
+        "trackingParams": "CB8Q8FsiEwiE3dTgramKAxXD1UwCHcXaFsg=",
+        "accessibilityData": {
+          "accessibilityData": {
+            "label": "Learn more"
+          }
+        }
+      }
+    },
+    "trackingParams": "CAEQl98BIhMIhN3U4K2pigMVw9VMAh3F2hbI"
+  }
+}

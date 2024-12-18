@@ -1,0 +1,409 @@
+{
+  "liveChatRestrictedParticipationRenderer": {
+    "message": {
+      "runs": [
+        {
+          "text": "Subscribers-only mode"
+        }
+      ]
+    },
+    "buttons": [
+      {
+        "reactionControlPanelOverlayViewModel": {
+          "reactionControlPanel": {
+            "reactionControlPanelViewModel": {
+              "expandedButtons": [
+                {
+                  "reactionControlPanelButtonViewModel": {
+                    "onTap": {
+                      "innertubeCommand": {
+                        "clickTrackingParams": "CB4Q2o0KGAAiEwiE3dTgramKAxXD1UwCHcXaFsg=",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DLihiB1MZ6Dc&hl=en",
+                            "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                            "rootVe": 83769
+                          }
+                        },
+                        "signInEndpoint": {
+                          "nextEndpoint": {
+                            "clickTrackingParams": "CB4Q2o0KGAAiEwiE3dTgramKAxXD1UwCHcXaFsg=",
+                            "commandMetadata": {
+                              "webCommandMetadata": {
+                                "url": "/watch?v=LihiB1MZ6Dc",
+                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                "rootVe": 3832
+                              }
+                            },
+                            "watchEndpoint": {
+                              "videoId": "LihiB1MZ6Dc"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "emojiId": "❤",
+                    "buttonIcon": {
+                      "sources": [
+                        {
+                          "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/2764/72.png"
+                        }
+                      ]
+                    },
+                    "shouldTriggerAnimation": false,
+                    "a11yLabel": "Send ❤",
+                    "loggingDirectives": {
+                      "trackingParams": "CB4Q2o0KGAAiEwiE3dTgramKAxXD1UwCHcXaFsg=",
+                      "visibility": {
+                        "types": "12"
+                      },
+                      "clientVeSpec": {
+                        "uiType": 165594,
+                        "veCounter": 65961656,
+                        "elementIndex": 0
+                      }
+                    }
+                  }
+                },
+                {
+                  "reactionControlPanelButtonViewModel": {
+                    "onTap": {
+                      "innertubeCommand": {
+                        "clickTrackingParams": "CB0Q2o0KGAEiEwiE3dTgramKAxXD1UwCHcXaFsg=",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DLihiB1MZ6Dc&hl=en",
+                            "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                            "rootVe": 83769
+                          }
+                        },
+                        "signInEndpoint": {
+                          "nextEndpoint": {
+                            "clickTrackingParams": "CB0Q2o0KGAEiEwiE3dTgramKAxXD1UwCHcXaFsg=",
+                            "commandMetadata": {
+                              "webCommandMetadata": {
+                                "url": "/watch?v=LihiB1MZ6Dc",
+                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                "rootVe": 3832
+                              }
+                            },
+                            "watchEndpoint": {
+                              "videoId": "LihiB1MZ6Dc"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "emojiId": "😄",
+                    "buttonIcon": {
+                      "sources": [
+                        {
+                          "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/1f604/72.png"
+                        }
+                      ]
+                    },
+                    "shouldTriggerAnimation": false,
+                    "a11yLabel": "Send 😄",
+                    "loggingDirectives": {
+                      "trackingParams": "CB0Q2o0KGAEiEwiE3dTgramKAxXD1UwCHcXaFsg=",
+                      "visibility": {
+                        "types": "12"
+                      },
+                      "clientVeSpec": {
+                        "uiType": 165594,
+                        "veCounter": 65961655,
+                        "elementIndex": 1
+                      }
+                    }
+                  }
+                },
+                {
+                  "reactionControlPanelButtonViewModel": {
+                    "onTap": {
+                      "innertubeCommand": {
+                        "clickTrackingParams": "CBwQ2o0KGAIiEwiE3dTgramKAxXD1UwCHcXaFsg=",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DLihiB1MZ6Dc&hl=en",
+                            "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                            "rootVe": 83769
+                          }
+                        },
+                        "signInEndpoint": {
+                          "nextEndpoint": {
+                            "clickTrackingParams": "CBwQ2o0KGAIiEwiE3dTgramKAxXD1UwCHcXaFsg=",
+                            "commandMetadata": {
+                              "webCommandMetadata": {
+                                "url": "/watch?v=LihiB1MZ6Dc",
+                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                "rootVe": 3832
+                              }
+                            },
+                            "watchEndpoint": {
+                              "videoId": "LihiB1MZ6Dc"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "emojiId": "🎉",
+                    "buttonIcon": {
+                      "sources": [
+                        {
+                          "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/1f389/72.png"
+                        }
+                      ]
+                    },
+                    "shouldTriggerAnimation": false,
+                    "a11yLabel": "Send 🎉",
+                    "loggingDirectives": {
+                      "trackingParams": "CBwQ2o0KGAIiEwiE3dTgramKAxXD1UwCHcXaFsg=",
+                      "visibility": {
+                        "types": "12"
+                      },
+                      "clientVeSpec": {
+                        "uiType": 165594,
+                        "veCounter": 65961654,
+                        "elementIndex": 2
+                      }
+                    }
+                  }
+                },
+                {
+                  "reactionControlPanelButtonViewModel": {
+                    "onTap": {
+                      "innertubeCommand": {
+                        "clickTrackingParams": "CBsQ2o0KGAMiEwiE3dTgramKAxXD1UwCHcXaFsg=",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DLihiB1MZ6Dc&hl=en",
+                            "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                            "rootVe": 83769
+                          }
+                        },
+                        "signInEndpoint": {
+                          "nextEndpoint": {
+                            "clickTrackingParams": "CBsQ2o0KGAMiEwiE3dTgramKAxXD1UwCHcXaFsg=",
+                            "commandMetadata": {
+                              "webCommandMetadata": {
+                                "url": "/watch?v=LihiB1MZ6Dc",
+                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                "rootVe": 3832
+                              }
+                            },
+                            "watchEndpoint": {
+                              "videoId": "LihiB1MZ6Dc"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "emojiId": "😳",
+                    "buttonIcon": {
+                      "sources": [
+                        {
+                          "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/1f633/72.png"
+                        }
+                      ]
+                    },
+                    "shouldTriggerAnimation": false,
+                    "a11yLabel": "Send 😳",
+                    "loggingDirectives": {
+                      "trackingParams": "CBsQ2o0KGAMiEwiE3dTgramKAxXD1UwCHcXaFsg=",
+                      "visibility": {
+                        "types": "12"
+                      },
+                      "clientVeSpec": {
+                        "uiType": 165594,
+                        "veCounter": 65961653,
+                        "elementIndex": 3
+                      }
+                    }
+                  }
+                },
+                {
+                  "reactionControlPanelButtonViewModel": {
+                    "onTap": {
+                      "innertubeCommand": {
+                        "clickTrackingParams": "CBoQ2o0KGAQiEwiE3dTgramKAxXD1UwCHcXaFsg=",
+                        "commandMetadata": {
+                          "webCommandMetadata": {
+                            "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DLihiB1MZ6Dc&hl=en",
+                            "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                            "rootVe": 83769
+                          }
+                        },
+                        "signInEndpoint": {
+                          "nextEndpoint": {
+                            "clickTrackingParams": "CBoQ2o0KGAQiEwiE3dTgramKAxXD1UwCHcXaFsg=",
+                            "commandMetadata": {
+                              "webCommandMetadata": {
+                                "url": "/watch?v=LihiB1MZ6Dc",
+                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                "rootVe": 3832
+                              }
+                            },
+                            "watchEndpoint": {
+                              "videoId": "LihiB1MZ6Dc"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "emojiId": "💯",
+                    "buttonIcon": {
+                      "sources": [
+                        {
+                          "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/1f4af/72.png"
+                        }
+                      ]
+                    },
+                    "shouldTriggerAnimation": false,
+                    "a11yLabel": "Send 💯",
+                    "loggingDirectives": {
+                      "trackingParams": "CBoQ2o0KGAQiEwiE3dTgramKAxXD1UwCHcXaFsg=",
+                      "visibility": {
+                        "types": "12"
+                      },
+                      "clientVeSpec": {
+                        "uiType": 165594,
+                        "veCounter": 65961652,
+                        "elementIndex": 4
+                      }
+                    }
+                  }
+                }
+              ],
+              "collapsedButton": {
+                "reactionControlPanelButtonViewModel": {
+                  "emojiId": "❤",
+                  "shouldTriggerAnimation": false,
+                  "a11yLabel": "❤",
+                  "buttonIconType": "EMPTY_HEART",
+                  "loggingDirectives": {
+                    "trackingParams": "CBkQ3I0KIhMIhN3U4K2pigMVw9VMAh3F2hbI",
+                    "visibility": {
+                      "types": "12"
+                    }
+                  }
+                }
+              },
+              "onMouseEnter": {
+                "innertubeCommand": {
+                  "clickTrackingParams": "CBgQ3Y0KIhMIhN3U4K2pigMVw9VMAh3F2hbI",
+                  "entityUpdateCommand": {
+                    "entityBatchUpdate": {
+                      "mutations": [
+                        {
+                          "entityKey": "EjZ5b3V0dWJlL2FwcC9yZWFjdGlvbl9jb250cm9sX3BhbmVsX2V4cGFuZGVkX2VudGl0eV9rZXkgswIoAQ%3D%3D",
+                          "type": "ENTITY_MUTATION_TYPE_REPLACE",
+                          "payload": {
+                            "booleanEntity": {
+                              "key": "EjZ5b3V0dWJlL2FwcC9yZWFjdGlvbl9jb250cm9sX3BhbmVsX2V4cGFuZGVkX2VudGl0eV9rZXkgswIoAQ%3D%3D",
+                              "value": true
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              "onMouseLeave": {
+                "innertubeCommand": {
+                  "clickTrackingParams": "CBgQ3Y0KIhMIhN3U4K2pigMVw9VMAh3F2hbI",
+                  "entityUpdateCommand": {
+                    "entityBatchUpdate": {
+                      "mutations": [
+                        {
+                          "entityKey": "EjZ5b3V0dWJlL2FwcC9yZWFjdGlvbl9jb250cm9sX3BhbmVsX2V4cGFuZGVkX2VudGl0eV9rZXkgswIoAQ%3D%3D",
+                          "type": "ENTITY_MUTATION_TYPE_REPLACE",
+                          "payload": {
+                            "booleanEntity": {
+                              "key": "EjZ5b3V0dWJlL2FwcC9yZWFjdGlvbl9jb250cm9sX3BhbmVsX2V4cGFuZGVkX2VudGl0eV9rZXkgswIoAQ%3D%3D",
+                              "value": false
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              "reactionControlPanelExpandedEntityKey": "EjZ5b3V0dWJlL2FwcC9yZWFjdGlvbl9jb250cm9sX3BhbmVsX2V4cGFuZGVkX2VudGl0eV9rZXkgswIoAQ%3D%3D",
+              "loggingDirectives": {
+                "trackingParams": "CBgQ3Y0KIhMIhN3U4K2pigMVw9VMAh3F2hbI",
+                "visibility": {
+                  "types": "12"
+                }
+              }
+            }
+          },
+          "liveReactionsSettingEntityKey": "EjhMaWhpQjFNWjZEY3lvdXR1YmUvYXBwL2xpdmVfcmVhY3Rpb25zX3NldHRpbmdfZW50aXR5X2tleSCzAigB",
+          "emojiFountain": {
+            "emojiFountainViewModel": {
+              "emojiFountainDataEntityKey": "EiV5b3V0dWJlL2FwcC9lbW9qaV9mb3VudGFpbl9lbnRpdHlfa2V5IIkDKAE%3D",
+              "loggingDirectives": {
+                "trackingParams": "CBcQ3o0KIhMIhN3U4K2pigMVw9VMAh3F2hbI",
+                "visibility": {
+                  "types": "12"
+                }
+              }
+            }
+          },
+          "loggingDirectives": {
+            "trackingParams": "CBYQ2I0KGEciEwiE3dTgramKAxXD1UwCHcXaFsg=",
+            "visibility": {
+              "types": "12"
+            }
+          }
+        }
+      }
+    ],
+    "icon": {
+      "iconType": "INFO"
+    },
+    "onClickCommand": {
+      "clickTrackingParams": "CAEQl98BIhMIhN3U4K2pigMVw9VMAh3F2hbI",
+      "liveChatAddToToastAction": {
+        "item": {
+          "notificationActionRenderer": {
+            "responseText": {
+              "simpleText": "Only channel subscribers of 1 minute or longer can send messages."
+            },
+            "actionButton": {
+              "buttonRenderer": {
+                "style": "STYLE_BLUE_TEXT",
+                "size": "SIZE_DEFAULT",
+                "isDisabled": false,
+                "text": {
+                  "runs": [
+                    {
+                      "text": "Learn more"
+                    }
+                  ]
+                },
+                "trackingParams": "CBUQ8FsiEwiE3dTgramKAxXD1UwCHcXaFsg=",
+                "command": {
+                  "clickTrackingParams": "CBUQ8FsiEwiE3dTgramKAxXD1UwCHcXaFsg=",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "https://support.google.com/youtube/?p=subs_only_chat_viewer&hl=en",
+                      "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                      "rootVe": 83769
+                    }
+                  },
+                  "urlEndpoint": {
+                    "url": "https://support.google.com/youtube/?p=subs_only_chat_viewer&hl=en",
+                    "target": "TARGET_NEW_WINDOW"
+                  }
+                }
+              }
+            },
+            "trackingParams": "CBQQuWoiEwiE3dTgramKAxXD1UwCHcXaFsg="
+          }
+        }
+      }
+    }
+  }
+}

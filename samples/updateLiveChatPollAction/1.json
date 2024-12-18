@@ -1,0 +1,134 @@
+{
+  "updateLiveChatPollAction": {
+    "pollToUpdate": {
+      "pollRenderer": {
+        "choices": [
+          {
+            "text": {
+              "runs": [
+                {
+                  "text": "按按按"
+                }
+              ]
+            },
+            "selected": false,
+            "voteRatio": 0.7845804691314697,
+            "votePercentage": {
+              "simpleText": "78%"
+            },
+            "signinEndpoint": {
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den&hl=en",
+                  "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                  "rootVe": 83769
+                }
+              },
+              "signInEndpoint": {
+                "nextEndpoint": {}
+              }
+            }
+          },
+          {
+            "text": {
+              "runs": [
+                {
+                  "text": " 豪豪豪"
+                }
+              ]
+            },
+            "selected": false,
+            "voteRatio": 0.21541950106620789,
+            "votePercentage": {
+              "simpleText": "22%"
+            },
+            "signinEndpoint": {
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den&hl=en",
+                  "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                  "rootVe": 83769
+                }
+              },
+              "signInEndpoint": {
+                "nextEndpoint": {}
+              }
+            }
+          }
+        ],
+        "liveChatPollId": "ChwKGkNNdjdwdldFcW9vREZaN0N3Z1Fkal80emRR",
+        "header": {
+          "pollHeaderRenderer": {
+            "pollQuestion": {
+              "runs": [
+                {
+                  "text": "幫庫庫按讚好ㄇ!!好ㄝ!"
+                }
+              ]
+            },
+            "thumbnail": {
+              "thumbnails": [
+                {
+                  "url": "https://yt4.ggpht.com/lQaEUeJlLtgioCU0npPsaYOLzg2idrzG0XY_jn-fjPOySnv4nN94U0rCTt5shavBR9brK-e6Tg=s32-c-k-c0x00ffffff-no-rj",
+                  "width": 32,
+                  "height": 32
+                },
+                {
+                  "url": "https://yt4.ggpht.com/lQaEUeJlLtgioCU0npPsaYOLzg2idrzG0XY_jn-fjPOySnv4nN94U0rCTt5shavBR9brK-e6Tg=s64-c-k-c0x00ffffff-no-rj",
+                  "width": 64,
+                  "height": 64
+                }
+              ]
+            },
+            "metadataText": {
+              "runs": [
+                {
+                  "text": "庫洛姆•Kuromu"
+                },
+                {
+                  "text": " • "
+                },
+                {
+                  "text": "52 min ago"
+                },
+                {
+                  "text": " • "
+                },
+                {
+                  "text": "441 votes"
+                }
+              ]
+            },
+            "liveChatPollType": "LIVE_CHAT_POLL_TYPE_CREATOR",
+            "contextMenuButton": {
+              "buttonRenderer": {
+                "icon": {
+                  "iconType": "MORE_VERT"
+                },
+                "accessibility": {
+                  "label": "Chat actions"
+                },
+                "accessibilityData": {
+                  "accessibilityData": {
+                    "label": "Chat actions"
+                  }
+                },
+                "targetId": "live-chat-action-panel-poll-context-menu",
+                "command": {
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "ignoreNavigation": true
+                    }
+                  },
+                  "liveChatItemContextMenuEndpoint": {
+                    "params": "Q2g0S0hBb2FRMDEyTjNCMlYwVnhiMjlFUmxvM1EzZG5VV1JxWHpSNlpGRWFLU29uQ2hoVlF6SmFWMmRuYjI0eFRrOVVNbFJIWVZaVlRYcFpOMEVTQzNGS1pqWnZUM2RSUWs1VklBRW9CRElhQ2hoVlF6SmFWMmRuYjI0eFRrOVVNbFJIWVZaVlRYcFpOMEU0QTBnQVVCVSUzRA=="
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

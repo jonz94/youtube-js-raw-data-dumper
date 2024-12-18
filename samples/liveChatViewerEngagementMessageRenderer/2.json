@@ -1,0 +1,54 @@
+{
+  "liveChatViewerEngagementMessageRenderer": {
+    "id": "ChwKGkNJZTg0WXp2cW9vREZRX0N3Z1FkNUFrMXZ3",
+    "icon": {
+      "iconType": "POLL"
+    },
+    "message": {
+      "runs": [
+        {
+          "text": "abc",
+          "bold": true
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "是 (100%)"
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "否 (0%)"
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Poll complete: 1 vote"
+        }
+      ]
+    },
+    "contextMenuEndpoint": {
+      "clickTrackingParams": "CAEQl98BIhMI1ZGfn--qigMVXfNMAh2YlQ9g",
+      "commandMetadata": {
+        "webCommandMetadata": {
+          "ignoreNavigation": true
+        }
+      },
+      "liveChatItemContextMenuEndpoint": {
+        "params": "Q2g0S0hBb2FRMGxsT0RSWmVuWnhiMjlFUmxGZlEzZG5VV1ExUVdzeGRuY2FLU29uQ2hoVlEwTjRiR3hUU2xnNFVWUTJXVkZSWmpjNWRIcGxWRkVTQzB4ek4wWk1PV1pKTm10M0lBRW9CRElhQ2hoVlEwTjRiR3hUU2xnNFVWUTJXVkZSWmpjNWRIcGxWRkU0QWtnQVVCWSUzRA=="
+      }
+    },
+    "contextMenuAccessibility": {
+      "accessibilityData": {
+        "label": "Chat actions"
+      }
+    },
+    "trackingParams": "CAEQl98BIhMI1ZGfn--qigMVXfNMAh2YlQ9g"
+  }
+}

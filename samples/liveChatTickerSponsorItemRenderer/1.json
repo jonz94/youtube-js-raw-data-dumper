@@ -1,0 +1,270 @@
+{
+  "liveChatTickerSponsorItemRenderer": {
+    "id": "Ci8KLUNLWG95T242b0lvREZTczRpZ01kMVNvdUp3LUxveU1lc0lELTM0Njg1MDM3Nw%3D%3D",
+    "detailText": {
+      "accessibility": {
+        "accessibilityData": {
+          "label": "20 months"
+        }
+      },
+      "simpleText": "20 mths"
+    },
+    "detailTextColor": 4294967295,
+    "startBackgroundColor": 4279213400,
+    "endBackgroundColor": 4278943811,
+    "sponsorPhoto": {
+      "thumbnails": [
+        {
+          "url": "https://yt4.ggpht.com/YjMEUQZef5Wm5bFBZWCv4cmmICd0WJDTm4pihY3gdhGObOps18BcHAy3UgQjMzebaF09hXFW=s32-c-k-c0x00ffffff-no-rj",
+          "width": 32,
+          "height": 32
+        },
+        {
+          "url": "https://yt4.ggpht.com/YjMEUQZef5Wm5bFBZWCv4cmmICd0WJDTm4pihY3gdhGObOps18BcHAy3UgQjMzebaF09hXFW=s64-c-k-c0x00ffffff-no-rj",
+          "width": 64,
+          "height": 64
+        }
+      ]
+    },
+    "durationSec": 71,
+    "showItemEndpoint": {
+      "clickTrackingParams": "CCAQ4_0GIhMIg4LG9K-pigMVefVMAh1niR3l",
+      "commandMetadata": {
+        "webCommandMetadata": {
+          "ignoreNavigation": true
+        }
+      },
+      "showLiveChatItemEndpoint": {
+        "renderer": {
+          "liveChatMembershipItemRenderer": {
+            "id": "Ci8KLUNLWG95T242b0lvREZTczRpZ01kMVNvdUp3LUxveU1lc0lELTM0Njg1MDM3Nw%3D%3D",
+            "timestampUsec": "1734251886237415",
+            "authorExternalChannelId": "UC8EqY9X1KNi46EddD-omX-Q",
+            "headerPrimaryText": {
+              "runs": [
+                {
+                  "text": "Member for "
+                },
+                {
+                  "text": "20"
+                },
+                {
+                  "text": " months"
+                }
+              ]
+            },
+            "headerSubtext": {
+              "simpleText": "頂級採礦者"
+            },
+            "message": {
+              "runs": [
+                {
+                  "emoji": {
+                    "emojiId": "UCHUsJu-29R97rS8i13cl2wg/0apGZMWwMfeP_9EPpb65mAY",
+                    "shortcuts": [":_老闆好01:", ":老闆好01:"],
+                    "searchTerms": ["_老闆好01", "老闆好01"],
+                    "image": {
+                      "thumbnails": [
+                        {
+                          "url": "https://yt3.ggpht.com/fDALRHrfSbMu5o4NdwQWOIhfL22m44CXtohvXdJ6TamEqM42bJQZRRTSQz15o5GsFF6wSjwc=w24-h24-c-k-nd",
+                          "width": 24,
+                          "height": 24
+                        },
+                        {
+                          "url": "https://yt3.ggpht.com/fDALRHrfSbMu5o4NdwQWOIhfL22m44CXtohvXdJ6TamEqM42bJQZRRTSQz15o5GsFF6wSjwc=w48-h48-c-k-nd",
+                          "width": 48,
+                          "height": 48
+                        }
+                      ],
+                      "accessibility": {
+                        "accessibilityData": {
+                          "label": "老闆好01"
+                        }
+                      }
+                    },
+                    "isCustomEmoji": true
+                  }
+                },
+                {
+                  "emoji": {
+                    "emojiId": "UCHUsJu-29R97rS8i13cl2wg/0apGZMS1MfeP_9EPpb65mAY",
+                    "shortcuts": [":_老闆好02:", ":老闆好02:"],
+                    "searchTerms": ["_老闆好02", "老闆好02"],
+                    "image": {
+                      "thumbnails": [
+                        {
+                          "url": "https://yt3.ggpht.com/qEP0JzOjtijI9uvIVl0oRNbF9ZA7TMJ1PaJj7MvYuthWAAFr4xbY_-XMcFo6pVmRiEH0MR56eQ=w24-h24-c-k-nd",
+                          "width": 24,
+                          "height": 24
+                        },
+                        {
+                          "url": "https://yt3.ggpht.com/qEP0JzOjtijI9uvIVl0oRNbF9ZA7TMJ1PaJj7MvYuthWAAFr4xbY_-XMcFo6pVmRiEH0MR56eQ=w48-h48-c-k-nd",
+                          "width": 48,
+                          "height": 48
+                        }
+                      ],
+                      "accessibility": {
+                        "accessibilityData": {
+                          "label": "老闆好02"
+                        }
+                      }
+                    },
+                    "isCustomEmoji": true
+                  }
+                },
+                {
+                  "emoji": {
+                    "emojiId": "UCHUsJu-29R97rS8i13cl2wg/0apGZJi3MfeP_9EPpb65mAY",
+                    "shortcuts": [":_老闆好03:", ":老闆好03:"],
+                    "searchTerms": ["_老闆好03", "老闆好03"],
+                    "image": {
+                      "thumbnails": [
+                        {
+                          "url": "https://yt3.ggpht.com/KsdOYe238XuhWmGYWNprNHOfLJ9dCiwEA7OzuCEKNxj6pqneLz1AqiO--rtxsa5MRS0q1r9VVw=w24-h24-c-k-nd",
+                          "width": 24,
+                          "height": 24
+                        },
+                        {
+                          "url": "https://yt3.ggpht.com/KsdOYe238XuhWmGYWNprNHOfLJ9dCiwEA7OzuCEKNxj6pqneLz1AqiO--rtxsa5MRS0q1r9VVw=w48-h48-c-k-nd",
+                          "width": 48,
+                          "height": 48
+                        }
+                      ],
+                      "accessibility": {
+                        "accessibilityData": {
+                          "label": "老闆好03"
+                        }
+                      }
+                    },
+                    "isCustomEmoji": true
+                  }
+                },
+                {
+                  "emoji": {
+                    "emojiId": "UCHUsJu-29R97rS8i13cl2wg/CG5SY-foKvOE_9EP3vCk6AE",
+                    "shortcuts": [":_庫路愛心:", ":庫路愛心:"],
+                    "searchTerms": ["_庫路愛心", "庫路愛心"],
+                    "image": {
+                      "thumbnails": [
+                        {
+                          "url": "https://yt3.ggpht.com/SwQ2sdsiw-WHAfadGoUMbNIDGUUTW3rn2sN2ItUkfDL_3-w5X-jEP-Z05BM6z7SUvVAOOfVnKSA=w24-h24-c-k-nd",
+                          "width": 24,
+                          "height": 24
+                        },
+                        {
+                          "url": "https://yt3.ggpht.com/SwQ2sdsiw-WHAfadGoUMbNIDGUUTW3rn2sN2ItUkfDL_3-w5X-jEP-Z05BM6z7SUvVAOOfVnKSA=w48-h48-c-k-nd",
+                          "width": 48,
+                          "height": 48
+                        }
+                      ],
+                      "accessibility": {
+                        "accessibilityData": {
+                          "label": "庫路愛心"
+                        }
+                      }
+                    },
+                    "isCustomEmoji": true
+                  }
+                },
+                {
+                  "emoji": {
+                    "emojiId": "UCHUsJu-29R97rS8i13cl2wg/CG5SY-foKvOE_9EP3vCk6AE",
+                    "shortcuts": [":_庫路愛心:", ":庫路愛心:"],
+                    "searchTerms": ["_庫路愛心", "庫路愛心"],
+                    "image": {
+                      "thumbnails": [
+                        {
+                          "url": "https://yt3.ggpht.com/SwQ2sdsiw-WHAfadGoUMbNIDGUUTW3rn2sN2ItUkfDL_3-w5X-jEP-Z05BM6z7SUvVAOOfVnKSA=w24-h24-c-k-nd",
+                          "width": 24,
+                          "height": 24
+                        },
+                        {
+                          "url": "https://yt3.ggpht.com/SwQ2sdsiw-WHAfadGoUMbNIDGUUTW3rn2sN2ItUkfDL_3-w5X-jEP-Z05BM6z7SUvVAOOfVnKSA=w48-h48-c-k-nd",
+                          "width": 48,
+                          "height": 48
+                        }
+                      ],
+                      "accessibility": {
+                        "accessibilityData": {
+                          "label": "庫路愛心"
+                        }
+                      }
+                    },
+                    "isCustomEmoji": true
+                  }
+                },
+                {
+                  "text": "今天也是上班忙碌日喔"
+                }
+              ]
+            },
+            "authorName": {
+              "simpleText": "小霖子。"
+            },
+            "authorPhoto": {
+              "thumbnails": [
+                {
+                  "url": "https://yt4.ggpht.com/YjMEUQZef5Wm5bFBZWCv4cmmICd0WJDTm4pihY3gdhGObOps18BcHAy3UgQjMzebaF09hXFW=s32-c-k-c0x00ffffff-no-rj",
+                  "width": 32,
+                  "height": 32
+                },
+                {
+                  "url": "https://yt4.ggpht.com/YjMEUQZef5Wm5bFBZWCv4cmmICd0WJDTm4pihY3gdhGObOps18BcHAy3UgQjMzebaF09hXFW=s64-c-k-c0x00ffffff-no-rj",
+                  "width": 64,
+                  "height": 64
+                }
+              ]
+            },
+            "authorBadges": [
+              {
+                "liveChatAuthorBadgeRenderer": {
+                  "customThumbnail": {
+                    "thumbnails": [
+                      {
+                        "url": "https://yt3.ggpht.com/q9OHb2RR1FdHnTr6Nc4W4IGvvNGtJaxt1pd25B9vUu5DZD9iUM7yuy7YB9l61vV2x9bLcwAbEw=s16-c-k",
+                        "width": 16,
+                        "height": 16
+                      },
+                      {
+                        "url": "https://yt3.ggpht.com/q9OHb2RR1FdHnTr6Nc4W4IGvvNGtJaxt1pd25B9vUu5DZD9iUM7yuy7YB9l61vV2x9bLcwAbEw=s32-c-k",
+                        "width": 32,
+                        "height": 32
+                      }
+                    ]
+                  },
+                  "tooltip": "Member (1 year)",
+                  "accessibility": {
+                    "accessibilityData": {
+                      "label": "Member (1 year)"
+                    }
+                  }
+                }
+              }
+            ],
+            "contextMenuEndpoint": {
+              "clickTrackingParams": "CCIQ4f0GIhMIg4LG9K-pigMVefVMAh1niR3l",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "ignoreNavigation": true
+                }
+              },
+              "liveChatItemContextMenuEndpoint": {
+                "params": "Q2pFS0x3b3RRMHRZYjNsUGJqWnZTVzlFUmxOek5HbG5UV1F4VTI5MVNuY3RURzk1VFdWelNVUXRNelEyT0RVd016YzNHaWtxSndvWVZVTklWWE5LZFMweU9WSTVOM0pUT0dreE0yTnNNbmRuRWd0TWFXaHBRakZOV2paRVl5QUJLQVF5R2dvWVZVTTRSWEZaT1ZneFMwNXBORFpGWkdSRUxXOXRXQzFST0FKSUFGQVg="
+              }
+            },
+            "contextMenuAccessibility": {
+              "accessibilityData": {
+                "label": "Chat actions"
+              }
+            },
+            "trackingParams": "CCIQ4f0GIhMIg4LG9K-pigMVefVMAh1niR3l"
+          }
+        },
+        "trackingParams": "CCEQjtEGIhMIg4LG9K-pigMVefVMAh1niR3l"
+      }
+    },
+    "authorExternalChannelId": "UC8EqY9X1KNi46EddD-omX-Q",
+    "fullDurationSec": 120,
+    "trackingParams": "CCAQ4_0GIhMIg4LG9K-pigMVefVMAh1niR3l"
+  }
+}

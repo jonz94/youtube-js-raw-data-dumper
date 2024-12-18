@@ -1,0 +1,158 @@
+{
+  "liveChatTickerPaidStickerItemRenderer": {
+    "id": "ChwKGkNPNmI3ZW5CcUlvREZVdkV3Z1FkNlFZVDJR",
+    "authorPhoto": {
+      "thumbnails": [
+        {
+          "url": "https://yt4.ggpht.com/ytc/AIdro_lmdU1tg3poJ8X_t8MFGZpZD-7nFujvA6blC4MIv7QIOBY=s32-c-k-c0x00ffffff-no-rj",
+          "width": 32,
+          "height": 32
+        },
+        {
+          "url": "https://yt4.ggpht.com/ytc/AIdro_lmdU1tg3poJ8X_t8MFGZpZD-7nFujvA6blC4MIv7QIOBY=s64-c-k-c0x00ffffff-no-rj",
+          "width": 64,
+          "height": 64
+        }
+      ],
+      "accessibility": {
+        "accessibilityData": {
+          "label": "八神光"
+        }
+      }
+    },
+    "startBackgroundColor": 4294953512,
+    "endBackgroundColor": 4294947584,
+    "durationSec": 300,
+    "fullDurationSec": 300,
+    "showItemEndpoint": {
+      "clickTrackingParams": "CAIQscgEIhMIwc_N8cGoigMV_-1MAh2NTwkk",
+      "commandMetadata": {
+        "webCommandMetadata": {
+          "ignoreNavigation": true
+        }
+      },
+      "showLiveChatItemEndpoint": {
+        "renderer": {
+          "liveChatPaidStickerRenderer": {
+            "id": "ChwKGkNPNmI3ZW5CcUlvREZVdkV3Z1FkNlFZVDJR",
+            "contextMenuEndpoint": {
+              "clickTrackingParams": "CAQQ77sEIhMIwc_N8cGoigMV_-1MAh2NTwkk",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "ignoreNavigation": true
+                }
+              },
+              "liveChatItemContextMenuEndpoint": {
+                "params": "Q2g0S0hBb2FRMDgyWWpkbGJrSnhTVzlFUmxWMlJYZG5VV1EyVVZsVU1sRWFLU29uQ2hoVlEzbHJaMEYxU1dwdU56QmZRMWhNVG1wYU9IcHdjRkVTQzBSQ1NHNXJPSGRxT0VwaklBRW9CRElhQ2hoVlF6SkZhVjh6VW5KdlpHczVUMkpxYUVSelVVMVdVVUU0QWtnQVVCUSUzRA=="
+              }
+            },
+            "contextMenuAccessibility": {
+              "accessibilityData": {
+                "label": "Chat actions"
+              }
+            },
+            "timestampUsec": "1734222400844356",
+            "authorPhoto": {
+              "thumbnails": [
+                {
+                  "url": "https://yt4.ggpht.com/ytc/AIdro_lmdU1tg3poJ8X_t8MFGZpZD-7nFujvA6blC4MIv7QIOBY=s32-c-k-c0x00ffffff-no-rj",
+                  "width": 32,
+                  "height": 32
+                },
+                {
+                  "url": "https://yt4.ggpht.com/ytc/AIdro_lmdU1tg3poJ8X_t8MFGZpZD-7nFujvA6blC4MIv7QIOBY=s64-c-k-c0x00ffffff-no-rj",
+                  "width": 64,
+                  "height": 64
+                }
+              ]
+            },
+            "authorName": {
+              "simpleText": "八神光"
+            },
+            "authorExternalChannelId": "UC2Ei_3Rrodk9ObjhDsQMVQA",
+            "sticker": {
+              "thumbnails": [
+                {
+                  "url": "//lh3.googleusercontent.com/1GF4XO0fhtEnQiPQwgLDQ49XhFOJxV7aJW3ku9eJEJptm1UwdE-vzQb4wTF5Utg5rcsSJuBY7sCkwyTLkeg=s104-rwa",
+                  "width": 104,
+                  "height": 104
+                },
+                {
+                  "url": "//lh3.googleusercontent.com/1GF4XO0fhtEnQiPQwgLDQ49XhFOJxV7aJW3ku9eJEJptm1UwdE-vzQb4wTF5Utg5rcsSJuBY7sCkwyTLkeg=s208-rwa",
+                  "width": 208,
+                  "height": 208
+                }
+              ],
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "Shiba dog dressed in a traditional outfit waving Japanese fans"
+                }
+              }
+            },
+            "authorBadges": [
+              {
+                "liveChatAuthorBadgeRenderer": {
+                  "customThumbnail": {
+                    "thumbnails": [
+                      {
+                        "url": "https://yt3.ggpht.com/Gg2DqhMA9ErDYrWzXU8V8sQkiHupa6MouS4l29dyEjnWQ2YNlWc0mvCxQrFw3KcRIPsheRRsHA=s16-c-k",
+                        "width": 16,
+                        "height": 16
+                      },
+                      {
+                        "url": "https://yt3.ggpht.com/Gg2DqhMA9ErDYrWzXU8V8sQkiHupa6MouS4l29dyEjnWQ2YNlWc0mvCxQrFw3KcRIPsheRRsHA=s32-c-k",
+                        "width": 32,
+                        "height": 32
+                      }
+                    ]
+                  },
+                  "tooltip": "Member (2 years)",
+                  "accessibility": {
+                    "accessibilityData": {
+                      "label": "Member (2 years)"
+                    }
+                  }
+                }
+              }
+            ],
+            "moneyChipBackgroundColor": 4294953512,
+            "moneyChipTextColor": 3741319168,
+            "purchaseAmountText": {
+              "simpleText": "NT$150.00"
+            },
+            "stickerDisplayWidth": 104,
+            "stickerDisplayHeight": 104,
+            "backgroundColor": 4294953512,
+            "authorNameTextColor": 2315255808,
+            "trackingParams": "CAQQ77sEIhMIwc_N8cGoigMV_-1MAh2NTwkk",
+            "isV2Style": true
+          }
+        },
+        "trackingParams": "CAMQjtEGIhMIwc_N8cGoigMV_-1MAh2NTwkk"
+      }
+    },
+    "authorExternalChannelId": "UC2Ei_3Rrodk9ObjhDsQMVQA",
+    "tickerThumbnails": [
+      {
+        "thumbnails": [
+          {
+            "url": "//lh3.googleusercontent.com/R3GMKr3HlbWPhmhZkNZ1HKOdZIMKbhC5V6pqmG-g6qaeX4Xu3_suFwHH-PnwavTjHMG5yvAmbsWi421sAw=s32-rp",
+            "width": 32,
+            "height": 32
+          },
+          {
+            "url": "//lh3.googleusercontent.com/R3GMKr3HlbWPhmhZkNZ1HKOdZIMKbhC5V6pqmG-g6qaeX4Xu3_suFwHH-PnwavTjHMG5yvAmbsWi421sAw=s64-rp",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "accessibility": {
+          "accessibilityData": {
+            "label": "Shiba Inu sticker pack"
+          }
+        }
+      }
+    ],
+    "trackingParams": "CAIQscgEIhMIwc_N8cGoigMV_-1MAh2NTwkk"
+  }
+}

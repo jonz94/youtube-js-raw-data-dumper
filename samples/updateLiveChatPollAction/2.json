@@ -1,0 +1,132 @@
+{
+  "updateLiveChatPollAction": {
+    "pollToUpdate": {
+      "pollRenderer": {
+        "choices": [
+          {
+            "text": {
+              "runs": [
+                {
+                  "text": "0"
+                }
+              ]
+            },
+            "selected": false,
+            "voteRatio": 0.8604651093482971,
+            "votePercentage": {
+              "simpleText": "86%"
+            },
+            "selectServiceEndpoint": {
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "sendPost": true,
+                  "apiUrl": "/youtubei/v1/live_chat/send_live_chat_vote"
+                }
+              },
+              "sendLiveChatVoteEndpoint": {
+                "params": "Q2lrcUp3b1lWVU55ZVdORWRqRnpXVlpIU0RWSFN6aFlRbFJZUVVKbkVnczVaMVZNTnpJeGFuQmpRUkllQ2h3S0drTkpiWGs1WkVkMWNXOXZSRVpVV0VSM1oxRmtjSFk0TUVobklnQXFHZ29ZVlVOeWVXTkVkakZ6V1ZaSFNEVkhTemhZUWxSWVFVSm5NQUU0QkVBQVNpUlZaMnQ0YTJ4SWRreEdjV3R3ZEVWdk9IUndiRWxrYWxCV05YTmZNbEoyUTFaaWJ5MCUzRA=="
+              }
+            }
+          },
+          {
+            "text": {
+              "runs": [
+                {
+                  "text": "1"
+                }
+              ]
+            },
+            "selected": false,
+            "voteRatio": 0.13953489065170288,
+            "votePercentage": {
+              "simpleText": "14%"
+            },
+            "selectServiceEndpoint": {
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "sendPost": true,
+                  "apiUrl": "/youtubei/v1/live_chat/send_live_chat_vote"
+                }
+              },
+              "sendLiveChatVoteEndpoint": {
+                "params": "Q2lrcUp3b1lWVU55ZVdORWRqRnpXVlpIU0RWSFN6aFlRbFJZUVVKbkVnczVaMVZNTnpJeGFuQmpRUkllQ2h3S0drTkpiWGs1WkVkMWNXOXZSRVpVV0VSM1oxRmtjSFk0TUVobklnSUlBU29hQ2hoVlEzSjVZMFIyTVhOWlZrZElOVWRMT0ZoQ1ZGaEJRbWN3QVRnRVFBQktKRlZuYTNocmJFaDJURVp4YTNCMFJXODRkSEJzU1dScVVGWTFjMTh5VW5aRFZtSnZMUSUzRCUzRA=="
+              }
+            }
+          }
+        ],
+        "liveChatPollId": "ChwKGkNJbXk5ZEd1cW9vREZUWER3Z1FkcHY4MEhn",
+        "header": {
+          "pollHeaderRenderer": {
+            "pollQuestion": {
+              "runs": [
+                {
+                  "text": "梅迪O是0還是1"
+                }
+              ]
+            },
+            "thumbnail": {
+              "thumbnails": [
+                {
+                  "url": "https://yt4.ggpht.com/JNiXth-3okm798GaptgT93nsAx-ZF4URVgdI1sAzG7U3gv8SirVB27nq3RPVrmn7EqCMxCdb9Q=s32-c-k-c0x00ffffff-no-rj",
+                  "width": 32,
+                  "height": 32
+                },
+                {
+                  "url": "https://yt4.ggpht.com/JNiXth-3okm798GaptgT93nsAx-ZF4URVgdI1sAzG7U3gv8SirVB27nq3RPVrmn7EqCMxCdb9Q=s64-c-k-c0x00ffffff-no-rj",
+                  "width": 64,
+                  "height": 64
+                }
+              ]
+            },
+            "metadataText": {
+              "runs": [
+                {
+                  "text": "ReLive_薇妮 Winnie"
+                },
+                {
+                  "text": " • "
+                },
+                {
+                  "text": "4h ago"
+                },
+                {
+                  "text": " • "
+                },
+                {
+                  "text": "172 votes"
+                }
+              ]
+            },
+            "liveChatPollType": "LIVE_CHAT_POLL_TYPE_CREATOR",
+            "contextMenuButton": {
+              "buttonRenderer": {
+                "icon": {
+                  "iconType": "MORE_VERT"
+                },
+                "accessibility": {
+                  "label": "Chat actions"
+                },
+                "accessibilityData": {
+                  "accessibilityData": {
+                    "label": "Chat actions"
+                  }
+                },
+                "targetId": "live-chat-action-panel-poll-context-menu",
+                "command": {
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "ignoreNavigation": true
+                    }
+                  },
+                  "liveChatItemContextMenuEndpoint": {
+                    "params": "Q2g0S0hBb2FRMGx0ZVRsa1IzVnhiMjlFUmxSWVJIZG5VV1J3ZGpnd1NHY2FLU29uQ2hoVlEzSjVZMFIyTVhOWlZrZElOVWRMT0ZoQ1ZGaEJRbWNTQ3psblZVdzNNakZxY0dOQklBRW9CRElhQ2hoVlEzSjVZMFIyTVhOWlZrZElOVWRMT0ZoQ1ZGaEJRbWM0QTBnQVVCVSUzRA=="
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

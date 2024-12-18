@@ -1,0 +1,124 @@
+{
+  "liveChatTickerSponsorItemRenderer": {
+    "id": "ChwKGkNNN0k2dkdIcW9vREZkRVRyUVlkUkVNdkpn",
+    "detailText": {
+      "runs": [
+        {
+          "text": "Member"
+        }
+      ]
+    },
+    "detailTextColor": 4294967295,
+    "startBackgroundColor": 4279213400,
+    "endBackgroundColor": 4278943811,
+    "sponsorPhoto": {
+      "thumbnails": [
+        {
+          "url": "https://yt4.ggpht.com/X7ez1wZPlBcfpzGmKYzF0D50tHcUJzh8MzWcU4128bPA6Qb9roJ3f6jxx3EkaCix-_nR8A6Mjw=s32-c-k-c0x00ffffff-no-rj",
+          "width": 32,
+          "height": 32
+        },
+        {
+          "url": "https://yt4.ggpht.com/X7ez1wZPlBcfpzGmKYzF0D50tHcUJzh8MzWcU4128bPA6Qb9roJ3f6jxx3EkaCix-_nR8A6Mjw=s64-c-k-c0x00ffffff-no-rj",
+          "width": 64,
+          "height": 64
+        }
+      ]
+    },
+    "durationSec": 300,
+    "showItemEndpoint": {
+      "clickTrackingParams": "CAIQ4v0GIhMI17mp84eqigMVpDR7Bx122wPt",
+      "commandMetadata": {
+        "webCommandMetadata": {
+          "ignoreNavigation": true
+        }
+      },
+      "showLiveChatItemEndpoint": {
+        "renderer": {
+          "liveChatMembershipItemRenderer": {
+            "id": "ChwKGkNNN0k2dkdIcW9vREZkRVRyUVlkUkVNdkpn",
+            "timestampUsec": "1734275552172785",
+            "authorExternalChannelId": "UC3IAkXgfDIEvKO_vRRoX35g",
+            "headerSubtext": {
+              "runs": [
+                {
+                  "text": "Welcome to "
+                },
+                {
+                  "text": "初ㄐㄐ貓草"
+                },
+                {
+                  "text": "!"
+                }
+              ]
+            },
+            "authorName": {
+              "simpleText": "出雲守野"
+            },
+            "authorPhoto": {
+              "thumbnails": [
+                {
+                  "url": "https://yt4.ggpht.com/X7ez1wZPlBcfpzGmKYzF0D50tHcUJzh8MzWcU4128bPA6Qb9roJ3f6jxx3EkaCix-_nR8A6Mjw=s32-c-k-c0x00ffffff-no-rj",
+                  "width": 32,
+                  "height": 32
+                },
+                {
+                  "url": "https://yt4.ggpht.com/X7ez1wZPlBcfpzGmKYzF0D50tHcUJzh8MzWcU4128bPA6Qb9roJ3f6jxx3EkaCix-_nR8A6Mjw=s64-c-k-c0x00ffffff-no-rj",
+                  "width": 64,
+                  "height": 64
+                }
+              ]
+            },
+            "authorBadges": [
+              {
+                "liveChatAuthorBadgeRenderer": {
+                  "customThumbnail": {
+                    "thumbnails": [
+                      {
+                        "url": "https://yt3.ggpht.com/ECY6ss6mnC-Ay4w1GfhDc7HiKBd9T8pSsdCIIW3DKEuWLODyt4slsjimjpp-Tdls3WQw7RwDRA=s16-c-k",
+                        "width": 16,
+                        "height": 16
+                      },
+                      {
+                        "url": "https://yt3.ggpht.com/ECY6ss6mnC-Ay4w1GfhDc7HiKBd9T8pSsdCIIW3DKEuWLODyt4slsjimjpp-Tdls3WQw7RwDRA=s32-c-k",
+                        "width": 32,
+                        "height": 32
+                      }
+                    ]
+                  },
+                  "tooltip": "New member",
+                  "accessibility": {
+                    "accessibilityData": {
+                      "label": "New member"
+                    }
+                  }
+                }
+              }
+            ],
+            "contextMenuEndpoint": {
+              "clickTrackingParams": "CAQQ4P0GIhMI17mp84eqigMVpDR7Bx122wPt",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "ignoreNavigation": true
+                }
+              },
+              "liveChatItemContextMenuEndpoint": {
+                "params": "Q2g0S0hBb2FRMDAzU1RaMlIwaHhiMjlFUm1SRlZISlJXV1JTUlUxMlNtY2FLU29uQ2hoVlF6SmFWMmRuYjI0eFRrOVVNbFJIWVZaVlRYcFpOMEVTQzNGS1pqWnZUM2RSUWs1VklBRW9CRElhQ2hoVlF6TkpRV3RZWjJaRVNVVjJTMDlmZGxKU2IxZ3pOV2M0QWtnQVVBUSUzRA=="
+              }
+            },
+            "contextMenuAccessibility": {
+              "accessibilityData": {
+                "label": "Chat actions"
+              }
+            },
+            "trackingParams": "CAQQ4P0GIhMI17mp84eqigMVpDR7Bx122wPt"
+          }
+        },
+        "trackingParams": "CAMQjtEGIhMI17mp84eqigMVpDR7Bx122wPt"
+      }
+    },
+    "authorExternalChannelId": "UC3IAkXgfDIEvKO_vRRoX35g",
+    "fullDurationSec": 300,
+    "trackingParams": "CAIQ4v0GIhMI17mp84eqigMVpDR7Bx122wPt"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "liveChatPaidMessageRenderer": {
+    "id": "ChwKGkNNQy00Nl8tcVlvREZialp3Z1FkeXQ0ZmZR",
+    "timestampUsec": "1734273013102162",
+    "authorName": {
+      "simpleText": "ZONKA"
+    },
+    "authorPhoto": {
+      "thumbnails": [
+        {
+          "url": "https://yt4.ggpht.com/mCUkUatL4kA9t5VmIdWH7kknScFXRlht9iJQfAL3lwbXFa3MMDKbUxNz6r9FIWDSqwm14qL-Lw=s32-c-k-c0x00ffffff-no-rj",
+          "width": 32,
+          "height": 32
+        },
+        {
+          "url": "https://yt4.ggpht.com/mCUkUatL4kA9t5VmIdWH7kknScFXRlht9iJQfAL3lwbXFa3MMDKbUxNz6r9FIWDSqwm14qL-Lw=s64-c-k-c0x00ffffff-no-rj",
+          "width": 64,
+          "height": 64
+        }
+      ]
+    },
+    "purchaseAmountText": {
+      "simpleText": "NT$30.00"
+    },
+    "message": {
+      "runs": [
+        {
+          "text": "當兵不是看鳥耶 是看身分證性別"
+        }
+      ]
+    },
+    "headerBackgroundColor": 4278237396,
+    "headerTextColor": 4278190080,
+    "bodyBackgroundColor": 4278248959,
+    "bodyTextColor": 4278190080,
+    "authorExternalChannelId": "UCJnf0_nvbZq5_vKh_wex5kg",
+    "authorNameTextColor": 3003121664,
+    "contextMenuEndpoint": {
+      "clickTrackingParams": "CAIQ7rsEIhMI966cuP6pigMVV_NMAh0kVQIl",
+      "commandMetadata": {
+        "webCommandMetadata": {
+          "ignoreNavigation": true
+        }
+      },
+      "liveChatItemContextMenuEndpoint": {
+        "params": "Q2g0S0hBb2FRMDFETFRRMlh5MXhXVzlFUm1KcVduZG5VV1I1ZERSbVpsRWFLU29uQ2hoVlF6SmFWMmRuYjI0eFRrOVVNbFJIWVZaVlRYcFpOMEVTQzNGS1pqWnZUM2RSUWs1VklBRW9CRElhQ2hoVlEwcHVaakJmYm5aaVduRTFYM1pMYUY5M1pYZzFhMmM0QWtnQVVBOCUzRA=="
+      }
+    },
+    "timestampColor": 2147483648,
+    "contextMenuAccessibility": {
+      "accessibilityData": {
+        "label": "Chat actions"
+      }
+    },
+    "trackingParams": "CAIQ7rsEIhMI966cuP6pigMVV_NMAh0kVQIl",
+    "authorBadges": [
+      {
+        "liveChatAuthorBadgeRenderer": {
+          "customThumbnail": {
+            "thumbnails": [
+              {
+                "url": "https://yt3.ggpht.com/c63N17h1petHz5j38ztw9NPgzFkwGZF4QLqjNtFyaoF6siJiqwSEuqaValHuKohPY7i9XBtzhw=s16-c-k",
+                "width": 16,
+                "height": 16
+              },
+              {
+                "url": "https://yt3.ggpht.com/c63N17h1petHz5j38ztw9NPgzFkwGZF4QLqjNtFyaoF6siJiqwSEuqaValHuKohPY7i9XBtzhw=s32-c-k",
+                "width": 32,
+                "height": 32
+              }
+            ]
+          },
+          "tooltip": "Member (1 year)",
+          "accessibility": {
+            "accessibilityData": {
+              "label": "Member (1 year)"
+            }
+          }
+        }
+      }
+    ],
+    "textInputBackgroundColor": 822083583,
+    "creatorHeartButton": {
+      "creatorHeartViewModel": {
+        "creatorThumbnail": {
+          "sources": [
+            {
+              "url": "https://yt3.ggpht.com/lQaEUeJlLtgioCU0npPsaYOLzg2idrzG0XY_jn-fjPOySnv4nN94U0rCTt5shavBR9brK-e6Tg=s48-c-k-c0x00ffffff-no-rj"
+            }
+          ]
+        },
+        "heartedIcon": {
+          "sources": [
+            {
+              "clientResource": {
+                "imageName": "full_heart-filled"
+              }
+            }
+          ]
+        },
+        "unheartedIcon": {
+          "sources": [
+            {
+              "clientResource": {
+                "imageName": "full_heart"
+              }
+            }
+          ],
+          "processor": {
+            "borderImageProcessor": {
+              "imageTint": {
+                "color": 4278190080
+              }
+            }
+          }
+        },
+        "heartedHoverText": "❤ by 庫洛姆•Kuromu",
+        "heartedAccessibilityLabel": "Remove heart",
+        "unheartedAccessibilityLabel": "Heart",
+        "engagementStateKey": "EktsaXZlLWNoYXQtbWVzc2FnZS1lbmdhZ2VtZW50LXN0YXRlLUNod0tHa05OUXkwME5sOHRjVmx2UkVaaWFscDNaMUZrZVhRMFptWlIgLCgB"
+      }
+    },
+    "isV2Style": true
+  }
+}

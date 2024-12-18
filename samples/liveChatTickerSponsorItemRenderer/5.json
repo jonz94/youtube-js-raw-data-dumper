@@ -1,0 +1,135 @@
+{
+  "liveChatTickerSponsorItemRenderer": {
+    "id": "Ci8KLUNJcnh1LUw2b0lvREZaTHNLQVVkUzlBQUdnLUxveU1lc0lELTM0Njg1NTg0NQ%3D%3D",
+    "detailText": {
+      "accessibility": {
+        "accessibilityData": {
+          "label": "15 months"
+        }
+      },
+      "simpleText": "15 mths"
+    },
+    "detailTextColor": 4294967295,
+    "startBackgroundColor": 4279213400,
+    "endBackgroundColor": 4278943811,
+    "sponsorPhoto": {
+      "thumbnails": [
+        {
+          "url": "https://yt4.ggpht.com/GUBFg0rUgfpO1XHNAHS6JXVbRya1Ik1YCv5QNDSa4PKcXMC3uvVvFadyvjALVTucyah7FZX11AM=s32-c-k-c0x00ffffff-no-rj",
+          "width": 32,
+          "height": 32
+        },
+        {
+          "url": "https://yt4.ggpht.com/GUBFg0rUgfpO1XHNAHS6JXVbRya1Ik1YCv5QNDSa4PKcXMC3uvVvFadyvjALVTucyah7FZX11AM=s64-c-k-c0x00ffffff-no-rj",
+          "width": 64,
+          "height": 64
+        }
+      ]
+    },
+    "durationSec": 300,
+    "showItemEndpoint": {
+      "clickTrackingParams": "CAIQ4_0GIhMI85_oy5WqigMVq-1MAh0kTgtv",
+      "commandMetadata": {
+        "webCommandMetadata": {
+          "ignoreNavigation": true
+        }
+      },
+      "showLiveChatItemEndpoint": {
+        "renderer": {
+          "liveChatMembershipItemRenderer": {
+            "id": "Ci8KLUNJcnh1LUw2b0lvREZaTHNLQVVkUzlBQUdnLUxveU1lc0lELTM0Njg1NTg0NQ%3D%3D",
+            "timestampUsec": "1734279228376921",
+            "authorExternalChannelId": "UCPbbNCUmcCG9wk82O_KElFg",
+            "headerPrimaryText": {
+              "runs": [
+                {
+                  "text": "Member for "
+                },
+                {
+                  "text": "15"
+                },
+                {
+                  "text": " months"
+                }
+              ]
+            },
+            "headerSubtext": {
+              "simpleText": "成熟ㄉ貓草 "
+            },
+            "message": {
+              "runs": [
+                {
+                  "text": "A5A5 AA 555OO"
+                }
+              ]
+            },
+            "authorName": {
+              "simpleText": "彭彭"
+            },
+            "authorPhoto": {
+              "thumbnails": [
+                {
+                  "url": "https://yt4.ggpht.com/GUBFg0rUgfpO1XHNAHS6JXVbRya1Ik1YCv5QNDSa4PKcXMC3uvVvFadyvjALVTucyah7FZX11AM=s32-c-k-c0x00ffffff-no-rj",
+                  "width": 32,
+                  "height": 32
+                },
+                {
+                  "url": "https://yt4.ggpht.com/GUBFg0rUgfpO1XHNAHS6JXVbRya1Ik1YCv5QNDSa4PKcXMC3uvVvFadyvjALVTucyah7FZX11AM=s64-c-k-c0x00ffffff-no-rj",
+                  "width": 64,
+                  "height": 64
+                }
+              ]
+            },
+            "authorBadges": [
+              {
+                "liveChatAuthorBadgeRenderer": {
+                  "customThumbnail": {
+                    "thumbnails": [
+                      {
+                        "url": "https://yt3.ggpht.com/c63N17h1petHz5j38ztw9NPgzFkwGZF4QLqjNtFyaoF6siJiqwSEuqaValHuKohPY7i9XBtzhw=s16-c-k",
+                        "width": 16,
+                        "height": 16
+                      },
+                      {
+                        "url": "https://yt3.ggpht.com/c63N17h1petHz5j38ztw9NPgzFkwGZF4QLqjNtFyaoF6siJiqwSEuqaValHuKohPY7i9XBtzhw=s32-c-k",
+                        "width": 32,
+                        "height": 32
+                      }
+                    ]
+                  },
+                  "tooltip": "Member (1 year)",
+                  "accessibility": {
+                    "accessibilityData": {
+                      "label": "Member (1 year)"
+                    }
+                  }
+                }
+              }
+            ],
+            "contextMenuEndpoint": {
+              "clickTrackingParams": "CAQQ4f0GIhMI85_oy5WqigMVq-1MAh0kTgtv",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "ignoreNavigation": true
+                }
+              },
+              "liveChatItemContextMenuEndpoint": {
+                "params": "Q2pFS0x3b3RRMGx5ZUhVdFREWnZTVzlFUmxwTWMwdEJWV1JUT1VGQlIyY3RURzk1VFdWelNVUXRNelEyT0RVMU9EUTFHaWtxSndvWVZVTXlXbGRuWjI5dU1VNVBWREpVUjJGV1ZVMTZXVGRCRWd0eFNtWTJiMDkzVVVKT1ZTQUJLQVF5R2dvWVZVTlFZbUpPUTFWdFkwTkhPWGRyT0RKUFgwdEZiRVpuT0FKSUFGQVg="
+              }
+            },
+            "contextMenuAccessibility": {
+              "accessibilityData": {
+                "label": "Chat actions"
+              }
+            },
+            "trackingParams": "CAQQ4f0GIhMI85_oy5WqigMVq-1MAh0kTgtv"
+          }
+        },
+        "trackingParams": "CAMQjtEGIhMI85_oy5WqigMVq-1MAh0kTgtv"
+      }
+    },
+    "authorExternalChannelId": "UCPbbNCUmcCG9wk82O_KElFg",
+    "fullDurationSec": 300,
+    "trackingParams": "CAIQ4_0GIhMI85_oy5WqigMVq-1MAh0kTgtv"
+  }
+}
