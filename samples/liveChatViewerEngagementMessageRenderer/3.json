@@ -1,0 +1,17 @@
+{
+  "liveChatViewerEngagementMessageRenderer": {
+    "id": "CiMKIVJFUExBWV9WRU0yMDI0LzExLzAxLTEwOjEzOjE2LjMxMA%3D%3D",
+    "timestampUsec": "1730481196310968",
+    "icon": {
+      "iconType": "YOUTUBE_ROUND"
+    },
+    "message": {
+      "runs": [
+        {
+          "text": "Live chat replay is on. Messages that appeared when the stream was live will show up here."
+        }
+      ]
+    },
+    "trackingParams": "CAEQl98BIhMIi4n159C7iQMV6chMAh0qYDmn"
+  }
+}

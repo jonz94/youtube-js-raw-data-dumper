@@ -1,0 +1,169 @@
+{
+  "liveChatPaidMessageRenderer": {
+    "id": "ChwKGkNPSzdxOUtQc1lnREZaUTByUVlkVjBvQUhn",
+    "timestampUsec": "1725722072514594",
+    "authorName": {
+      "simpleText": "機器幽浮 UFo K."
+    },
+    "authorPhoto": {
+      "thumbnails": [
+        {
+          "url": "https://yt4.ggpht.com/FGcQ2xLvPJC6hT1UY24OZkxXGrFX8v50RDVqAuAFii8azBVdb09Q-WIE02dWRWf4p6SQPwaBuw=s32-c-k-c0x00ffffff-no-rj",
+          "width": 32,
+          "height": 32
+        },
+        {
+          "url": "https://yt4.ggpht.com/FGcQ2xLvPJC6hT1UY24OZkxXGrFX8v50RDVqAuAFii8azBVdb09Q-WIE02dWRWf4p6SQPwaBuw=s64-c-k-c0x00ffffff-no-rj",
+          "width": 64,
+          "height": 64
+        }
+      ]
+    },
+    "purchaseAmountText": {
+      "simpleText": "NT$30.00"
+    },
+    "message": {
+      "runs": [
+        {
+          "text": "早知道就不賭了，每次賭大的都GG，哭了都"
+        }
+      ]
+    },
+    "headerBackgroundColor": 4278237396,
+    "headerTextColor": 4278190080,
+    "bodyBackgroundColor": 4278248959,
+    "bodyTextColor": 4278190080,
+    "authorExternalChannelId": "UCRzOuO6FflEXkgA6SnnTxSQ",
+    "authorNameTextColor": 3003121664,
+    "contextMenuEndpoint": {
+      "clickTrackingParams": "CAwQ7rsEIhMIyM6LnuqfigMVePJMAh2mCil6",
+      "commandMetadata": {
+        "webCommandMetadata": {
+          "ignoreNavigation": true
+        }
+      },
+      "liveChatItemContextMenuEndpoint": {
+        "params": "Q2g0S0hBb2FRMDlMTjNFNVMxQnpXV2RFUmxwUk1ISlJXV1JXTUc5QlNHY2FLU29uQ2hoVlF6SmFWMmRuYjI0eFRrOVVNbFJIWVZaVlRYcFpOMEVTQ3pWT1RuZHdXVU14WjBwRklBRW9CRElhQ2hoVlExSjZUM1ZQTmtabWJFVllhMmRCTmxOdWJsUjRVMUU0QWtnQlVBOCUzRA=="
+      }
+    },
+    "timestampColor": 2147483648,
+    "contextMenuAccessibility": {
+      "accessibilityData": {
+        "label": "Chat actions"
+      }
+    },
+    "timestampText": {
+      "simpleText": "1:11:26"
+    },
+    "trackingParams": "CAwQ7rsEIhMIyM6LnuqfigMVePJMAh2mCil6",
+    "headerOverlayImage": {
+      "thumbnails": [
+        {
+          "url": "https://www.gstatic.com/youtube/img/pdg/novelty/purchase_milestones/5th_purchase_milestone/5th_Purchase_Celebration_Novelty_ILSC_T2.webp",
+          "width": 130,
+          "height": 48
+        }
+      ]
+    },
+    "textInputBackgroundColor": 822083583,
+    "lowerBumper": {
+      "liveChatItemBumperViewModel": {
+        "content": {
+          "bumperUserEduContentViewModel": {
+            "text": {
+              "content": "Let's celebrate their 5th Super on a live stream",
+              "styleRuns": [
+                {
+                  "startIndex": 0,
+                  "length": 48
+                }
+              ]
+            },
+            "trackingParams": "CA8Qk5YLIhMIyM6LnuqfigMVePJMAh2mCil6",
+            "image": {
+              "sources": [
+                {
+                  "clientResource": {
+                    "imageName": "CELEBRATION",
+                    "imageColor": 4294901760
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "pdgPurchasedBumperLoggingDirectives": {
+          "loggingDirectives": {
+            "trackingParams": "CA4Q784LIhMIyM6LnuqfigMVePJMAh2mCil6",
+            "visibility": {
+              "types": "12"
+            }
+          }
+        }
+      }
+    },
+    "creatorHeartButton": {
+      "creatorHeartViewModel": {
+        "creatorThumbnail": {
+          "sources": [
+            {
+              "url": "https://yt3.ggpht.com/lQaEUeJlLtgioCU0npPsaYOLzg2idrzG0XY_jn-fjPOySnv4nN94U0rCTt5shavBR9brK-e6Tg=s48-c-k-c0x00ffffff-no-rj"
+            }
+          ]
+        },
+        "heartedIcon": {
+          "sources": [
+            {
+              "clientResource": {
+                "imageName": "full_heart-filled"
+              }
+            }
+          ]
+        },
+        "unheartedIcon": {
+          "sources": [
+            {
+              "clientResource": {
+                "imageName": "full_heart"
+              }
+            }
+          ],
+          "processor": {
+            "borderImageProcessor": {
+              "imageTint": {
+                "color": 4278190080
+              }
+            }
+          }
+        },
+        "heartedHoverText": "❤ by 庫洛姆•Kuromu",
+        "heartedAccessibilityLabel": "Remove heart",
+        "unheartedAccessibilityLabel": "Heart",
+        "engagementStateKey": "EktsaXZlLWNoYXQtbWVzc2FnZS1lbmdhZ2VtZW50LXN0YXRlLUNod0tHa05QU3pkeE9VdFFjMWxuUkVaYVVUQnlVVmxrVmpCdlFVaG4gLCgB",
+        "gradient": {
+          "sources": [
+            {
+              "url": "//youtube.com/img/pdg/gradient.png"
+            }
+          ],
+          "processor": {
+            "borderImageProcessor": {
+              "imageTint": {
+                "color": 4278248959
+              }
+            }
+          }
+        }
+      }
+    },
+    "isV2Style": true,
+    "pdgPurchasedNoveltyLoggingDirectives": {
+      "loggingDirectives": {
+        "trackingParams": "CA0Q7s4LIhMIyM6LnuqfigMVePJMAh2mCil6",
+        "visibility": {
+          "types": "12"
+        }
+      }
+    }
+  }
+}

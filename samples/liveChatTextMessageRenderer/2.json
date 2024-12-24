@@ -1,0 +1,76 @@
+{
+  "liveChatTextMessageRenderer": {
+    "message": {
+      "runs": [
+        {
+          "text": "請勿提及其他主播或與直播內容無關之話題 初犯300 次犯永BAN"
+        }
+      ]
+    },
+    "authorName": {
+      "simpleText": "StreamElements"
+    },
+    "authorPhoto": {
+      "thumbnails": [
+        {
+          "url": "https://yt4.ggpht.com/Kvz6Nw3WLI7dZ0thrEia5CAdN_Ni4EMWJ00VGICdjlmasyokS2lk5dYDndzRM4XQZr1DVLRfQds=s32-c-k-c0x00ffffff-no-rj",
+          "width": 32,
+          "height": 32
+        },
+        {
+          "url": "https://yt4.ggpht.com/Kvz6Nw3WLI7dZ0thrEia5CAdN_Ni4EMWJ00VGICdjlmasyokS2lk5dYDndzRM4XQZr1DVLRfQds=s64-c-k-c0x00ffffff-no-rj",
+          "width": 64,
+          "height": 64
+        }
+      ]
+    },
+    "contextMenuEndpoint": {
+      "clickTrackingParams": "CAEQl98BIhMI8uq9pfGrigMVC_JMAh2wowpP",
+      "commandMetadata": {
+        "webCommandMetadata": {
+          "ignoreNavigation": true
+        }
+      },
+      "liveChatItemContextMenuEndpoint": {
+        "params": "Q2g0S0hBb2FRMDFoTFRKWk0zZHhORzlFUm1OWU5teEJhMlF6VjBsMlNrRWFLU29uQ2hoVlEyOU9TME56V0RsMFUzaHBkV2c1YW5wdVdYaFlabmNTQ3poT2NVVjRURUYyUTI0d0lBRW9CRElhQ2hoVlEycGxjbXhEU1dKTVVGRjNVMjVaYkVOc2EycEVXR2M0QWtnQVVBRSUzRA=="
+      }
+    },
+    "id": "ChwKGkNNYS0yWTN3cTRvREZjWDZsQWtkM1dJdkpB",
+    "timestampUsec": "1734337887631457",
+    "authorBadges": [
+      {
+        "liveChatAuthorBadgeRenderer": {
+          "icon": {
+            "iconType": "VERIFIED"
+          },
+          "tooltip": "Verified",
+          "accessibility": {
+            "accessibilityData": {
+              "label": "Verified"
+            }
+          }
+        }
+      },
+      {
+        "liveChatAuthorBadgeRenderer": {
+          "icon": {
+            "iconType": "MODERATOR"
+          },
+          "tooltip": "Moderator",
+          "accessibility": {
+            "accessibilityData": {
+              "label": "Moderator"
+            }
+          }
+        }
+      }
+    ],
+    "authorExternalChannelId": "UCjerlCIbLPQwSnYlClkjDXg",
+    "contextMenuAccessibility": {
+      "accessibilityData": {
+        "label": "Chat actions"
+      }
+    },
+    "trackingParams": "CAEQl98BIhMI8uq9pfGrigMVC_JMAh2wowpP"
+  }
+}

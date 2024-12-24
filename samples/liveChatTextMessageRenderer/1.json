@@ -1,0 +1,77 @@
+{
+  "liveChatTextMessageRenderer": {
+    "message": {
+      "runs": [
+        {
+          "text": "嫩 "
+        }
+      ]
+    },
+    "authorName": {
+      "simpleText": "ùwú"
+    },
+    "authorPhoto": {
+      "thumbnails": [
+        {
+          "url": "https://yt4.ggpht.com/ytc/AIdro_k1IuACuxzZhNjtZ2wv7NVcvzDTOy60pZM3jMnX2S3rRRQ=s32-c-k-c0x00ffffff-no-rj",
+          "width": 32,
+          "height": 32
+        },
+        {
+          "url": "https://yt4.ggpht.com/ytc/AIdro_k1IuACuxzZhNjtZ2wv7NVcvzDTOy60pZM3jMnX2S3rRRQ=s64-c-k-c0x00ffffff-no-rj",
+          "width": 64,
+          "height": 64
+        }
+      ]
+    },
+    "contextMenuEndpoint": {
+      "clickTrackingParams": "CAEQl98BIhMIpaqtp-qfigMVXfJMAh31xQ1m",
+      "commandMetadata": {
+        "webCommandMetadata": {
+          "ignoreNavigation": true
+        }
+      },
+      "liveChatItemContextMenuEndpoint": {
+        "params": "Q2g0S0hBb2FRMHd6Vkc1UVExTnpXV2RFUm1SZlFuZG5VV1JGUlRCWVpFRWFLU29uQ2hoVlF6SmFWMmRuYjI0eFRrOVVNbFJIWVZaVlRYcFpOMEVTQ3pWT1RuZHdXVU14WjBwRklBRW9CRElhQ2hoVlExOUxXR2N4TUVKeFEyUTBTbEJ4UkRWSmRIWmlabEU0QWtnQlVBRSUzRA=="
+      }
+    },
+    "id": "ChwKGkNMM1RuUENTc1lnREZkX0J3Z1FkRUUwWGRB",
+    "timestampUsec": "1725722926731120",
+    "authorBadges": [
+      {
+        "liveChatAuthorBadgeRenderer": {
+          "customThumbnail": {
+            "thumbnails": [
+              {
+                "url": "https://yt3.ggpht.com/X9RkCDxc0D7OtVbbJAxZGXbV4-PZw0cg2h_Vg1C6ahIVaYrcTubP1WF3313-LjKz9PRHgY_fVw=s16-c-k",
+                "width": 16,
+                "height": 16
+              },
+              {
+                "url": "https://yt3.ggpht.com/X9RkCDxc0D7OtVbbJAxZGXbV4-PZw0cg2h_Vg1C6ahIVaYrcTubP1WF3313-LjKz9PRHgY_fVw=s32-c-k",
+                "width": 32,
+                "height": 32
+              }
+            ]
+          },
+          "tooltip": "Member (6 months)",
+          "accessibility": {
+            "accessibilityData": {
+              "label": "Member (6 months)"
+            }
+          }
+        }
+      }
+    ],
+    "authorExternalChannelId": "UC_KXg10BqCd4JPqD5ItvbfQ",
+    "contextMenuAccessibility": {
+      "accessibilityData": {
+        "label": "Chat actions"
+      }
+    },
+    "timestampText": {
+      "simpleText": "1:25:40"
+    },
+    "trackingParams": "CAEQl98BIhMIpaqtp-qfigMVXfJMAh31xQ1m"
+  }
+}
