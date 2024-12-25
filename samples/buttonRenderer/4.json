@@ -1,0 +1,16 @@
+{
+  "buttonRenderer": {
+    "style": "STYLE_MONO_FILLED",
+    "size": "SIZE_DEFAULT",
+    "isDisabled": false,
+    "text": {
+      "simpleText": "Got it"
+    },
+    "trackingParams": "CEkQ8FsiEwiQlJ7Zt76JAxXruFYBHb4hGR0=",
+    "accessibilityData": {
+      "accessibilityData": {
+        "label": "Got it"
+      }
+    }
+  }
+}

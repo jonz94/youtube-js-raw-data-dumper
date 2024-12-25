@@ -1,0 +1,26 @@
+{
+  "buttonRenderer": {
+    "style": "STYLE_DEFAULT",
+    "size": "SIZE_DEFAULT",
+    "isDisabled": false,
+    "text": {
+      "runs": [
+        {
+          "text": "Go now"
+        }
+      ]
+    },
+    "command": {
+      "commandMetadata": {
+        "webCommandMetadata": {
+          "url": "/watch?v=U9xhA27lySE",
+          "webPageType": "WEB_PAGE_TYPE_WATCH",
+          "rootVe": 3832
+        }
+      },
+      "watchEndpoint": {
+        "videoId": "U9xhA27lySE"
+      }
+    }
+  }
+}

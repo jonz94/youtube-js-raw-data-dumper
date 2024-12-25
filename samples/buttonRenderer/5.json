@@ -1,0 +1,26 @@
+{
+  "buttonRenderer": {
+    "icon": {
+      "iconType": "MORE_VERT"
+    },
+    "accessibility": {
+      "label": "Chat actions"
+    },
+    "accessibilityData": {
+      "accessibilityData": {
+        "label": "Chat actions"
+      }
+    },
+    "targetId": "live-chat-action-panel-poll-context-menu",
+    "command": {
+      "commandMetadata": {
+        "webCommandMetadata": {
+          "ignoreNavigation": true
+        }
+      },
+      "liveChatItemContextMenuEndpoint": {
+        "params": "Q2g0S0hBb2FRMGx0ZVRsa1IzVnhiMjlFUmxSWVJIZG5VV1J3ZGpnd1NHY2FLU29uQ2hoVlEzSjVZMFIyTVhOWlZrZElOVWRMT0ZoQ1ZGaEJRbWNTQ3psblZVdzNNakZxY0dOQklBRW9CRElhQ2hoVlEzSjVZMFIyTVhOWlZrZElOVWRMT0ZoQ1ZGaEJRbWM0QTBnQVVCVSUzRA=="
+      }
+    }
+  }
+}

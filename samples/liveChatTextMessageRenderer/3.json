@@ -1,0 +1,110 @@
+{
+  "liveChatTextMessageRenderer": {
+    "message": {
+      "runs": [
+        {
+          "text": "寶可夢奇怪的分類"
+        }
+      ]
+    },
+    "authorName": {
+      "simpleText": "devil_555"
+    },
+    "authorPhoto": {
+      "thumbnails": [
+        {
+          "url": "https://yt4.ggpht.com/omT8fLnKXKa8AmhsvXe3gzbL1ke-iRx0RoZnsNe6i94fV8ox129Vy5jiR8Q6cH7ziJPbRxfNiQ=s32-c-k-c0x00ffffff-no-rj",
+          "width": 32,
+          "height": 32
+        },
+        {
+          "url": "https://yt4.ggpht.com/omT8fLnKXKa8AmhsvXe3gzbL1ke-iRx0RoZnsNe6i94fV8ox129Vy5jiR8Q6cH7ziJPbRxfNiQ=s64-c-k-c0x00ffffff-no-rj",
+          "width": 64,
+          "height": 64
+        }
+      ]
+    },
+    "contextMenuEndpoint": {
+      "clickTrackingParams": "CAEQl98BIhMI9f3y05OuigMVZ_JMAh3gHQ88",
+      "commandMetadata": {
+        "webCommandMetadata": {
+          "ignoreNavigation": true
+        }
+      },
+      "liveChatItemContextMenuEndpoint": {
+        "params": "Q2g0S0hBb2FRMHhQUnpaYUxYZG9TVzlFUm1KcVVIZG5VV1J2ZEZGcWVIY2FLU29uQ2hoVlF6SmFWMmRuYjI0eFRrOVVNbFJIWVZaVlRYcFpOMEVTQzJWc04zRnhNRmhqYmpCTklBRW9CRElhQ2hoVlExOU5NR0pKZEZKcFgzQklURXRVVERKU1NsTm5WVUU0QWtnQlVBRSUzRA=="
+      }
+    },
+    "id": "ChwKGkNMT0c2Wi13aElvREZialB3Z1Fkb3RRanh3",
+    "timestampUsec": "1732980716050051",
+    "authorBadges": [
+      {
+        "liveChatAuthorBadgeRenderer": {
+          "customThumbnail": {
+            "thumbnails": [
+              {
+                "url": "https://yt3.ggpht.com/ECY6ss6mnC-Ay4w1GfhDc7HiKBd9T8pSsdCIIW3DKEuWLODyt4slsjimjpp-Tdls3WQw7RwDRA=s16-c-k",
+                "width": 16,
+                "height": 16
+              },
+              {
+                "url": "https://yt3.ggpht.com/ECY6ss6mnC-Ay4w1GfhDc7HiKBd9T8pSsdCIIW3DKEuWLODyt4slsjimjpp-Tdls3WQw7RwDRA=s32-c-k",
+                "width": 32,
+                "height": 32
+              }
+            ]
+          },
+          "tooltip": "New member",
+          "accessibility": {
+            "accessibilityData": {
+              "label": "New member"
+            }
+          }
+        }
+      }
+    ],
+    "authorExternalChannelId": "UC_M0bItRi_pHLKTL2RJSgUA",
+    "contextMenuAccessibility": {
+      "accessibilityData": {
+        "label": "Chat actions"
+      }
+    },
+    "timestampText": {
+      "simpleText": "1:29:26"
+    },
+    "trackingParams": "CAEQl98BIhMI9f3y05OuigMVZ_JMAh3gHQ88",
+    "beforeContentButtons": [
+      {
+        "buttonViewModel": {
+          "iconName": "MESSAGE",
+          "title": "睡白鼠",
+          "onTap": {
+            "innertubeCommand": {
+              "clickTrackingParams": "CAIQ8FsYcSITCPX98tOTrooDFWfyTAId4B0PPA==",
+              "showEngagementPanelEndpoint": {
+                "identifier": {
+                  "surface": "ENGAGEMENT_PANEL_SURFACE_LIVE_CHAT",
+                  "tag": "PAreply_thread"
+                },
+                "globalConfiguration": {
+                  "params": "ggm2AQojVWd6ZUZfeEFyOHZUcWl6V19HTjRBYUFCRHFnQjktdnBpUUkSVgopKicKGFVDMlpXZ2dvbjFOT1QyVEdhVlVNelk3QRILZWw3cXEwWGNuME0QARgEIAE6I1VnemVGX3hBcjh2VHFpeldfR040QWFBQkRxZ0I5LXZwaVFJGgggALABAPgBACIpKicKGFVDMlpXZ2dvbjFOT1QyVEdhVlVNelk3QRILZWw3cXEwWGNuME0oATAB"
+                },
+                "engagementPanelPresentationConfigs": {
+                  "engagementPanelPopupPresentationConfig": {
+                    "popupType": "PANEL_POPUP_TYPE_DIALOG"
+                  }
+                }
+              }
+            }
+          },
+          "trackingParams": "CAIQ8FsYcSITCPX98tOTrooDFWfyTAId4B0PPA==",
+          "type": "BUTTON_VIEW_MODEL_TYPE_TONAL",
+          "buttonSize": "BUTTON_VIEW_MODEL_SIZE_XSMALL",
+          "iconTrailing": true,
+          "customBackgroundColor": 4293271831,
+          "customFontColor": 4294967295
+        }
+      }
+    ]
+  }
+}
