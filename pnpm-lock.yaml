@@ -15,8 +15,8 @@ importers:
         specifier: ^16.4.7
         version: 16.4.7
       youtubei.js:
-        specifier: https://pkg.pr.new/jonz94/YouTube.js/youtubei.js@268deb9
-        version: https://pkg.pr.new/jonz94/YouTube.js/youtubei.js@268deb9
+        specifier: https://pkg.pr.new/jonz94/YouTube.js/youtubei.js@ccf3f57
+        version: https://pkg.pr.new/jonz94/YouTube.js/youtubei.js@ccf3f57
     devDependencies:
       '@types/node':
         specifier: ^22.10.2
@@ -326,8 +326,8 @@ packages:
     resolution: {integrity: sha512-72RFADWFqKmUb2hmmvNODKL3p9hcB6Gt2DOQMis1SEBaV6a4MH8soBvzg+95CYhCKPFedut2JY9bMfrDl9D23g==}
     engines: {node: '>=14.0'}
 
-  youtubei.js@https://pkg.pr.new/jonz94/YouTube.js/youtubei.js@268deb9:
-    resolution: {tarball: https://pkg.pr.new/jonz94/YouTube.js/youtubei.js@268deb9}
+  youtubei.js@https://pkg.pr.new/jonz94/YouTube.js/youtubei.js@ccf3f57:
+    resolution: {tarball: https://pkg.pr.new/jonz94/YouTube.js/youtubei.js@ccf3f57}
     version: 12.2.0
 
 snapshots:
@@ -536,7 +536,7 @@ snapshots:
     dependencies:
       '@fastify/busboy': 2.1.1
 
-  youtubei.js@https://pkg.pr.new/jonz94/YouTube.js/youtubei.js@268deb9:
+  youtubei.js@https://pkg.pr.new/jonz94/YouTube.js/youtubei.js@ccf3f57:
     dependencies:
       '@bufbuild/protobuf': 2.2.3
       jintr: 3.2.0
