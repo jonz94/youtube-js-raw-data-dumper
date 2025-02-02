@@ -13,7 +13,7 @@
     "youtubei.js": "https://pkg.pr.new/jonz94/YouTube.js/youtubei.js@ccf3f57"
   },
   "devDependencies": {
-    "@types/node": "^22.10.7",
+    "@types/node": "^22.13.0",
     "prettier": "^3.4.2",
     "prettier-plugin-organize-imports": "^4.1.0",
     "prettier-plugin-packagejson": "^2.5.8",
